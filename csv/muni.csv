@@ -1,0 +1,8100 @@
+id;value;parent
+1;Alegría-Dulantzi;1
+2;Amurrio;1
+3;Añana;1
+4;Aramaio;1
+5;Armiñón;1
+6;Arraia-Maeztu;1
+7;Arrazua-Ubarrundia;1
+8;Artziniega;1
+9;Asparrena;1
+10;Ayala/Aiara;1
+11;Baños de Ebro/Mañueta;1
+12;Barrundia;1
+13;Berantevilla;1
+14;Bernedo;1
+15;Campezo/Kanpezu;1
+16;Elburgo/Burgelu;1
+17;Elciego;1
+18;Elvillar/Bilar;1
+19;Erriberagoitia/Ribera Alta;1
+20;Harana/Valle de Arana;1
+21;Iruña Oka/Iruña de Oca;1
+22;Iruraiz-Gauna;1
+23;Kripan;1
+24;Kuartango;1
+25;Labastida/Bastida;1
+26;Lagrán;1
+27;Laguardia;1
+28;Lanciego/Lantziego;1
+29;Lantarón;1
+30;Lapuebla de Labarca;1
+31;Laudio/Llodio;1
+32;Legutio;1
+33;Leza;1
+34;Moreda de Álava;1
+35;Navaridas;1
+36;Okondo;1
+37;Oyón-Oion;1
+38;Peñacerrada-Urizaharra;1
+39;Ribera Baja/Erribera Beitia;1
+40;Salvatierra/Agurain;1
+41;Samaniego;1
+42;San Millán/Donemiliaga;1
+43;Urkabustaiz;1
+44;Valdegovía/Gaubea;1
+45;Villabuena de Álava/Eskuernaga;1
+46;Vitoria-Gasteiz;1
+47;Yécora/Iekora;1
+48;Zalduondo;1
+49;Zambrana;1
+50;Zigoitia;1
+51;Zuia;1
+52;Abengibre;2
+53;Alatoz;2
+54;Albacete;2
+55;Albatana;2
+56;Alborea;2
+57;Alcadozo;2
+58;Alcalá del Júcar;2
+59;Alcaraz;2
+60;Almansa;2
+61;Alpera;2
+62;Ayna;2
+63;Balazote;2
+64;Ballestero, El;2
+65;Balsa de Ves;2
+66;Barrax;2
+67;Bienservida;2
+68;Bogarra;2
+69;Bonete;2
+70;Bonillo, El;2
+71;Carcelén;2
+72;Casas de Juan Núñez;2
+73;Casas de Lázaro;2
+74;Casas de Ves;2
+75;Casas-Ibáñez;2
+76;Caudete;2
+77;Cenizate;2
+78;Chinchilla de Monte-Aragón;2
+79;Corral-Rubio;2
+80;Cotillas;2
+81;Elche de la Sierra;2
+82;Férez;2
+83;Fuensanta;2
+84;Fuente-Álamo;2
+85;Fuentealbilla;2
+86;Gineta, La;2
+87;Golosalvo;2
+88;Hellín;2
+89;Herrera, La;2
+90;Higueruela;2
+91;Hoya-Gonzalo;2
+92;Jorquera;2
+93;Letur;2
+94;Lezuza;2
+95;Liétor;2
+96;Madrigueras;2
+97;Mahora;2
+98;Masegoso;2
+99;Minaya;2
+100;Molinicos;2
+101;Montalvos;2
+102;Montealegre del Castillo;2
+103;Motilleja;2
+104;Munera;2
+105;Navas de Jorquera;2
+106;Nerpio;2
+107;Ontur;2
+108;Ossa de Montiel;2
+109;Paterna del Madera;2
+110;Peñas de San Pedro;2
+111;Peñascosa;2
+112;Pétrola;2
+113;Povedilla;2
+114;Pozo Cañada;2
+115;Pozohondo;2
+116;Pozo-Lorente;2
+117;Pozuelo;2
+118;Recueja, La;2
+119;Riópar;2
+120;Robledo;2
+121;Roda, La;2
+122;Salobre;2
+123;San Pedro;2
+124;Socovos;2
+125;Tarazona de la Mancha;2
+126;Tobarra;2
+127;Valdeganga;2
+128;Vianos;2
+129;Villa de Ves;2
+130;Villalgordo del Júcar;2
+131;Villamalea;2
+132;Villapalacios;2
+133;Villarrobledo;2
+134;Villatoya;2
+135;Villavaliente;2
+136;Villaverde de Guadalimar;2
+137;Viveros;2
+138;Yeste;2
+139;Adsubia;3
+140;Agost;3
+141;Agres;3
+142;Aigües;3
+143;Albatera;3
+144;Alcalalí;3
+145;Alcocer de Planes;3
+146;Alcoleja;3
+147;Alcoy/Alcoi;3
+148;Alfafara;3
+149;Alfàs del Pi, l';3
+150;Algorfa;3
+151;Algueña;3
+152;Alicante/Alacant;3
+153;Almoradí;3
+154;Almudaina;3
+155;Alqueria d'Asnar, l';3
+156;Altea;3
+157;Aspe;3
+158;Balones;3
+159;Banyeres de Mariola;3
+160;Benasau;3
+161;Beneixama;3
+162;Benejúzar;3
+163;Benferri;3
+164;Beniarbeig;3
+165;Beniardá;3
+166;Beniarrés;3
+167;Benidoleig;3
+168;Benidorm;3
+169;Benifallim;3
+170;Benifato;3
+171;Benigembla;3
+172;Benijófar;3
+173;Benilloba;3
+174;Benillup;3
+175;Benimantell;3
+176;Benimarfull;3
+177;Benimassot;3
+178;Benimeli;3
+179;Benissa;3
+180;Benitachell/Poble Nou de Benitatxell, el;3
+181;Biar;3
+182;Bigastro;3
+183;Bolulla;3
+184;Busot;3
+185;Callosa de Segura;3
+186;Callosa d'En Sarrià;3
+187;Calp;3
+188;Campello, el;3
+189;Campo de Mirra/Camp de Mirra, el;3
+190;Cañada;3
+191;Castalla;3
+192;Castell de Castells;3
+193;Castell de Guadalest, el;3
+194;Catral;3
+195;Cocentaina;3
+196;Confrides;3
+197;Cox;3
+198;Crevillent;3
+199;Daya Nueva;3
+200;Daya Vieja;3
+201;Dénia;3
+202;Dolores;3
+203;Elche/Elx;3
+204;Elda;3
+205;Facheca;3
+206;Famorca;3
+207;Finestrat;3
+208;Fondó de les Neus, el/Hondón de las Nieves;3
+209;Formentera del Segura;3
+210;Gaianes;3
+211;Gata de Gorgos;3
+212;Gorga;3
+213;Granja de Rocamora;3
+214;Guardamar del Segura;3
+215;Hondón de los Frailes;3
+216;Ibi;3
+217;Jacarilla;3
+218;Jávea/Xàbia;3
+219;Jijona/Xixona;3
+220;Llíber;3
+221;Lorcha/Orxa, l';3
+222;Millena;3
+223;Monforte del Cid;3
+224;Monóvar/Monòver;3
+225;Montesinos, Los;3
+226;Murla;3
+227;Muro de Alcoy;3
+228;Mutxamel;3
+229;Novelda;3
+230;Nucia, la;3
+231;Ondara;3
+232;Onil;3
+233;Orba;3
+234;Orihuela;3
+235;Orxeta;3
+236;Parcent;3
+237;Pedreguer;3
+238;Pego;3
+239;Penàguila;3
+240;Petrer;3
+241;Pilar de la Horadada;3
+242;Pinós, el/Pinoso;3
+243;Planes;3
+244;Poblets, els;3
+245;Polop;3
+246;Quatretondeta;3
+247;Rafal;3
+248;Ràfol d'Almúnia, el;3
+249;Redován;3
+250;Relleu;3
+251;Rojales;3
+252;Romana, la;3
+253;Sagra;3
+254;Salinas;3
+255;San Fulgencio;3
+256;San Isidro;3
+257;San Miguel de Salinas;3
+258;San Vicente del Raspeig/Sant Vicent del Raspeig;3
+259;Sanet y Negrals;3
+260;Sant Joan d'Alacant;3
+261;Santa Pola;3
+262;Sax;3
+263;Sella;3
+264;Senija;3
+265;Tàrbena;3
+266;Teulada;3
+267;Tibi;3
+268;Tollos;3
+269;Tormos;3
+270;Torremanzanas/Torre de les Maçanes, la;3
+271;Torrevieja;3
+272;Vall d'Alcalà, la;3
+273;Vall de Gallinera;3
+274;Vall de Laguar, la;3
+275;Vall d'Ebo, la;3
+276;Verger, el;3
+277;Villajoyosa/Vila Joiosa, la;3
+278;Villena;3
+279;Xaló;3
+280;Abla;4
+281;Abrucena;4
+282;Adra;4
+283;Albánchez;4
+284;Alboloduy;4
+285;Albox;4
+286;Alcolea;4
+287;Alcóntar;4
+288;Alcudia de Monteagud;4
+289;Alhabia;4
+290;Alhama de Almería;4
+291;Alicún;4
+292;Almería;4
+293;Almócita;4
+294;Alsodux;4
+295;Antas;4
+296;Arboleas;4
+297;Armuña de Almanzora;4
+298;Bacares;4
+299;Bayárcal;4
+300;Bayarque;4
+301;Bédar;4
+302;Beires;4
+303;Benahadux;4
+304;Benitagla;4
+305;Benizalón;4
+306;Bentarique;4
+307;Berja;4
+308;Canjáyar;4
+309;Cantoria;4
+310;Carboneras;4
+311;Castro de Filabres;4
+312;Chercos;4
+313;Chirivel;4
+314;Cóbdar;4
+315;Cuevas del Almanzora;4
+316;Dalías;4
+317;Ejido, El;4
+318;Enix;4
+319;Felix;4
+320;Fines;4
+321;Fiñana;4
+322;Fondón;4
+323;Gádor;4
+324;Gallardos, Los;4
+325;Garrucha;4
+326;Gérgal;4
+327;Huécija;4
+328;Huércal de Almería;4
+329;Huércal-Overa;4
+330;Illar;4
+331;Instinción;4
+332;Laroya;4
+333;Láujar de Andarax;4
+334;Líjar;4
+335;Lubrín;4
+336;Lucainena de las Torres;4
+337;Lúcar;4
+338;Macael;4
+339;María;4
+340;Mojácar;4
+341;Mojonera, La;4
+342;Nacimiento;4
+343;Níjar;4
+344;Ohanes;4
+345;Olula de Castro;4
+346;Olula del Río;4
+347;Oria;4
+348;Padules;4
+349;Partaloa;4
+350;Paterna del Río;4
+351;Pechina;4
+352;Pulpí;4
+353;Purchena;4
+354;Rágol;4
+355;Rioja;4
+356;Roquetas de Mar;4
+357;Santa Cruz de Marchena;4
+358;Santa Fe de Mondújar;4
+359;Senés;4
+360;Serón;4
+361;Sierro;4
+362;Somontín;4
+363;Sorbas;4
+364;Suflí;4
+365;Tabernas;4
+366;Taberno;4
+367;Tahal;4
+368;Terque;4
+369;Tíjola;4
+370;Tres Villas, Las;4
+371;Turre;4
+372;Turrillas;4
+373;Uleila del Campo;4
+374;Urrácal;4
+375;Velefique;4
+376;Vélez-Blanco;4
+377;Vélez-Rubio;4
+378;Vera;4
+379;Viator;4
+380;Vícar;4
+381;Zurgena;4
+382;Adanero;5
+383;Adrada, La;5
+384;Albornos;5
+385;Aldeanueva de Santa Cruz;5
+386;Aldeaseca;5
+387;Aldehuela, La;5
+388;Amavida;5
+389;Arenal, El;5
+390;Arenas de San Pedro;5
+391;Arevalillo;5
+392;Arévalo;5
+393;Aveinte;5
+394;Avellaneda;5
+395;Ávila;5
+396;Barco de Ávila, El;5
+397;Barraco, El;5
+398;Barromán;5
+399;Becedas;5
+400;Becedillas;5
+401;Bercial de Zapardiel;5
+402;Berlanas, Las;5
+403;Bernuy-Zapardiel;5
+404;Berrocalejo de Aragona;5
+405;Blascomillán;5
+406;Blasconuño de Matacabras;5
+407;Blascosancho;5
+408;Bohodón, El;5
+409;Bohoyo;5
+410;Bonilla de la Sierra;5
+411;Brabos;5
+412;Bularros;5
+413;Burgohondo;5
+414;Cabezas de Alambre;5
+415;Cabezas del Pozo;5
+416;Cabezas del Villar;5
+417;Cabizuela;5
+418;Canales;5
+419;Candeleda;5
+420;Cantiveros;5
+421;Cardeñosa;5
+422;Carrera, La;5
+423;Casas del Puerto;5
+424;Casasola;5
+425;Casavieja;5
+426;Casillas;5
+427;Castellanos de Zapardiel;5
+428;Cebreros;5
+429;Cepeda la Mora;5
+430;Chamartín;5
+431;Cillán;5
+432;Cisla;5
+433;Colilla, La;5
+434;Collado de Contreras;5
+435;Collado del Mirón;5
+436;Constanzana;5
+437;Crespos;5
+438;Cuevas del Valle;5
+439;Diego del Carpio;5
+440;Donjimeno;5
+441;Donvidas;5
+442;Espinosa de los Caballeros;5
+443;Flores de Ávila;5
+444;Fontiveros;5
+445;Fresnedilla;5
+446;Fresno, El;5
+447;Fuente el Saúz;5
+448;Fuentes de Año;5
+449;Gallegos de Altamiros;5
+450;Gallegos de Sobrinos;5
+451;Garganta del Villar;5
+452;Gavilanes;5
+453;Gemuño;5
+454;Gil García;5
+455;Gilbuena;5
+456;Gimialcón;5
+457;Gotarrendura;5
+458;Grandes y San Martín;5
+459;Guisando;5
+460;Gutierre-Muñoz;5
+461;Hernansancho;5
+462;Herradón de Pinares;5
+463;Herreros de Suso;5
+464;Higuera de las Dueñas;5
+465;Hija de Dios, La;5
+466;Horcajada, La;5
+467;Horcajo de las Torres;5
+468;Hornillo, El;5
+469;Hoyo de Pinares, El;5
+470;Hoyocasero;5
+471;Hoyorredondo;5
+472;Hoyos de Miguel Muñoz;5
+473;Hoyos del Collado;5
+474;Hoyos del Espino;5
+475;Hurtumpascual;5
+476;Junciana;5
+477;Langa;5
+478;Lanzahíta;5
+479;Llanos de Tormes, Los;5
+480;Losar del Barco, El;5
+481;Madrigal de las Altas Torres;5
+482;Maello;5
+483;Malpartida de Corneja;5
+484;Mamblas;5
+485;Mancera de Arriba;5
+486;Manjabálago;5
+487;Marlín;5
+488;Martiherrero;5
+489;Martínez;5
+490;Mediana de Voltoya;5
+491;Medinilla;5
+492;Mengamuñoz;5
+493;Mesegar de Corneja;5
+494;Mijares;5
+495;Mingorría;5
+496;Mirón, El;5
+497;Mironcillo;5
+498;Mirueña de los Infanzones;5
+499;Mombeltrán;5
+500;Monsalupe;5
+501;Moraleja de Matacabras;5
+502;Muñana;5
+503;Muñico;5
+504;Muñogalindo;5
+505;Muñogrande;5
+506;Muñomer del Peco;5
+507;Muñopepe;5
+508;Muñosancho;5
+509;Muñotello;5
+510;Narrillos del Álamo;5
+511;Narrillos del Rebollar;5
+512;Narros de Saldueña;5
+513;Narros del Castillo;5
+514;Narros del Puerto;5
+515;Nava de Arévalo;5
+516;Nava del Barco;5
+517;Navacepedilla de Corneja;5
+518;Navadijos;5
+519;Navaescurial;5
+520;Navahondilla;5
+521;Navalacruz;5
+522;Navalmoral;5
+523;Navalonguilla;5
+524;Navalosa;5
+525;Navalperal de Pinares;5
+526;Navalperal de Tormes;5
+527;Navaluenga;5
+528;Navaquesera;5
+529;Navarredonda de Gredos;5
+530;Navarredondilla;5
+531;Navarrevisca;5
+532;Navas del Marqués, Las;5
+533;Navatalgordo;5
+534;Navatejares;5
+535;Neila de San Miguel;5
+536;Niharra;5
+537;Ojos-Albos;5
+538;Orbita;5
+539;Oso, El;5
+540;Padiernos;5
+541;Pajares de Adaja;5
+542;Palacios de Goda;5
+543;Papatrigo;5
+544;Parral, El;5
+545;Pascualcobo;5
+546;Pedro Bernardo;5
+547;Pedro-Rodríguez;5
+548;Peguerinos;5
+549;Peñalba de Ávila;5
+550;Piedrahíta;5
+551;Piedralaves;5
+552;Poveda;5
+553;Poyales del Hoyo;5
+554;Pozanco;5
+555;Pradosegar;5
+556;Puerto Castilla;5
+557;Rasueros;5
+558;Riocabado;5
+559;Riofrío;5
+560;Rivilla de Barajas;5
+561;Salobral;5
+562;Salvadiós;5
+563;San Bartolomé de Béjar;5
+564;San Bartolomé de Corneja;5
+565;San Bartolomé de Pinares;5
+566;San Esteban de los Patos;5
+567;San Esteban de Zapardiel;5
+568;San Esteban del Valle;5
+569;San García de Ingelmos;5
+570;San Juan de Gredos;5
+571;San Juan de la Encinilla;5
+572;San Juan de la Nava;5
+573;San Juan del Molinillo;5
+574;San Juan del Olmo;5
+575;San Lorenzo de Tormes;5
+576;San Martín de la Vega del Alberche;5
+577;San Martín del Pimpollar;5
+578;San Miguel de Corneja;5
+579;San Miguel de Serrezuela;5
+580;San Pascual;5
+581;San Pedro del Arroyo;5
+582;San Vicente de Arévalo;5
+583;Sanchidrián;5
+584;Sanchorreja;5
+585;Santa Cruz de Pinares;5
+586;Santa Cruz del Valle;5
+587;Santa María de los Caballeros;5
+588;Santa María del Arroyo;5
+589;Santa María del Berrocal;5
+590;Santa María del Cubillo;5
+591;Santa María del Tiétar;5
+592;Santiago del Collado;5
+593;Santiago del Tormes;5
+594;Santo Domingo de las Posadas;5
+595;Santo Tomé de Zabarcos;5
+596;Serrada, La;5
+597;Serranillos;5
+598;Sigeres;5
+599;Sinlabajos;5
+600;Solana de Ávila;5
+601;Solana de Rioalmar;5
+602;Solosancho;5
+603;Sotalbo;5
+604;Sotillo de la Adrada;5
+605;Tiemblo, El;5
+606;Tiñosillos;5
+607;Tolbaños;5
+608;Tormellas;5
+609;Tornadizos de Ávila;5
+610;Torre, La;5
+611;Tórtoles;5
+612;Umbrías;5
+613;Vadillo de la Sierra;5
+614;Valdecasa;5
+615;Vega de Santa María;5
+616;Velayos;5
+617;Villaflor;5
+618;Villafranca de la Sierra;5
+619;Villanueva de Ávila;5
+620;Villanueva de Gómez;5
+621;Villanueva del Aceral;5
+622;Villanueva del Campillo;5
+623;Villar de Corneja;5
+624;Villarejo del Valle;5
+625;Villatoro;5
+626;Viñegra de Moraña;5
+627;Vita;5
+628;Zapardiel de la Cañada;5
+629;Zapardiel de la Ribera;5
+630;Acedera;6
+631;Aceuchal;6
+632;Ahillones;6
+633;Alange;6
+634;Albuera, La;6
+635;Alburquerque;6
+636;Alconchel;6
+637;Alconera;6
+638;Aljucén;6
+639;Almendral;6
+640;Almendralejo;6
+641;Arroyo de San Serván;6
+642;Atalaya;6
+643;Azuaga;6
+644;Badajoz;6
+645;Barcarrota;6
+646;Baterno;6
+647;Benquerencia de la Serena;6
+648;Berlanga;6
+649;Bienvenida;6
+650;Bodonal de la Sierra;6
+651;Burguillos del Cerro;6
+652;Cabeza del Buey;6
+653;Cabeza la Vaca;6
+654;Calamonte;6
+655;Calera de León;6
+656;Calzadilla de los Barros;6
+657;Campanario;6
+658;Campillo de Llerena;6
+659;Capilla;6
+660;Carmonita;6
+661;Carrascalejo, El;6
+662;Casas de Don Pedro;6
+663;Casas de Reina;6
+664;Castilblanco;6
+665;Castuera;6
+666;Cheles;6
+667;Codosera, La;6
+668;Cordobilla de Lácara;6
+669;Coronada, La;6
+670;Corte de Peleas;6
+671;Cristina;6
+672;Don Álvaro;6
+673;Don Benito;6
+674;Entrín Bajo;6
+675;Esparragalejo;6
+676;Esparragosa de la Serena;6
+677;Esparragosa de Lares;6
+678;Feria;6
+679;Fregenal de la Sierra;6
+680;Fuenlabrada de los Montes;6
+681;Fuente de Cantos;6
+682;Fuente del Arco;6
+683;Fuente del Maestre;6
+684;Fuentes de León;6
+685;Garbayuela;6
+686;Garlitos;6
+687;Garrovilla, La;6
+688;Granja de Torrehermosa;6
+689;Guareña;6
+690;Haba, La;6
+691;Helechosa de los Montes;6
+692;Herrera del Duque;6
+693;Higuera de la Serena;6
+694;Higuera de Llerena;6
+695;Higuera de Vargas;6
+696;Higuera la Real;6
+697;Hinojosa del Valle;6
+698;Hornachos;6
+699;Jerez de los Caballeros;6
+700;Lapa, La;6
+701;Llera;6
+702;Llerena;6
+703;Lobón;6
+704;Magacela;6
+705;Maguilla;6
+706;Malcocinado;6
+707;Malpartida de la Serena;6
+708;Manchita;6
+709;Medellín;6
+710;Medina de las Torres;6
+711;Mengabril;6
+712;Mérida;6
+713;Mirandilla;6
+714;Monesterio;6
+715;Montemolín;6
+716;Monterrubio de la Serena;6
+717;Montijo;6
+718;Morera, La;6
+719;Nava de Santiago, La;6
+720;Navalvillar de Pela;6
+721;Nogales;6
+722;Oliva de la Frontera;6
+723;Oliva de Mérida;6
+724;Olivenza;6
+725;Orellana de la Sierra;6
+726;Orellana la Vieja;6
+727;Palomas;6
+728;Parra, La;6
+729;Peñalsordo;6
+730;Peraleda del Zaucejo;6
+731;Puebla de Alcocer;6
+732;Puebla de la Calzada;6
+733;Puebla de la Reina;6
+734;Puebla de Obando;6
+735;Puebla de Sancho Pérez;6
+736;Puebla del Maestre;6
+737;Puebla del Prior;6
+738;Pueblonuevo del Guadiana;6
+739;Quintana de la Serena;6
+740;Reina;6
+741;Rena;6
+742;Retamal de Llerena;6
+743;Ribera del Fresno;6
+744;Risco;6
+745;Roca de la Sierra, La;6
+746;Salvaleón;6
+747;Salvatierra de los Barros;6
+748;San Pedro de Mérida;6
+749;San Vicente de Alcántara;6
+750;Sancti-Spíritus;6
+751;Santa Amalia;6
+752;Santa Marta;6
+753;Santos de Maimona, Los;6
+754;Segura de León;6
+755;Siruela;6
+756;Solana de los Barros;6
+757;Talarrubias;6
+758;Talavera la Real;6
+759;Táliga;6
+760;Tamurejo;6
+761;Torre de Miguel Sesmero;6
+762;Torremayor;6
+763;Torremejía;6
+764;Trasierra;6
+765;Trujillanos;6
+766;Usagre;6
+767;Valdecaballeros;6
+768;Valdelacalzada;6
+769;Valdetorres;6
+770;Valencia de las Torres;6
+771;Valencia del Mombuey;6
+772;Valencia del Ventoso;6
+773;Valle de la Serena;6
+774;Valle de Matamoros;6
+775;Valle de Santa Ana;6
+776;Valverde de Burguillos;6
+777;Valverde de Leganés;6
+778;Valverde de Llerena;6
+779;Valverde de Mérida;6
+780;Villafranca de los Barros;6
+781;Villagarcía de la Torre;6
+782;Villagonzalo;6
+783;Villalba de los Barros;6
+784;Villanueva de la Serena;6
+785;Villanueva del Fresno;6
+786;Villar de Rena;6
+787;Villar del Rey;6
+788;Villarta de los Montes;6
+789;Zafra;6
+790;Zahínos;6
+791;Zalamea de la Serena;6
+792;Zarza, La;6
+793;Zarza-Capilla;6
+794;Alaior;7
+795;Alaró;7
+796;Alcúdia;7
+797;Algaida;7
+798;Andratx;7
+799;Ariany;7
+800;Artà;7
+801;Banyalbufar;7
+802;Binissalem;7
+803;Búger;7
+804;Bunyola;7
+805;Calvià;7
+806;Campanet;7
+807;Campos;7
+808;Capdepera;7
+809;Castell, Es;7
+810;Ciutadella de Menorca;7
+811;Consell;7
+812;Costitx;7
+813;Deyá;7
+814;Eivissa;7
+815;Escorca;7
+816;Esporles;7
+817;Estellencs;7
+818;Felanitx;7
+819;Ferreries;7
+820;Formentera;7
+821;Fornalutx;7
+822;Inca;7
+823;Lloret de Vistalegre;7
+824;Lloseta;7
+825;Llubí;7
+826;Llucmajor;7
+827;Manacor;7
+828;Mancor de la Vall;7
+829;Maó;7
+830;Maria de la Salut;7
+831;Marratxí;7
+832;Mercadal, Es;7
+833;Migjorn Gran, Es;7
+834;Montuïri;7
+835;Muro;7
+836;Palma;7
+837;Petra;7
+838;Pobla, Sa;7
+839;Pollença;7
+840;Porreres;7
+841;Puigpunyent;7
+842;Salines, Ses;7
+843;Sant Antoni de Portmany;7
+844;Sant Joan;7
+845;Sant Joan de Labritja;7
+846;Sant Josep de sa Talaia;7
+847;Sant Llorenç des Cardassar;7
+848;Sant Lluís;7
+849;Santa Eugènia;7
+850;Santa Eulalia del Río;7
+851;Santa Margalida;7
+852;Santa María del Camí;7
+853;Santanyí;7
+854;Selva;7
+855;Sencelles;7
+856;Sineu;7
+857;Sóller;7
+858;Son Servera;7
+859;Valldemossa;7
+860;Vilafranca de Bonany;7
+861;Abrera;8
+862;Aguilar de Segarra;8
+863;Aiguafreda;8
+864;Alella;8
+865;Alpens;8
+866;Ametlla del Vallès, L';8
+867;Arenys de Mar;8
+868;Arenys de Munt;8
+869;Argençola;8
+870;Argentona;8
+871;Artés;8
+872;Avià;8
+873;Avinyó;8
+874;Avinyonet del Penedès;8
+875;Badalona;8
+876;Badia del Vallès;8
+877;Bagà;8
+878;Balenyà;8
+879;Balsareny;8
+880;Barberà del Vallès;8
+881;Barcelona;8
+882;Begues;8
+883;Bellprat;8
+884;Berga;8
+885;Bigues i Riells;8
+886;Borredà;8
+887;Bruc, El;8
+888;Brull, El;8
+889;Cabanyes, Les;8
+890;Cabrera d'Anoia;8
+891;Cabrera de Mar;8
+892;Cabrils;8
+893;Calaf;8
+894;Calders;8
+895;Caldes de Montbui;8
+896;Caldes d'Estrac;8
+897;Calella;8
+898;Calldetenes;8
+899;Callús;8
+900;Calonge de Segarra;8
+901;Campins;8
+902;Canet de Mar;8
+903;Canovelles;8
+904;Cànoves i Samalús;8
+905;Canyelles;8
+906;Capellades;8
+907;Capolat;8
+908;Cardedeu;8
+909;Cardona;8
+910;Carme;8
+911;Casserres;8
+912;Castell de l'Areny;8
+913;Castellar de n'Hug;8
+914;Castellar del Riu;8
+915;Castellar del Vallès;8
+916;Castellbell i el Vilar;8
+917;Castellbisbal;8
+918;Castellcir;8
+919;Castelldefels;8
+920;Castellet i la Gornal;8
+921;Castellfollit de Riubregós;8
+922;Castellfollit del Boix;8
+923;Castellgalí;8
+924;Castellnou de Bages;8
+925;Castellolí;8
+926;Castellterçol;8
+927;Castellví de la Marca;8
+928;Castellví de Rosanes;8
+929;Centelles;8
+930;Cercs;8
+931;Cerdanyola del Vallès;8
+932;Cervelló;8
+933;Collbató;8
+934;Collsuspina;8
+935;Copons;8
+936;Corbera de Llobregat;8
+937;Cornellà de Llobregat;8
+938;Cubelles;8
+939;Dosrius;8
+940;Esparreguera;8
+941;Esplugues de Llobregat;8
+942;Espunyola, L';8
+943;Estany, L';8
+944;Figaró-Montmany;8
+945;Fígols;8
+946;Fogars de la Selva;8
+947;Fogars de Montclús;8
+948;Folgueroles;8
+949;Fonollosa;8
+950;Font-rubí;8
+951;Franqueses del Vallès, Les;8
+952;Gaià;8
+953;Gallifa;8
+954;Garriga, La;8
+955;Gavà;8
+956;Gelida;8
+957;Gironella;8
+958;Gisclareny;8
+959;Granada, La;8
+960;Granera;8
+961;Granollers;8
+962;Gualba;8
+963;Guardiola de Berguedà;8
+964;Gurb;8
+965;Hospitalet de Llobregat, L';8
+966;Hostalets de Pierola, Els;8
+967;Igualada;8
+968;Jorba;8
+969;Llacuna, La;8
+970;Llagosta, La;8
+971;Lliçà d'Amunt;8
+972;Lliçà de Vall;8
+973;Llinars del Vallès;8
+974;Lluçà;8
+975;Malgrat de Mar;8
+976;Malla;8
+977;Manlleu;8
+978;Manresa;8
+979;Marganell;8
+980;Martorell;8
+981;Martorelles;8
+982;Masies de Roda, Les;8
+983;Masies de Voltregà, Les;8
+984;Masnou, El;8
+985;Masquefa;8
+986;Matadepera;8
+987;Mataró;8
+988;Mediona;8
+989;Moià;8
+990;Molins de Rei;8
+991;Mollet del Vallès;8
+992;Monistrol de Calders;8
+993;Monistrol de Montserrat;8
+994;Montcada i Reixac;8
+995;Montclar;8
+996;Montesquiu;8
+997;Montgat;8
+998;Montmajor;8
+999;Montmaneu;8
+1000;Montmeló;8
+1001;Montornès del Vallès;8
+1002;Montseny;8
+1003;Muntanyola;8
+1004;Mura;8
+1005;Navarcles;8
+1006;Navàs;8
+1007;Nou de Berguedà, La;8
+1008;Òdena;8
+1009;Olèrdola;8
+1010;Olesa de Bonesvalls;8
+1011;Olesa de Montserrat;8
+1012;Olivella;8
+1013;Olost;8
+1014;Olvan;8
+1015;Orís;8
+1016;Oristà;8
+1017;Orpí;8
+1018;Òrrius;8
+1019;Pacs del Penedès;8
+1020;Palafolls;8
+1021;Palau-solità i Plegamans;8
+1022;Pallejà;8
+1023;Palma de Cervelló, La;8
+1024;Papiol, El;8
+1025;Parets del Vallès;8
+1026;Perafita;8
+1027;Piera;8
+1028;Pineda de Mar;8
+1029;Pla del Penedès, El;8
+1030;Pobla de Claramunt, La;8
+1031;Pobla de Lillet, La;8
+1032;Polinyà;8
+1033;Pont de Vilomara i Rocafort, El;8
+1034;Pontons;8
+1035;Prat de Llobregat, El;8
+1036;Prats de Lluçanès;8
+1037;Prats de Rei, Els;8
+1038;Premià de Dalt;8
+1039;Premià de Mar;8
+1040;Puigdàlber;8
+1041;Puig-reig;8
+1042;Pujalt;8
+1043;Quar, La;8
+1044;Rajadell;8
+1045;Rellinars;8
+1046;Ripollet;8
+1047;Roca del Vallès, La;8
+1048;Roda de Ter;8
+1049;Rubí;8
+1050;Rubió;8
+1051;Rupit i Pruit;8
+1052;Sabadell;8
+1053;Sagàs;8
+1054;Saldes;8
+1055;Sallent;8
+1056;Sant Adrià de Besòs;8
+1057;Sant Agustí de Lluçanès;8
+1058;Sant Andreu de la Barca;8
+1059;Sant Andreu de Llavaneres;8
+1060;Sant Antoni de Vilamajor;8
+1061;Sant Bartomeu del Grau;8
+1062;Sant Boi de Llobregat;8
+1063;Sant Boi de Lluçanès;8
+1064;Sant Cebrià de Vallalta;8
+1065;Sant Celoni;8
+1066;Sant Climent de Llobregat;8
+1067;Sant Cugat del Vallès;8
+1068;Sant Cugat Sesgarrigues;8
+1069;Sant Esteve de Palautordera;8
+1070;Sant Esteve Sesrovires;8
+1071;Sant Feliu de Codines;8
+1072;Sant Feliu de Llobregat;8
+1073;Sant Feliu Sasserra;8
+1074;Sant Fost de Campsentelles;8
+1075;Sant Fruitós de Bages;8
+1076;Sant Hipòlit de Voltregà;8
+1077;Sant Iscle de Vallalta;8
+1078;Sant Jaume de Frontanyà;8
+1079;Sant Joan de Vilatorrada;8
+1080;Sant Joan Despí;8
+1081;Sant Julià de Cerdanyola;8
+1082;Sant Julià de Vilatorta;8
+1083;Sant Just Desvern;8
+1084;Sant Llorenç d'Hortons;8
+1085;Sant Llorenç Savall;8
+1086;Sant Martí d'Albars;8
+1087;Sant Martí de Centelles;8
+1088;Sant Martí de Tous;8
+1089;Sant Martí Sarroca;8
+1090;Sant Martí Sesgueioles;8
+1091;Sant Mateu de Bages;8
+1092;Sant Pere de Ribes;8
+1093;Sant Pere de Riudebitlles;8
+1094;Sant Pere de Torelló;8
+1095;Sant Pere de Vilamajor;8
+1096;Sant Pere Sallavinera;8
+1097;Sant Pol de Mar;8
+1098;Sant Quintí de Mediona;8
+1099;Sant Quirze de Besora;8
+1100;Sant Quirze del Vallès;8
+1101;Sant Quirze Safaja;8
+1102;Sant Sadurní d'Anoia;8
+1103;Sant Sadurní d'Osormort;8
+1104;Sant Salvador de Guardiola;8
+1105;Sant Vicenç de Castellet;8
+1106;Sant Vicenç de Montalt;8
+1107;Sant Vicenç de Torelló;8
+1108;Sant Vicenç dels Horts;8
+1109;Santa Cecília de Voltregà;8
+1110;Santa Coloma de Cervelló;8
+1111;Santa Coloma de Gramenet;8
+1112;Santa Eugènia de Berga;8
+1113;Santa Eulàlia de Riuprimer;8
+1114;Santa Eulàlia de Ronçana;8
+1115;Santa Fe del Penedès;8
+1116;Santa Margarida de Montbui;8
+1117;Santa Margarida i els Monjos;8
+1118;Santa Maria de Besora;8
+1119;Santa Maria de Corcó;8
+1120;Santa Maria de Martorelles;8
+1121;Santa Maria de Merlès;8
+1122;Santa Maria de Miralles;8
+1123;Santa Maria de Palautordera;8
+1124;Santa Maria d'Oló;8
+1125;Santa Perpètua de Mogoda;8
+1126;Santa Susanna;8
+1127;Santpedor;8
+1128;Sentmenat;8
+1129;Seva;8
+1130;Sitges;8
+1131;Sobremunt;8
+1132;Sora;8
+1133;Subirats;8
+1134;Súria;8
+1135;Tagamanent;8
+1136;Talamanca;8
+1137;Taradell;8
+1138;Tavèrnoles;8
+1139;Tavertet;8
+1140;Teià;8
+1141;Terrassa;8
+1142;Tiana;8
+1143;Tona;8
+1144;Tordera;8
+1145;Torelló;8
+1146;Torre de Claramunt, La;8
+1147;Torrelavit;8
+1148;Torrelles de Foix;8
+1149;Torrelles de Llobregat;8
+1150;Ullastrell;8
+1151;Vacarisses;8
+1152;Vallbona d'Anoia;8
+1153;Vallcebre;8
+1154;Vallgorguina;8
+1155;Vallirana;8
+1156;Vallromanes;8
+1157;Veciana;8
+1158;Vic;8
+1159;Vilada;8
+1160;Viladecans;8
+1161;Viladecavalls;8
+1162;Vilafranca del Penedès;8
+1163;Vilalba Sasserra;8
+1164;Vilanova de Sau;8
+1165;Vilanova del Camí;8
+1166;Vilanova del Vallès;8
+1167;Vilanova i la Geltrú;8
+1168;Vilassar de Dalt;8
+1169;Vilassar de Mar;8
+1170;Vilobí del Penedès;8
+1171;Viver i Serrateix;8
+1172;Abajas;9
+1173;Adrada de Haza;9
+1174;Aguas Cándidas;9
+1175;Aguilar de Bureba;9
+1176;Albillos;9
+1177;Alcocero de Mola;9
+1178;Alfoz de Bricia;9
+1179;Alfoz de Quintanadueñas;9
+1180;Alfoz de Santa Gadea;9
+1181;Altable;9
+1182;Altos, Los;9
+1183;Ameyugo;9
+1184;Anguix;9
+1185;Aranda de Duero;9
+1186;Arandilla;9
+1187;Arauzo de Miel;9
+1188;Arauzo de Salce;9
+1189;Arauzo de Torre;9
+1190;Arcos;9
+1191;Arenillas de Riopisuerga;9
+1192;Arija;9
+1193;Arlanzón;9
+1194;Arraya de Oca;9
+1195;Atapuerca;9
+1196;Ausines, Los;9
+1197;Avellanosa de Muñó;9
+1198;Bahabón de Esgueva;9
+1199;Balbases, Los;9
+1200;Baños de Valdearados;9
+1201;Bañuelos de Bureba;9
+1202;Barbadillo de Herreros;9
+1203;Barbadillo del Mercado;9
+1204;Barbadillo del Pez;9
+1205;Barrio de Muñó;9
+1206;Barrios de Bureba, Los;9
+1207;Barrios de Colina;9
+1208;Basconcillos del Tozo;9
+1209;Bascuñana;9
+1210;Belbimbre;9
+1211;Belorado;9
+1212;Berberana;9
+1213;Berlangas de Roa;9
+1214;Berzosa de Bureba;9
+1215;Bozoó;9
+1216;Brazacorta;9
+1217;Briviesca;9
+1218;Bugedo;9
+1219;Buniel;9
+1220;Burgos;9
+1221;Busto de Bureba;9
+1222;Cabañes de Esgueva;9
+1223;Cabezón de la Sierra;9
+1224;Caleruega;9
+1225;Campillo de Aranda;9
+1226;Campolara;9
+1227;Canicosa de la Sierra;9
+1228;Cantabrana;9
+1229;Carazo;9
+1230;Carcedo de Bureba;9
+1231;Carcedo de Burgos;9
+1232;Cardeñadijo;9
+1233;Cardeñajimeno;9
+1234;Cardeñuela Riopico;9
+1235;Carrias;9
+1236;Cascajares de Bureba;9
+1237;Cascajares de la Sierra;9
+1238;Castellanos de Castro;9
+1239;Castil de Peones;9
+1240;Castildelgado;9
+1241;Castrillo de la Reina;9
+1242;Castrillo de la Vega;9
+1243;Castrillo de Riopisuerga;9
+1244;Castrillo del Val;9
+1245;Castrillo Matajudíos;9
+1246;Castrojeriz;9
+1247;Cavia;9
+1248;Cayuela;9
+1249;Cebrecos;9
+1250;Celada del Camino;9
+1251;Cerezo de Río Tirón;9
+1252;Cerratón de Juarros;9
+1253;Ciadoncha;9
+1254;Cillaperlata;9
+1255;Cilleruelo de Abajo;9
+1256;Cilleruelo de Arriba;9
+1257;Ciruelos de Cervera;9
+1258;Cogollos;9
+1259;Condado de Treviño;9
+1260;Contreras;9
+1261;Coruña del Conde;9
+1262;Covarrubias;9
+1263;Cubillo del Campo;9
+1264;Cubo de Bureba;9
+1265;Cueva de Roa, La;9
+1266;Cuevas de San Clemente;9
+1267;Encío;9
+1268;Espinosa de Cervera;9
+1269;Espinosa de los Monteros;9
+1270;Espinosa del Camino;9
+1271;Estépar;9
+1272;Fontioso;9
+1273;Frandovínez;9
+1274;Fresneda de la Sierra Tirón;9
+1275;Fresneña;9
+1276;Fresnillo de las Dueñas;9
+1277;Fresno de Río Tirón;9
+1278;Fresno de Rodilla;9
+1279;Frías;9
+1280;Fuentebureba;9
+1281;Fuentecén;9
+1282;Fuentelcésped;9
+1283;Fuentelisendo;9
+1284;Fuentemolinos;9
+1285;Fuentenebro;9
+1286;Fuentespina;9
+1287;Galbarros;9
+1288;Gallega, La;9
+1289;Grijalba;9
+1290;Grisaleña;9
+1291;Gumiel de Izán;9
+1292;Gumiel de Mercado;9
+1293;Hacinas;9
+1294;Haza;9
+1295;Hontanas;9
+1296;Hontangas;9
+1297;Hontoria de la Cantera;9
+1298;Hontoria de Valdearados;9
+1299;Hontoria del Pinar;9
+1300;Hormazas, Las;9
+1301;Hornillos del Camino;9
+1302;Horra, La;9
+1303;Hortigüela;9
+1304;Hoyales de Roa;9
+1305;Huérmeces;9
+1306;Huerta de Arriba;9
+1307;Huerta de Rey;9
+1308;Humada;9
+1309;Hurones;9
+1310;Ibeas de Juarros;9
+1311;Ibrillos;9
+1312;Iglesiarrubia;9
+1313;Iglesias;9
+1314;Isar;9
+1315;Itero del Castillo;9
+1316;Jaramillo de la Fuente;9
+1317;Jaramillo Quemado;9
+1318;Junta de Traslaloma;9
+1319;Junta de Villalba de Losa;9
+1320;Jurisdicción de Lara;9
+1321;Jurisdicción de San Zadornil;9
+1322;Lerma;9
+1323;Llano de Bureba;9
+1324;Madrigal del Monte;9
+1325;Madrigalejo del Monte;9
+1326;Mahamud;9
+1327;Mambrilla de Castrejón;9
+1328;Mambrillas de Lara;9
+1329;Mamolar;9
+1330;Manciles;9
+1331;Mazuela;9
+1332;Mecerreyes;9
+1333;Medina de Pomar;9
+1334;Melgar de Fernamental;9
+1335;Merindad de Cuesta-Urria;9
+1336;Merindad de Montija;9
+1337;Merindad de Río Ubierna;9
+1338;Merindad de Sotoscueva;9
+1339;Merindad de Valdeporres;9
+1340;Merindad de Valdivielso;9
+1341;Milagros;9
+1342;Miranda de Ebro;9
+1343;Miraveche;9
+1344;Modúbar de la Emparedada;9
+1345;Monasterio de la Sierra;9
+1346;Monasterio de Rodilla;9
+1347;Moncalvillo;9
+1348;Monterrubio de la Demanda;9
+1349;Montorio;9
+1350;Moradillo de Roa;9
+1351;Nava de Roa;9
+1352;Navas de Bureba;9
+1353;Nebreda;9
+1354;Neila;9
+1355;Olmedillo de Roa;9
+1356;Olmillos de Muñó;9
+1357;Oña;9
+1358;Oquillas;9
+1359;Orbaneja Riopico;9
+1360;Padilla de Abajo;9
+1361;Padilla de Arriba;9
+1362;Padrones de Bureba;9
+1363;Palacios de la Sierra;9
+1364;Palacios de Riopisuerga;9
+1365;Palazuelos de la Sierra;9
+1366;Palazuelos de Muñó;9
+1367;Pampliega;9
+1368;Pancorbo;9
+1369;Pardilla;9
+1370;Partido de la Sierra en Tobalina;9
+1371;Pedrosa de Duero;9
+1372;Pedrosa de Río Úrbel;9
+1373;Pedrosa del Páramo;9
+1374;Pedrosa del Príncipe;9
+1375;Peñaranda de Duero;9
+1376;Peral de Arlanza;9
+1377;Piérnigas;9
+1378;Pineda de la Sierra;9
+1379;Pineda Trasmonte;9
+1380;Pinilla de los Barruecos;9
+1381;Pinilla de los Moros;9
+1382;Pinilla Trasmonte;9
+1383;Poza de la Sal;9
+1384;Prádanos de Bureba;9
+1385;Pradoluengo;9
+1386;Presencio;9
+1387;Puebla de Arganzón, La;9
+1388;Puentedura;9
+1389;Quemada;9
+1390;Quintana del Pidio;9
+1391;Quintanabureba;9
+1392;Quintanaélez;9
+1393;Quintanaortuño;9
+1394;Quintanapalla;9
+1395;Quintanar de la Sierra;9
+1396;Quintanavides;9
+1397;Quintanilla de la Mata;9
+1398;Quintanilla del Agua y Tordueles;9
+1399;Quintanilla del Coco;9
+1400;Quintanilla San García;9
+1401;Quintanilla Vivar;9
+1402;Quintanillas, Las;9
+1403;Rabanera del Pinar;9
+1404;Rábanos;9
+1405;Rabé de las Calzadas;9
+1406;Rebolledo de la Torre;9
+1407;Redecilla del Camino;9
+1408;Redecilla del Campo;9
+1409;Regumiel de la Sierra;9
+1410;Reinoso;9
+1411;Retuerta;9
+1412;Revilla del Campo;9
+1413;Revilla Vallejera;9
+1414;Revilla y Ahedo, La;9
+1415;Revillarruz;9
+1416;Rezmondo;9
+1417;Riocavado de la Sierra;9
+1418;Roa;9
+1419;Rojas;9
+1420;Royuela de Río Franco;9
+1421;Rubena;9
+1422;Rublacedo de Abajo;9
+1423;Rucandio;9
+1424;Salas de Bureba;9
+1425;Salas de los Infantes;9
+1426;Saldaña de Burgos;9
+1427;Salinillas de Bureba;9
+1428;San Adrián de Juarros;9
+1429;San Juan del Monte;9
+1430;San Mamés de Burgos;9
+1431;San Martín de Rubiales;9
+1432;San Millán de Lara;9
+1433;San Vicente del Valle;9
+1434;Santa Cecilia;9
+1435;Santa Cruz de la Salceda;9
+1436;Santa Cruz del Valle Urbión;9
+1437;Santa Gadea del Cid;9
+1438;Santa Inés;9
+1439;Santa María del Campo;9
+1440;Santa María del Invierno;9
+1441;Santa María del Mercadillo;9
+1442;Santa María Rivarredonda;9
+1443;Santa Olalla de Bureba;9
+1444;Santibáñez de Esgueva;9
+1445;Santibáñez del Val;9
+1446;Santo Domingo de Silos;9
+1447;Sargentes de la Lora;9
+1448;Sarracín;9
+1449;Sasamón;9
+1450;Sequera de Haza, La;9
+1451;Solarana;9
+1452;Sordillos;9
+1453;Sotillo de la Ribera;9
+1454;Sotragero;9
+1455;Sotresgudo;9
+1456;Susinos del Páramo;9
+1457;Tamarón;9
+1458;Tardajos;9
+1459;Tejada;9
+1460;Terradillos de Esgueva;9
+1461;Tinieblas de la Sierra;9
+1462;Tobar;9
+1463;Tordómar;9
+1464;Torrecilla del Monte;9
+1465;Torregalindo;9
+1466;Torrelara;9
+1467;Torrepadre;9
+1468;Torresandino;9
+1469;Tórtoles de Esgueva;9
+1470;Tosantos;9
+1471;Trespaderne;9
+1472;Tubilla del Agua;9
+1473;Tubilla del Lago;9
+1474;Úrbel del Castillo;9
+1475;Vadocondes;9
+1476;Valdeande;9
+1477;Valdezate;9
+1478;Valdorros;9
+1479;Vallarta de Bureba;9
+1480;Valle de las Navas;9
+1481;Valle de Losa;9
+1482;Valle de Manzanedo;9
+1483;Valle de Mena;9
+1484;Valle de Oca;9
+1485;Valle de Santibáñez;9
+1486;Valle de Sedano;9
+1487;Valle de Tobalina;9
+1488;Valle de Valdebezana;9
+1489;Valle de Valdelaguna;9
+1490;Valle de Valdelucio;9
+1491;Valle de Zamanzas;9
+1492;Vallejera;9
+1493;Valles de Palenzuela;9
+1494;Valluércanes;9
+1495;Valmala;9
+1496;Vid de Bureba, La;9
+1497;Vid y Barrios, La;9
+1498;Vileña;9
+1499;Villadiego;9
+1500;Villaescusa de Roa;9
+1501;Villaescusa la Sombría;9
+1502;Villaespasa;9
+1503;Villafranca Montes de Oca;9
+1504;Villafruela;9
+1505;Villagalijo;9
+1506;Villagonzalo Pedernales;9
+1507;Villahoz;9
+1508;Villalba de Duero;9
+1509;Villalbilla de Burgos;9
+1510;Villalbilla de Gumiel;9
+1511;Villaldemiro;9
+1512;Villalmanzo;9
+1513;Villamayor de los Montes;9
+1514;Villamayor de Treviño;9
+1515;Villambistia;9
+1516;Villamedianilla;9
+1517;Villamiel de la Sierra;9
+1518;Villangómez;9
+1519;Villanueva de Argaño;9
+1520;Villanueva de Carazo;9
+1521;Villanueva de Gumiel;9
+1522;Villanueva de Teba;9
+1523;Villaquirán de la Puebla;9
+1524;Villaquirán de los Infantes;9
+1525;Villarcayo de Merindad de Castilla la Vieja;9
+1526;Villariezo;9
+1527;Villasandino;9
+1528;Villasur de Herreros;9
+1529;Villatuelda;9
+1530;Villaverde del Monte;9
+1531;Villaverde-Mogina;9
+1532;Villayerno Morquillas;9
+1533;Villazopeque;9
+1534;Villegas;9
+1535;Villoruebo;9
+1536;Viloria de Rioja;9
+1537;Vilviestre del Pinar;9
+1538;Vizcaínos;9
+1539;Zael;9
+1540;Zarzosa de Río Pisuerga;9
+1541;Zazuar;9
+1542;Zuñeda;9
+1543;Abadía;10
+1544;Abertura;10
+1545;Acebo;10
+1546;Acehúche;10
+1547;Aceituna;10
+1548;Ahigal;10
+1549;Alagón del Río;10
+1550;Albalá;10
+1551;Alcántara;10
+1552;Alcollarín;10
+1553;Alcuéscar;10
+1554;Aldea del Cano;10
+1555;Aldea del Obispo, La;10
+1556;Aldeacentenera;10
+1557;Aldeanueva de la Vera;10
+1558;Aldeanueva del Camino;10
+1559;Aldehuela de Jerte;10
+1560;Alía;10
+1561;Aliseda;10
+1562;Almaraz;10
+1563;Almoharín;10
+1564;Arroyo de la Luz;10
+1565;Arroyomolinos;10
+1566;Arroyomolinos de la Vera;10
+1567;Baños de Montemayor;10
+1568;Barrado;10
+1569;Belvís de Monroy;10
+1570;Benquerencia;10
+1571;Berrocalejo;10
+1572;Berzocana;10
+1573;Bohonal de Ibor;10
+1574;Botija;10
+1575;Brozas;10
+1576;Cabañas del Castillo;10
+1577;Cabezabellosa;10
+1578;Cabezuela del Valle;10
+1579;Cabrero;10
+1580;Cáceres;10
+1581;Cachorrilla;10
+1582;Cadalso;10
+1583;Calzadilla;10
+1584;Caminomorisco;10
+1585;Campillo de Deleitosa;10
+1586;Campo Lugar;10
+1587;Cañamero;10
+1588;Cañaveral;10
+1589;Carbajo;10
+1590;Carcaboso;10
+1591;Carrascalejo;10
+1592;Casar de Cáceres;10
+1593;Casar de Palomero;10
+1594;Casares de las Hurdes;10
+1595;Casas de Don Antonio;10
+1596;Casas de Don Gómez;10
+1597;Casas de Millán;10
+1598;Casas de Miravete;10
+1599;Casas del Castañar;10
+1600;Casas del Monte;10
+1601;Casatejada;10
+1602;Casillas de Coria;10
+1603;Castañar de Ibor;10
+1604;Ceclavín;10
+1605;Cedillo;10
+1606;Cerezo;10
+1607;Cilleros;10
+1608;Collado;10
+1609;Conquista de la Sierra;10
+1610;Coria;10
+1611;Cuacos de Yuste;10
+1612;Cumbre, La;10
+1613;Deleitosa;10
+1614;Descargamaría;10
+1615;Eljas;10
+1616;Escurial;10
+1617;Fresnedoso de Ibor;10
+1618;Galisteo;10
+1619;Garciaz;10
+1620;Garganta, La;10
+1621;Garganta la Olla;10
+1622;Gargantilla;10
+1623;Gargüera;10
+1624;Garrovillas de Alconétar;10
+1625;Garvín;10
+1626;Gata;10
+1627;Gordo, El;10
+1628;Granja, La;10
+1629;Guadalupe;10
+1630;Guijo de Coria;10
+1631;Guijo de Galisteo;10
+1632;Guijo de Granadilla;10
+1633;Guijo de Santa Bárbara;10
+1634;Herguijuela;10
+1635;Hernán-Pérez;10
+1636;Herrera de Alcántara;10
+1637;Herreruela;10
+1638;Hervás;10
+1639;Higuera;10
+1640;Hinojal;10
+1641;Holguera;10
+1642;Hoyos;10
+1643;Huélaga;10
+1644;Ibahernando;10
+1645;Jaraicejo;10
+1646;Jaraíz de la Vera;10
+1647;Jarandilla de la Vera;10
+1648;Jarilla;10
+1649;Jerte;10
+1650;Ladrillar;10
+1651;Logrosán;10
+1652;Losar de la Vera;10
+1653;Madrigal de la Vera;10
+1654;Madrigalejo;10
+1655;Madroñera;10
+1656;Majadas;10
+1657;Malpartida de Cáceres;10
+1658;Malpartida de Plasencia;10
+1659;Marchagaz;10
+1660;Mata de Alcántara;10
+1661;Membrío;10
+1662;Mesas de Ibor;10
+1663;Miajadas;10
+1664;Millanes;10
+1665;Mirabel;10
+1666;Mohedas de Granadilla;10
+1667;Monroy;10
+1668;Montánchez;10
+1669;Montehermoso;10
+1670;Moraleja;10
+1671;Morcillo;10
+1672;Navaconcejo;10
+1673;Navalmoral de la Mata;10
+1674;Navalvillar de Ibor;10
+1675;Navas del Madroño;10
+1676;Navezuelas;10
+1677;Nuñomoral;10
+1678;Oliva de Plasencia;10
+1679;Palomero;10
+1680;Pasarón de la Vera;10
+1681;Pedroso de Acim;10
+1682;Peraleda de la Mata;10
+1683;Peraleda de San Román;10
+1684;Perales del Puerto;10
+1685;Pescueza;10
+1686;Pesga, La;10
+1687;Piedras Albas;10
+1688;Pinofranqueado;10
+1689;Piornal;10
+1690;Plasencia;10
+1691;Plasenzuela;10
+1692;Portaje;10
+1693;Portezuelo;10
+1694;Pozuelo de Zarzón;10
+1695;Puerto de Santa Cruz;10
+1696;Rebollar;10
+1697;Riolobos;10
+1698;Robledillo de Gata;10
+1699;Robledillo de la Vera;10
+1700;Robledillo de Trujillo;10
+1701;Robledollano;10
+1702;Romangordo;10
+1703;Rosalejo;10
+1704;Ruanes;10
+1705;Salorino;10
+1706;Salvatierra de Santiago;10
+1707;San Martín de Trevejo;10
+1708;Santa Ana;10
+1709;Santa Cruz de la Sierra;10
+1710;Santa Cruz de Paniagua;10
+1711;Santa Marta de Magasca;10
+1712;Santiago de Alcántara;10
+1713;Santiago del Campo;10
+1714;Santibáñez el Alto;10
+1715;Santibáñez el Bajo;10
+1716;Saucedilla;10
+1717;Segura de Toro;10
+1718;Serradilla;10
+1719;Serrejón;10
+1720;Sierra de Fuentes;10
+1721;Talaván;10
+1722;Talaveruela de la Vera;10
+1723;Talayuela;10
+1724;Tejeda de Tiétar;10
+1725;Toril;10
+1726;Tornavacas;10
+1727;Torno, El;10
+1728;Torre de Don Miguel;10
+1729;Torre de Santa María;10
+1730;Torrecilla de los Ángeles;10
+1731;Torrecillas de la Tiesa;10
+1732;Torrejón el Rubio;10
+1733;Torrejoncillo;10
+1734;Torremenga;10
+1735;Torremocha;10
+1736;Torreorgaz;10
+1737;Torrequemada;10
+1738;Trujillo;10
+1739;Valdastillas;10
+1740;Valdecañas de Tajo;10
+1741;Valdefuentes;10
+1742;Valdehúncar;10
+1743;Valdelacasa de Tajo;10
+1744;Valdemorales;10
+1745;Valdeobispo;10
+1746;Valencia de Alcántara;10
+1747;Valverde de la Vera;10
+1748;Valverde del Fresno;10
+1749;Vegaviana;10
+1750;Viandar de la Vera;10
+1751;Villa del Campo;10
+1752;Villa del Rey;10
+1753;Villamesías;10
+1754;Villamiel;10
+1755;Villanueva de la Sierra;10
+1756;Villanueva de la Vera;10
+1757;Villar de Plasencia;10
+1758;Villar del Pedroso;10
+1759;Villasbuenas de Gata;10
+1760;Zarza de Granadilla;10
+1761;Zarza de Montánchez;10
+1762;Zarza la Mayor;10
+1763;Zorita;10
+1764;Alcalá de los Gazules;11
+1765;Alcalá del Valle;11
+1766;Algar;11
+1767;Algeciras;11
+1768;Algodonales;11
+1769;Arcos de la Frontera;11
+1770;Barbate;11
+1771;Barrios, Los;11
+1772;Benalup-Casas Viejas;11
+1773;Benaocaz;11
+1774;Bornos;11
+1775;Bosque, El;11
+1776;Cádiz;11
+1777;Castellar de la Frontera;11
+1778;Chiclana de la Frontera;11
+1779;Chipiona;11
+1780;Conil de la Frontera;11
+1781;Espera;11
+1782;Gastor, El;11
+1783;Grazalema;11
+1784;Jerez de la Frontera;11
+1785;Jimena de la Frontera;11
+1786;Línea de la Concepción, La;11
+1787;Medina-Sidonia;11
+1788;Olvera;11
+1789;Paterna de Rivera;11
+1790;Prado del Rey;11
+1791;Puerto de Santa María, El;11
+1792;Puerto Real;11
+1793;Puerto Serrano;11
+1794;Rota;11
+1795;San Fernando;11
+1796;San José del Valle;11
+1797;San Roque;11
+1798;Sanlúcar de Barrameda;11
+1799;Setenil de las Bodegas;11
+1800;Tarifa;11
+1801;Torre Alháquime;11
+1802;Trebujena;11
+1803;Ubrique;11
+1804;Vejer de la Frontera;11
+1805;Villaluenga del Rosario;11
+1806;Villamartín;11
+1807;Zahara;11
+1808;Aín;12
+1809;Albocàsser;12
+1810;Alcalà de Xivert;12
+1811;Alcora, l';12
+1812;Alcudia de Veo;12
+1813;Alfondeguilla;12
+1814;Algimia de Almonacid;12
+1815;Almazora/Almassora;12
+1816;Almedíjar;12
+1817;Almenara;12
+1818;Alquerías del Niño Perdido;12
+1819;Altura;12
+1820;Arañuel;12
+1821;Ares del Maestrat;12
+1822;Argelita;12
+1823;Artana;12
+1824;Atzeneta del Maestrat;12
+1825;Ayódar;12
+1826;Azuébar;12
+1827;Barracas;12
+1828;Bejís;12
+1829;Benafer;12
+1830;Benafigos;12
+1831;Benasal;12
+1832;Benicarló;12
+1833;Benicasim/Benicàssim;12
+1834;Benlloch;12
+1835;Betxí;12
+1836;Borriana/Burriana;12
+1837;Borriol;12
+1838;Cabanes;12
+1839;Càlig;12
+1840;Canet lo Roig;12
+1841;Castell de Cabres;12
+1842;Castellfort;12
+1843;Castellnovo;12
+1844;Castellón de la Plana/Castelló de la Plana;12
+1845;Castillo de Villamalefa;12
+1846;Catí;12
+1847;Caudiel;12
+1848;Cervera del Maestre;12
+1849;Chert/Xert;12
+1850;Chilches/Xilxes;12
+1851;Chodos/Xodos;12
+1852;Chóvar;12
+1853;Cinctorres;12
+1854;Cirat;12
+1855;Cortes de Arenoso;12
+1856;Costur;12
+1857;Coves de Vinromà, les;12
+1858;Culla;12
+1859;Eslida;12
+1860;Espadilla;12
+1861;Fanzara;12
+1862;Figueroles;12
+1863;Forcall;12
+1864;Fuente la Reina;12
+1865;Fuentes de Ayódar;12
+1866;Gaibiel;12
+1867;Geldo;12
+1868;Herbés;12
+1869;Higueras;12
+1870;Jana, la;12
+1871;Jérica;12
+1872;Llosa, la;12
+1873;Lucena del Cid;12
+1874;Ludiente;12
+1875;Mata de Morella, la;12
+1876;Matet;12
+1877;Moncofa;12
+1878;Montán;12
+1879;Montanejos;12
+1880;Morella;12
+1881;Navajas;12
+1882;Nules;12
+1883;Olocau del Rey;12
+1884;Onda;12
+1885;Oropesa del Mar/Orpesa;12
+1886;Palanques;12
+1887;Pavías;12
+1888;Peníscola/Peñíscola;12
+1889;Pina de Montalgrao;12
+1890;Pobla de Benifassà, la;12
+1891;Pobla Tornesa, la;12
+1892;Portell de Morella;12
+1893;Puebla de Arenoso;12
+1894;Ribesalbes;12
+1895;Rossell;12
+1896;Sacañet;12
+1897;Salzadella, la;12
+1898;San Rafael del Río;12
+1899;Sant Joan de Moró;12
+1900;Sant Jordi/San Jorge;12
+1901;Sant Mateu;12
+1902;Santa Magdalena de Pulpis;12
+1903;Sarratella;12
+1904;Segorbe;12
+1905;Sierra Engarcerán;12
+1906;Soneja;12
+1907;Sot de Ferrer;12
+1908;Sueras/Suera;12
+1909;Tales;12
+1910;Teresa;12
+1911;Tírig;12
+1912;Todolella;12
+1913;Toga;12
+1914;Torás;12
+1915;Toro, El;12
+1916;Torralba del Pinar;12
+1917;Torre d'En Besora, la;12
+1918;Torre d'en Doménec, la;12
+1919;Torreblanca;12
+1920;Torrechiva;12
+1921;Traiguera;12
+1922;Useras/Useres, les;12
+1923;Vall d'Alba;12
+1924;Vall de Almonacid;12
+1925;Vall d'Uixó, la;12
+1926;Vallat;12
+1927;Vallibona;12
+1928;Vilafamés;12
+1929;Vilanova d'Alcolea;12
+1930;Vilar de Canes;12
+1931;Vila-real;12
+1932;Vilavella, la;12
+1933;Villafranca del Cid/Vilafranca;12
+1934;Villahermosa del Río;12
+1935;Villamalur;12
+1936;Villanueva de Viver;12
+1937;Villores;12
+1938;Vinaròs;12
+1939;Vistabella del Maestrazgo;12
+1940;Viver;12
+1941;Zorita del Maestrazgo;12
+1942;Zucaina;12
+1943;Abenójar;13
+1944;Agudo;13
+1945;Alamillo;13
+1946;Albaladejo;13
+1947;Alcázar de San Juan;13
+1948;Alcoba;13
+1949;Alcolea de Calatrava;13
+1950;Alcubillas;13
+1951;Aldea del Rey;13
+1952;Alhambra;13
+1953;Almadén;13
+1954;Almadenejos;13
+1955;Almagro;13
+1956;Almedina;13
+1957;Almodóvar del Campo;13
+1958;Almuradiel;13
+1959;Anchuras;13
+1960;Arenales de San Gregorio;13
+1961;Arenas de San Juan;13
+1962;Argamasilla de Alba;13
+1963;Argamasilla de Calatrava;13
+1964;Arroba de los Montes;13
+1965;Ballesteros de Calatrava;13
+1966;Bolaños de Calatrava;13
+1967;Brazatortas;13
+1968;Cabezarados;13
+1969;Cabezarrubias del Puerto;13
+1970;Calzada de Calatrava;13
+1971;Campo de Criptana;13
+1972;Cañada de Calatrava;13
+1973;Caracuel de Calatrava;13
+1974;Carrión de Calatrava;13
+1975;Carrizosa;13
+1976;Castellar de Santiago;13
+1977;Chillón;13
+1978;Ciudad Real;13
+1979;Corral de Calatrava;13
+1980;Cortijos, Los;13
+1981;Cózar;13
+1982;Daimiel;13
+1983;Fernán Caballero;13
+1984;Fontanarejo;13
+1985;Fuencaliente;13
+1986;Fuenllana;13
+1987;Fuente el Fresno;13
+1988;Granátula de Calatrava;13
+1989;Guadalmez;13
+1990;Herencia;13
+1991;Hinojosas de Calatrava;13
+1992;Horcajo de los Montes;13
+1993;Labores, Las;13
+1994;Llanos del Caudillo;13
+1995;Luciana;13
+1996;Malagón;13
+1997;Manzanares;13
+1998;Membrilla;13
+1999;Mestanza;13
+2000;Miguelturra;13
+2001;Montiel;13
+2002;Moral de Calatrava;13
+2003;Navalpino;13
+2004;Navas de Estena;13
+2005;Pedro Muñoz;13
+2006;Picón;13
+2007;Piedrabuena;13
+2008;Poblete;13
+2009;Porzuna;13
+2010;Pozuelo de Calatrava;13
+2011;Pozuelos de Calatrava, Los;13
+2012;Puebla de Don Rodrigo;13
+2013;Puebla del Príncipe;13
+2014;Puerto Lápice;13
+2015;Puertollano;13
+2016;Retuerta del Bullaque;13
+2017;Robledo, El;13
+2018;Ruidera;13
+2019;Saceruela;13
+2020;San Carlos del Valle;13
+2021;San Lorenzo de Calatrava;13
+2022;Santa Cruz de los Cáñamos;13
+2023;Santa Cruz de Mudela;13
+2024;Socuéllamos;13
+2025;Solana, La;13
+2026;Solana del Pino;13
+2027;Terrinches;13
+2028;Tomelloso;13
+2029;Torralba de Calatrava;13
+2030;Torre de Juan Abad;13
+2031;Torrenueva;13
+2032;Valdemanco del Esteras;13
+2033;Valdepeñas;13
+2034;Valenzuela de Calatrava;13
+2035;Villahermosa;13
+2036;Villamanrique;13
+2037;Villamayor de Calatrava;13
+2038;Villanueva de la Fuente;13
+2039;Villanueva de los Infantes;13
+2040;Villanueva de San Carlos;13
+2041;Villar del Pozo;13
+2042;Villarrubia de los Ojos;13
+2043;Villarta de San Juan;13
+2044;Viso del Marqués;13
+2045;Adamuz;14
+2046;Aguilar de la Frontera;14
+2047;Alcaracejos;14
+2048;Almedinilla;14
+2049;Almodóvar del Río;14
+2050;Añora;14
+2051;Baena;14
+2052;Belalcázar;14
+2053;Belmez;14
+2054;Benamejí;14
+2055;Blázquez, Los;14
+2056;Bujalance;14
+2057;Cabra;14
+2058;Cañete de las Torres;14
+2059;Carcabuey;14
+2060;Cardeña;14
+2061;Carlota, La;14
+2062;Carpio, El;14
+2063;Castro del Río;14
+2064;Conquista;14
+2065;Córdoba;14
+2066;Doña Mencía;14
+2067;Dos Torres;14
+2068;Encinas Reales;14
+2069;Espejo;14
+2070;Espiel;14
+2071;Fernán-Núñez;14
+2072;Fuente la Lancha;14
+2073;Fuente Obejuna;14
+2074;Fuente Palmera;14
+2075;Fuente-Tójar;14
+2076;Granjuela, La;14
+2077;Guadalcázar;14
+2078;Guijo, El;14
+2079;Hinojosa del Duque;14
+2080;Hornachuelos;14
+2081;Iznájar;14
+2082;Lucena;14
+2083;Luque;14
+2084;Montalbán de Córdoba;14
+2085;Montemayor;14
+2086;Montilla;14
+2087;Montoro;14
+2088;Monturque;14
+2089;Moriles;14
+2090;Nueva Carteya;14
+2091;Obejo;14
+2092;Palenciana;14
+2093;Palma del Río;14
+2094;Pedro Abad;14
+2095;Pedroche;14
+2096;Peñarroya-Pueblonuevo;14
+2097;Posadas;14
+2098;Pozoblanco;14
+2099;Priego de Córdoba;14
+2100;Puente Genil;14
+2101;Rambla, La;14
+2102;Rute;14
+2103;San Sebastián de los Ballesteros;14
+2104;Santa Eufemia;14
+2105;Santaella;14
+2106;Torrecampo;14
+2107;Valenzuela;14
+2108;Valsequillo;14
+2109;Victoria, La;14
+2110;Villa del Río;14
+2111;Villafranca de Córdoba;14
+2112;Villaharta;14
+2113;Villanueva de Córdoba;14
+2114;Villanueva del Duque;14
+2115;Villanueva del Rey;14
+2116;Villaralto;14
+2117;Villaviciosa de Córdoba;14
+2118;Viso, El;14
+2119;Zuheros;14
+2120;Abegondo;15
+2121;Ames;15
+2122;Aranga;15
+2123;Ares;15
+2124;Arteixo;15
+2125;Arzúa;15
+2126;Baña, A;15
+2127;Bergondo;15
+2128;Betanzos;15
+2129;Boimorto;15
+2130;Boiro;15
+2131;Boqueixón;15
+2132;Brión;15
+2133;Cabana de Bergantiños;15
+2134;Cabanas;15
+2135;Camariñas;15
+2136;Cambre;15
+2137;Capela, A;15
+2138;Carballo;15
+2139;Cariño;15
+2140;Carnota;15
+2141;Carral;15
+2142;Cedeira;15
+2143;Cee;15
+2144;Cerceda;15
+2145;Cerdido;15
+2146;Cesuras;15
+2147;Coirós;15
+2148;Corcubión;15
+2149;Coristanco;15
+2150;Coruña, A;15
+2151;Culleredo;15
+2152;Curtis;15
+2153;Dodro;15
+2154;Dumbría;15
+2155;Fene;15
+2156;Ferrol;15
+2157;Fisterra;15
+2158;Frades;15
+2159;Irixoa;15
+2160;Laracha, A;15
+2161;Laxe;15
+2162;Lousame;15
+2163;Malpica de Bergantiños;15
+2164;Mañón;15
+2165;Mazaricos;15
+2166;Melide;15
+2167;Mesía;15
+2168;Miño;15
+2169;Moeche;15
+2170;Monfero;15
+2171;Mugardos;15
+2172;Muros;15
+2173;Muxía;15
+2174;Narón;15
+2175;Neda;15
+2176;Negreira;15
+2177;Noia;15
+2178;Oleiros;15
+2179;Ordes;15
+2180;Oroso;15
+2181;Ortigueira;15
+2182;Outes;15
+2183;Oza dos Ríos;15
+2184;Paderne;15
+2185;Padrón;15
+2186;Pino, O;15
+2187;Pobra do Caramiñal, A;15
+2188;Ponteceso;15
+2189;Pontedeume;15
+2190;Pontes de García Rodríguez, As;15
+2191;Porto do Son;15
+2192;Rianxo;15
+2193;Ribeira;15
+2194;Rois;15
+2195;Sada;15
+2196;San Sadurniño;15
+2197;Santa Comba;15
+2198;Santiago de Compostela;15
+2199;Santiso;15
+2200;Sobrado;15
+2201;Somozas, As;15
+2202;Teo;15
+2203;Toques;15
+2204;Tordoia;15
+2205;Touro;15
+2206;Trazo;15
+2207;Val do Dubra;15
+2208;Valdoviño;15
+2209;Vedra;15
+2210;Vilarmaior;15
+2211;Vilasantar;15
+2212;Vimianzo;15
+2213;Zas;15
+2214;Abia de la Obispalía;16
+2215;Acebrón, El;16
+2216;Alarcón;16
+2217;Albaladejo del Cuende;16
+2218;Albalate de las Nogueras;16
+2219;Albendea;16
+2220;Alberca de Záncara, La;16
+2221;Alcalá de la Vega;16
+2222;Alcantud;16
+2223;Alcázar del Rey;16
+2224;Alcohujate;16
+2225;Alconchel de la Estrella;16
+2226;Algarra;16
+2227;Aliaguilla;16
+2228;Almarcha, La;16
+2229;Almendros;16
+2230;Almodóvar del Pinar;16
+2231;Almonacid del Marquesado;16
+2232;Altarejos;16
+2233;Arandilla del Arroyo;16
+2234;Arcas del Villar;16
+2235;Arcos de la Sierra;16
+2236;Arguisuelas;16
+2237;Arrancacepas;16
+2238;Atalaya del Cañavate;16
+2239;Barajas de Melo;16
+2240;Barchín del Hoyo;16
+2241;Bascuñana de San Pedro;16
+2242;Beamud;16
+2243;Belinchón;16
+2244;Belmonte;16
+2245;Belmontejo;16
+2246;Beteta;16
+2247;Boniches;16
+2248;Buciegas;16
+2249;Buenache de Alarcón;16
+2250;Buenache de la Sierra;16
+2251;Buendía;16
+2252;Campillo de Altobuey;16
+2253;Campillos-Paravientos;16
+2254;Campillos-Sierra;16
+2255;Campos del Paraíso;16
+2256;Canalejas del Arroyo;16
+2257;Cañada del Hoyo;16
+2258;Cañada Juncosa;16
+2259;Cañamares;16
+2260;Cañavate, El;16
+2261;Cañaveras;16
+2262;Cañaveruelas;16
+2263;Cañete;16
+2264;Cañizares;16
+2265;Carboneras de Guadazaón;16
+2266;Cardenete;16
+2267;Carrascosa;16
+2268;Carrascosa de Haro;16
+2269;Casas de Benítez;16
+2270;Casas de Fernando Alonso;16
+2271;Casas de Garcimolina;16
+2272;Casas de Guijarro;16
+2273;Casas de Haro;16
+2274;Casas de los Pinos;16
+2275;Casasimarro;16
+2276;Castejón;16
+2277;Castillejo de Iniesta;16
+2278;Castillejo-Sierra;16
+2279;Castillo de Garcimuñoz;16
+2280;Castillo-Albaráñez;16
+2281;Cervera del Llano;16
+2282;Chillarón de Cuenca;16
+2283;Chumillas;16
+2284;Cierva, La;16
+2285;Cuenca;16
+2286;Cueva del Hierro;16
+2287;Enguídanos;16
+2288;Fresneda de Altarejos;16
+2289;Fresneda de la Sierra;16
+2290;Frontera, La;16
+2291;Fuente de Pedro Naharro;16
+2292;Fuentelespino de Haro;16
+2293;Fuentelespino de Moya;16
+2294;Fuentenava de Jábaga;16
+2295;Fuentes;16
+2296;Fuertescusa;16
+2297;Gabaldón;16
+2298;Garaballa;16
+2299;Gascueña;16
+2300;Graja de Campalbo;16
+2301;Graja de Iniesta;16
+2302;Henarejos;16
+2303;Herrumblar, El;16
+2304;Hinojosa, La;16
+2305;Hinojosos, Los;16
+2306;Hito, El;16
+2307;Honrubia;16
+2308;Hontanaya;16
+2309;Hontecillas;16
+2310;Horcajo de Santiago;16
+2311;Huélamo;16
+2312;Huelves;16
+2313;Huérguina;16
+2314;Huerta de la Obispalía;16
+2315;Huerta del Marquesado;16
+2316;Huete;16
+2317;Iniesta;16
+2318;Laguna del Marquesado;16
+2319;Lagunaseca;16
+2320;Landete;16
+2321;Ledaña;16
+2322;Leganiel;16
+2323;Majadas, Las;16
+2324;Mariana;16
+2325;Masegosa;16
+2326;Mesas, Las;16
+2327;Minglanilla;16
+2328;Mira;16
+2329;Monreal del Llano;16
+2330;Montalbanejo;16
+2331;Montalbo;16
+2332;Monteagudo de las Salinas;16
+2333;Mota de Altarejos;16
+2334;Mota del Cuervo;16
+2335;Motilla del Palancar;16
+2336;Moya;16
+2337;Narboneta;16
+2338;Olivares de Júcar;16
+2339;Olmeda de la Cuesta;16
+2340;Olmeda del Rey;16
+2341;Olmedilla de Alarcón;16
+2342;Olmedilla de Eliz;16
+2343;Osa de la Vega;16
+2344;Pajarón;16
+2345;Pajaroncillo;16
+2346;Palomares del Campo;16
+2347;Palomera;16
+2348;Paracuellos;16
+2349;Paredes;16
+2350;Parra de las Vegas, La;16
+2351;Pedernoso, El;16
+2352;Pedroñeras, Las;16
+2353;Peral, El;16
+2354;Peraleja, La;16
+2355;Pesquera, La;16
+2356;Picazo, El;16
+2357;Pinarejo;16
+2358;Pineda de Gigüela;16
+2359;Piqueras del Castillo;16
+2360;Portalrubio de Guadamejud;16
+2361;Portilla;16
+2362;Poyatos;16
+2363;Pozoamargo;16
+2364;Pozorrubielos de la Mancha;16
+2365;Pozorrubio;16
+2366;Pozuelo, El;16
+2367;Priego;16
+2368;Provencio, El;16
+2369;Puebla de Almenara;16
+2370;Puebla del Salvador;16
+2371;Quintanar del Rey;16
+2372;Rada de Haro;16
+2373;Reíllo;16
+2374;Rozalén del Monte;16
+2375;Saceda-Trasierra;16
+2376;Saelices;16
+2377;Salinas del Manzano;16
+2378;Salmeroncillos;16
+2379;Salvacañete;16
+2380;San Clemente;16
+2381;San Lorenzo de la Parrilla;16
+2382;San Martín de Boniches;16
+2383;San Pedro Palmiches;16
+2384;Santa Cruz de Moya;16
+2385;Santa María de los Llanos;16
+2386;Santa María del Campo Rus;16
+2387;Santa María del Val;16
+2388;Sisante;16
+2389;Solera de Gabaldón;16
+2390;Sotorribas;16
+2391;Talayuelas;16
+2392;Tarancón;16
+2393;Tébar;16
+2394;Tejadillos;16
+2395;Tinajas;16
+2396;Torralba;16
+2397;Torrejoncillo del Rey;16
+2398;Torrubia del Campo;16
+2399;Torrubia del Castillo;16
+2400;Tragacete;16
+2401;Tresjuncos;16
+2402;Tribaldos;16
+2403;Uclés;16
+2404;Uña;16
+2405;Valdecolmenas, Los;16
+2406;Valdemeca;16
+2407;Valdemorillo de la Sierra;16
+2408;Valdemoro-Sierra;16
+2409;Valdeolivas;16
+2410;Valdetórtola;16
+2411;Valeras, Las;16
+2412;Valhermoso de la Fuente;16
+2413;Valle de Altomira, El;16
+2414;Valsalobre;16
+2415;Valverde de Júcar;16
+2416;Valverdejo;16
+2417;Vara de Rey;16
+2418;Vega del Codorno;16
+2419;Vellisca;16
+2420;Villaconejos de Trabaque;16
+2421;Villaescusa de Haro;16
+2422;Villagarcía del Llano;16
+2423;Villalba de la Sierra;16
+2424;Villalba del Rey;16
+2425;Villalgordo del Marquesado;16
+2426;Villalpardo;16
+2427;Villamayor de Santiago;16
+2428;Villanueva de Guadamejud;16
+2429;Villanueva de la Jara;16
+2430;Villar de Cañas;16
+2431;Villar de Domingo García;16
+2432;Villar de la Encina;16
+2433;Villar de Olalla;16
+2434;Villar del Humo;16
+2435;Villar del Infantado;16
+2436;Villar y Velasco;16
+2437;Villarejo de Fuentes;16
+2438;Villarejo de la Peñuela;16
+2439;Villarejo-Periesteban;16
+2440;Villares del Saz;16
+2441;Villarrubio;16
+2442;Villarta;16
+2443;Villas de la Ventosa;16
+2444;Villaverde y Pasaconsol;16
+2445;Víllora;16
+2446;Vindel;16
+2447;Yémeda;16
+2448;Zafra de Záncara;16
+2449;Zafrilla;16
+2450;Zarza de Tajo;16
+2451;Zarzuela;16
+2452;Agullana;17
+2453;Aiguaviva;17
+2454;Albanyà;17
+2455;Albons;17
+2456;Alp;17
+2457;Amer;17
+2458;Anglès;17
+2459;Arbúcies;17
+2460;Argelaguer;17
+2461;Armentera, L';17
+2462;Avinyonet de Puigventós;17
+2463;Banyoles;17
+2464;Bàscara;17
+2465;Begur;17
+2466;Bellcaire d'Empordà;17
+2467;Besalú;17
+2468;Bescanó;17
+2469;Beuda;17
+2470;Bisbal d'Empordà, La;17
+2471;Biure;17
+2472;Blanes;17
+2473;Boadella i les Escaules;17
+2474;Bolvir;17
+2475;Bordils;17
+2476;Borrassà;17
+2477;Breda;17
+2478;Brunyola;17
+2479;Cabanelles;17
+2481;Cadaqués;17
+2482;Caldes de Malavella;17
+2483;Calonge;17
+2484;Camós;17
+2485;Campdevànol;17
+2486;Campelles;17
+2487;Campllong;17
+2488;Camprodon;17
+2489;Canet d'Adri;17
+2490;Cantallops;17
+2491;Capmany;17
+2492;Cassà de la Selva;17
+2493;Castellfollit de la Roca;17
+2494;Castelló d'Empúries;17
+2495;Castell-Platja d'Aro;17
+2496;Cellera de Ter, La;17
+2497;Celrà;17
+2498;Cervià de Ter;17
+2499;Cistella;17
+2500;Colera;17
+2501;Colomers;17
+2502;Corçà;17
+2503;Cornellà del Terri;17
+2504;Crespià;17
+2505;Cruïlles, Monells i Sant Sadurní de l'Heura;17
+2506;Darnius;17
+2507;Das;17
+2508;Escala, L';17
+2509;Espinelves;17
+2510;Espolla;17
+2511;Esponellà;17
+2512;Far d'Empordà, El;17
+2513;Figueres;17
+2514;Flaçà;17
+2515;Foixà;17
+2516;Fontanals de Cerdanya;17
+2517;Fontanilles;17
+2518;Fontcoberta;17
+2519;Forallac;17
+2520;Fornells de la Selva;17
+2521;Fortià;17
+2522;Garrigàs;17
+2523;Garrigoles;17
+2524;Garriguella;17
+2525;Ger;17
+2526;Girona;17
+2527;Gombrèn;17
+2528;Gualta;17
+2529;Guils de Cerdanya;17
+2530;Hostalric;17
+2531;Isòvol;17
+2532;Jafre;17
+2533;Jonquera, La;17
+2534;Juià;17
+2535;Lladó;17
+2536;Llagostera;17
+2537;Llambilles;17
+2538;Llanars;17
+2539;Llançà;17
+2540;Llers;17
+2541;Llívia;17
+2542;Lloret de Mar;17
+2543;Llosses, Les;17
+2544;Maçanet de Cabrenys;17
+2545;Maçanet de la Selva;17
+2546;Madremanya;17
+2547;Maià de Montcal;17
+2548;Masarac;17
+2549;Massanes;17
+2550;Meranges;17
+2551;Mieres;17
+2552;Mollet de Peralada;17
+2553;Molló;17
+2554;Montagut i Oix;17
+2555;Mont-ras;17
+2556;Navata;17
+2557;Ogassa;17
+2558;Olot;17
+2559;Ordis;17
+2560;Osor;17
+2561;Palafrugell;17
+2562;Palamós;17
+2563;Palau de Santa Eulàlia;17
+2564;Palau-sator;17
+2565;Palau-saverdera;17
+2566;Palol de Revardit;17
+2567;Pals;17
+2568;Pardines;17
+2569;Parlavà;17
+2570;Pau;17
+2571;Pedret i Marzà;17
+2572;Pera, La;17
+2573;Peralada;17
+2574;Planes d'Hostoles, Les;17
+2575;Planoles;17
+2576;Pont de Molins;17
+2577;Pontós;17
+2578;Porqueres;17
+2579;Port de la Selva, El;17
+2580;Portbou;17
+2581;Preses, Les;17
+2582;Puigcerdà;17
+2583;Quart;17
+2584;Queralbs;17
+2585;Rabós;17
+2586;Regencós;17
+2587;Ribes de Freser;17
+2588;Riells i Viabrea;17
+2589;Ripoll;17
+2590;Riudarenes;17
+2591;Riudaura;17
+2592;Riudellots de la Selva;17
+2593;Riumors;17
+2594;Roses;17
+2595;Rupià;17
+2596;Sales de Llierca;17
+2597;Salt;17
+2598;Sant Andreu Salou;17
+2599;Sant Aniol de Finestres;17
+2600;Sant Climent Sescebes;17
+2601;Sant Feliu de Buixalleu;17
+2602;Sant Feliu de Guíxols;17
+2603;Sant Feliu de Pallerols;17
+2604;Sant Ferriol;17
+2605;Sant Gregori;17
+2606;Sant Hilari Sacalm;17
+2607;Sant Jaume de Llierca;17
+2608;Sant Joan de les Abadesses;17
+2609;Sant Joan de Mollet;17
+2610;Sant Joan les Fonts;17
+2611;Sant Jordi Desvalls;17
+2612;Sant Julià de Ramis;17
+2613;Sant Julià del Llor i Bonmatí;17
+2614;Sant Llorenç de la Muga;17
+2615;Sant Martí de Llémena;17
+2616;Sant Martí Vell;17
+2617;Sant Miquel de Campmajor;17
+2618;Sant Miquel de Fluvià;17
+2619;Sant Mori;17
+2620;Sant Pau de Segúries;17
+2621;Sant Pere Pescador;17
+2622;Santa Coloma de Farners;17
+2623;Santa Cristina d'Aro;17
+2624;Santa Llogaia d'Àlguema;17
+2625;Santa Pau;17
+2626;Sarrià de Ter;17
+2627;Saus, Camallera i Llampaies;17
+2628;Selva de Mar, La;17
+2629;Serinyà;17
+2630;Serra de Daró;17
+2631;Setcases;17
+2632;Sils;17
+2633;Siurana;17
+2634;Susqueda;17
+2635;Tallada d'Empordà, La;17
+2636;Terrades;17
+2637;Torrent;17
+2638;Torroella de Fluvià;17
+2639;Torroella de Montgrí;17
+2640;Tortellà;17
+2641;Toses;17
+2642;Tossa de Mar;17
+2643;Ullà;17
+2644;Ullastret;17
+2645;Ultramort;17
+2646;Urús;17
+2647;Vajol, La;17
+2648;Vall de Bianya, La;17
+2649;Vall d'en Bas, La;17
+2650;Vallfogona de Ripollès;17
+2651;Vall-llobrega;17
+2652;Ventalló;17
+2653;Verges;17
+2654;Vidrà;17
+2655;Vidreres;17
+2656;Vilabertran;17
+2657;Vilablareix;17
+2658;Viladamat;17
+2659;Viladasens;17
+2660;Vilademuls;17
+2661;Viladrau;17
+2662;Vilafant;17
+2663;Vilajuïga;17
+2664;Vilallonga de Ter;17
+2665;Vilamacolum;17
+2666;Vilamalla;17
+2667;Vilamaniscle;17
+2668;Vilanant;17
+2669;Vila-sacra;17
+2670;Vilaür;17
+2671;Vilobí d'Onyar;17
+2672;Vilopriu;17
+2673;Agrón;18
+2674;Alamedilla;18
+2675;Albolote;18
+2676;Albondón;18
+2677;Albuñán;18
+2678;Albuñol;18
+2679;Albuñuelas;18
+2680;Aldeire;18
+2681;Alfacar;18
+2682;Algarinejo;18
+2683;Alhama de Granada;18
+2684;Alhendín;18
+2685;Alicún de Ortega;18
+2686;Almegíjar;18
+2687;Almuñécar;18
+2688;Alpujarra de la Sierra;18
+2689;Alquife;18
+2690;Arenas del Rey;18
+2691;Armilla;18
+2692;Atarfe;18
+2693;Baza;18
+2694;Beas de Granada;18
+2695;Beas de Guadix;18
+2696;Benalúa;18
+2697;Benalúa de las Villas;18
+2698;Benamaurel;18
+2699;Bérchules;18
+2700;Bubión;18
+2701;Busquístar;18
+2702;Cacín;18
+2703;Cádiar;18
+2704;Cájar;18
+2705;Calahorra, La;18
+2706;Calicasas;18
+2707;Campotéjar;18
+2708;Caniles;18
+2709;Cáñar;18
+2710;Capileira;18
+2711;Carataunas;18
+2712;Cástaras;18
+2713;Castilléjar;18
+2714;Castril;18
+2715;Cenes de la Vega;18
+2716;Chauchina;18
+2717;Chimeneas;18
+2718;Churriana de la Vega;18
+2719;Cijuela;18
+2720;Cogollos de Guadix;18
+2721;Cogollos de la Vega;18
+2722;Colomera;18
+2723;Cortes de Baza;18
+2724;Cortes y Graena;18
+2725;Cuevas del Campo;18
+2726;Cúllar;18
+2727;Cúllar Vega;18
+2728;Darro;18
+2729;Dehesas de Guadix;18
+2730;Deifontes;18
+2731;Diezma;18
+2732;Dílar;18
+2733;Dólar;18
+2734;Dúdar;18
+2735;Dúrcal;18
+2736;Escúzar;18
+2737;Ferreira;18
+2738;Fonelas;18
+2739;Freila;18
+2740;Fuente Vaqueros;18
+2741;Gabias, Las;18
+2742;Galera;18
+2743;Gobernador;18
+2744;Gójar;18
+2745;Gor;18
+2746;Gorafe;18
+2747;Granada;18
+2748;Guadahortuna;18
+2749;Guadix;18
+2750;Guajares, Los;18
+2751;Gualchos;18
+2752;Güejar Sierra;18
+2753;Güevéjar;18
+2754;Huélago;18
+2755;Huéneja;18
+2756;Huéscar;18
+2757;Huétor de Santillán;18
+2758;Huétor Tájar;18
+2759;Huétor Vega;18
+2760;Illora;18
+2761;Itrabo;18
+2762;Iznalloz;18
+2763;Jayena;18
+2764;Jerez del Marquesado;18
+2765;Jete;18
+2766;Jun;18
+2767;Juviles;18
+2768;Láchar;18
+2769;Lanjarón;18
+2770;Lanteira;18
+2771;Lecrín;18
+2772;Lentegí;18
+2773;Lobras;18
+2774;Loja;18
+2775;Lugros;18
+2776;Lújar;18
+2777;Malahá, La;18
+2778;Maracena;18
+2779;Marchal;18
+2780;Moclín;18
+2781;Molvízar;18
+2782;Monachil;18
+2783;Montefrío;18
+2784;Montejícar;18
+2785;Montillana;18
+2786;Moraleda de Zafayona;18
+2787;Morelábor;18
+2788;Motril;18
+2789;Murtas;18
+2790;Nevada;18
+2791;Nigüelas;18
+2792;Nívar;18
+2793;Ogíjares;18
+2794;Orce;18
+2795;Órgiva;18
+2796;Otívar;18
+2797;Otura;18
+2798;Padul;18
+2799;Pampaneira;18
+2800;Pedro Martínez;18
+2801;Peligros;18
+2802;Peza, La;18
+2803;Pinar, El;18
+2804;Pinos Genil;18
+2805;Pinos Puente;18
+2806;Píñar;18
+2807;Polícar;18
+2808;Polopos;18
+2809;Pórtugos;18
+2810;Puebla de Don Fadrique;18
+2811;Pulianas;18
+2812;Purullena;18
+2813;Quéntar;18
+2814;Rubite;18
+2815;Salar;18
+2816;Salobreña;18
+2817;Santa Cruz del Comercio;18
+2818;Santa Fe;18
+2819;Soportújar;18
+2820;Sorvilán;18
+2821;Taha, La;18
+2822;Torre-Cardela;18
+2823;Torvizcón;18
+2824;Trevélez;18
+2825;Turón;18
+2826;Ugíjar;18
+2827;Valle, El;18
+2828;Valle del Zalabí;18
+2829;Válor;18
+2830;Vegas del Genil;18
+2831;Vélez de Benaudalla;18
+2832;Ventas de Huelma;18
+2833;Villamena;18
+2834;Villanueva de las Torres;18
+2835;Villanueva Mesía;18
+2836;Víznar;18
+2837;Zafarraya;18
+2838;Zagra;18
+2839;Zubia, La;18
+2840;Zújar;18
+2841;Abánades;19
+2842;Ablanque;19
+2843;Adobes;19
+2844;Alaminos;19
+2845;Alarilla;19
+2846;Albalate de Zorita;19
+2847;Albares;19
+2848;Albendiego;19
+2849;Alcocer;19
+2850;Alcolea de las Peñas;19
+2851;Alcolea del Pinar;19
+2852;Alcoroches;19
+2853;Aldeanueva de Guadalajara;19
+2854;Algar de Mesa;19
+2855;Algora;19
+2856;Alhóndiga;19
+2857;Alique;19
+2858;Almadrones;19
+2859;Almoguera;19
+2860;Almonacid de Zorita;19
+2861;Alocén;19
+2862;Alovera;19
+2863;Alustante;19
+2864;Angón;19
+2865;Anguita;19
+2866;Anquela del Ducado;19
+2867;Anquela del Pedregal;19
+2868;Aranzueque;19
+2869;Arbancón;19
+2870;Arbeteta;19
+2871;Argecilla;19
+2872;Armallones;19
+2873;Armuña de Tajuña;19
+2874;Arroyo de las Fraguas;19
+2875;Atanzón;19
+2876;Atienza;19
+2877;Auñón;19
+2878;Azuqueca de Henares;19
+2879;Baides;19
+2880;Baños de Tajo;19
+2881;Bañuelos;19
+2882;Barriopedro;19
+2883;Berninches;19
+2884;Bodera, La;19
+2885;Brihuega;19
+2886;Budia;19
+2887;Bujalaro;19
+2888;Bustares;19
+2889;Cabanillas del Campo;19
+2890;Campillo de Dueñas;19
+2891;Campillo de Ranas;19
+2892;Campisábalos;19
+2893;Canredondo;19
+2894;Cantalojas;19
+2895;Cañizar;19
+2896;Cardoso de la Sierra, El;19
+2897;Casa de Uceda;19
+2898;Casar, El;19
+2899;Casas de San Galindo;19
+2900;Caspueñas;19
+2901;Castejón de Henares;19
+2902;Castellar de la Muela;19
+2903;Castilforte;19
+2904;Castilnuevo;19
+2905;Cendejas de Enmedio;19
+2906;Cendejas de la Torre;19
+2907;Centenera;19
+2908;Checa;19
+2909;Chequilla;19
+2910;Chillarón del Rey;19
+2911;Chiloeches;19
+2912;Cifuentes;19
+2913;Cincovillas;19
+2914;Ciruelas;19
+2915;Ciruelos del Pinar;19
+2916;Cobeta;19
+2917;Cogollor;19
+2918;Cogolludo;19
+2919;Condemios de Abajo;19
+2920;Condemios de Arriba;19
+2921;Congostrina;19
+2922;Copernal;19
+2923;Corduente;19
+2924;Cubillo de Uceda, El;19
+2925;Driebes;19
+2926;Durón;19
+2927;Embid;19
+2928;Escamilla;19
+2929;Escariche;19
+2930;Escopete;19
+2931;Espinosa de Henares;19
+2932;Esplegares;19
+2933;Establés;19
+2934;Estriégana;19
+2935;Fontanar;19
+2936;Fuembellida;19
+2937;Fuencemillán;19
+2938;Fuentelahiguera de Albatages;19
+2939;Fuentelencina;19
+2940;Fuentelsaz;19
+2941;Fuentelviejo;19
+2942;Fuentenovilla;19
+2943;Gajanejos;19
+2944;Galápagos;19
+2945;Galve de Sorbe;19
+2946;Gascueña de Bornova;19
+2947;Guadalajara;19
+2948;Henche;19
+2949;Heras de Ayuso;19
+2950;Herrería;19
+2951;Hiendelaencina;19
+2952;Hijes;19
+2953;Hita;19
+2954;Hombrados;19
+2955;Hontoba;19
+2956;Horche;19
+2957;Hortezuela de Océn;19
+2958;Huerce, La;19
+2959;Huérmeces del Cerro;19
+2960;Huertahernando;19
+2961;Hueva;19
+2962;Humanes;19
+2963;Illana;19
+2964;Iniéstola;19
+2965;Inviernas, Las;19
+2966;Irueste;19
+2967;Jadraque;19
+2968;Jirueque;19
+2969;Ledanca;19
+2970;Loranca de Tajuña;19
+2971;Lupiana;19
+2972;Luzaga;19
+2973;Luzón;19
+2974;Majaelrayo;19
+2975;Málaga del Fresno;19
+2976;Malaguilla;19
+2977;Mandayona;19
+2978;Mantiel;19
+2979;Maranchón;19
+2980;Marchamalo;19
+2981;Masegoso de Tajuña;19
+2982;Matarrubia;19
+2983;Matillas;19
+2984;Mazarete;19
+2985;Mazuecos;19
+2986;Medranda;19
+2987;Megina;19
+2988;Membrillera;19
+2989;Miedes de Atienza;19
+2990;Mierla, La;19
+2991;Millana;19
+2992;Milmarcos;19
+2993;Miñosa, La;19
+2994;Mirabueno;19
+2995;Miralrío;19
+2996;Mochales;19
+2997;Mohernando;19
+2998;Molina de Aragón;19
+2999;Monasterio;19
+3000;Mondéjar;19
+3001;Montarrón;19
+3002;Moratilla de los Meleros;19
+3003;Morenilla;19
+3004;Muduex;19
+3005;Navas de Jadraque, Las;19
+3006;Negredo;19
+3007;Ocentejo;19
+3008;Olivar, El;19
+3009;Olmeda de Cobeta;19
+3010;Olmeda de Jadraque, La;19
+3011;Ordial, El;19
+3012;Orea;19
+3013;Pálmaces de Jadraque;19
+3014;Pardos;19
+3015;Paredes de Sigüenza;19
+3016;Pareja;19
+3017;Pastrana;19
+3018;Pedregal, El;19
+3019;Peñalén;19
+3020;Peñalver;19
+3021;Peralejos de las Truchas;19
+3022;Peralveche;19
+3023;Pinilla de Jadraque;19
+3024;Pinilla de Molina;19
+3025;Pioz;19
+3026;Piqueras;19
+3027;Pobo de Dueñas, El;19
+3028;Poveda de la Sierra;19
+3029;Pozo de Almoguera;19
+3030;Pozo de Guadalajara;19
+3031;Prádena de Atienza;19
+3032;Prados Redondos;19
+3033;Puebla de Beleña;19
+3034;Puebla de Valles;19
+3035;Quer;19
+3036;Rebollosa de Jadraque;19
+3037;Recuenco, El;19
+3038;Renera;19
+3039;Retiendas;19
+3040;Riba de Saelices;19
+3041;Rillo de Gallo;19
+3042;Riofrío del Llano;19
+3043;Robledillo de Mohernando;19
+3044;Robledo de Corpes;19
+3045;Romanillos de Atienza;19
+3046;Romanones;19
+3047;Rueda de la Sierra;19
+3048;Sacecorbo;19
+3049;Sacedón;19
+3050;Saelices de la Sal;19
+3051;Salmerón;19
+3052;San Andrés del Congosto;19
+3053;San Andrés del Rey;19
+3054;Santiuste;19
+3055;Saúca;19
+3056;Sayatón;19
+3057;Selas;19
+3058;Semillas;19
+3059;Setiles;19
+3060;Sienes;19
+3061;Sigüenza;19
+3062;Solanillos del Extremo;19
+3063;Somolinos;19
+3064;Sotillo, El;19
+3065;Sotodosos;19
+3066;Tamajón;19
+3067;Taragudo;19
+3068;Taravilla;19
+3069;Tartanedo;19
+3070;Tendilla;19
+3071;Terzaga;19
+3072;Tierzo;19
+3073;Toba, La;19
+3074;Tordellego;19
+3075;Tordelrábano;19
+3076;Tordesilos;19
+3077;Torija;19
+3078;Torre del Burgo;19
+3079;Torrecuadrada de Molina;19
+3080;Torrecuadradilla;19
+3081;Torrejón del Rey;19
+3082;Torremocha de Jadraque;19
+3083;Torremocha del Campo;19
+3084;Torremocha del Pinar;19
+3085;Torremochuela;19
+3086;Torrubia;19
+3087;Tórtola de Henares;19
+3088;Tortuera;19
+3089;Tortuero;19
+3090;Traíd;19
+3091;Trijueque;19
+3092;Trillo;19
+3093;Uceda;19
+3094;Ujados;19
+3095;Utande;19
+3096;Valdarachas;19
+3097;Valdearenas;19
+3098;Valdeavellano;19
+3099;Valdeaveruelo;19
+3100;Valdeconcha;19
+3101;Valdegrudas;19
+3102;Valdelcubo;19
+3103;Valdenuño Fernández;19
+3104;Valdepeñas de la Sierra;19
+3105;Valderrebollo;19
+3106;Valdesotos;19
+3107;Valfermoso de Tajuña;19
+3108;Valhermoso;19
+3109;Valtablado del Río;19
+3110;Valverde de los Arroyos;19
+3111;Viana de Jadraque;19
+3112;Villanueva de Alcorón;19
+3113;Villanueva de Argecilla;19
+3114;Villanueva de la Torre;19
+3115;Villares de Jadraque;19
+3116;Villaseca de Henares;19
+3117;Villaseca de Uceda;19
+3118;Villel de Mesa;19
+3119;Viñuelas;19
+3120;Yebes;19
+3121;Yebra;19
+3122;Yélamos de Abajo;19
+3123;Yélamos de Arriba;19
+3124;Yunquera de Henares;19
+3125;Yunta, La;19
+3126;Zaorejas;19
+3127;Zarzuela de Jadraque;19
+3128;Zorita de los Canes;19
+3129;Abaltzisketa;20
+3130;Aduna;20
+3131;Aia;20
+3132;Aizarnazabal;20
+3133;Albiztur;20
+3134;Alegia;20
+3135;Alkiza;20
+3136;Altzaga;20
+3137;Altzo;20
+3138;Amezketa;20
+3139;Andoain;20
+3140;Anoeta;20
+3141;Antzuola;20
+3142;Arama;20
+3143;Aretxabaleta;20
+3144;Arrasate/Mondragón;20
+3145;Asteasu;20
+3146;Astigarraga;20
+3147;Ataun;20
+3148;Azkoitia;20
+3149;Azpeitia;20
+3150;Baliarrain;20
+3151;Beasain;20
+3152;Beizama;20
+3153;Belauntza;20
+3154;Berastegi;20
+3155;Bergara;20
+3156;Berrobi;20
+3157;Bidegoian;20
+3158;Deba;20
+3159;Donostia-San Sebastián;20
+3160;Eibar;20
+3161;Elduain;20
+3162;Elgeta;20
+3163;Elgoibar;20
+3164;Errenteria;20
+3165;Errezil;20
+3166;Eskoriatza;20
+3167;Ezkio-Itsaso;20
+3168;Gabiria;20
+3169;Gaintza;20
+3170;Gaztelu;20
+3171;Getaria;20
+3172;Hernani;20
+3173;Hernialde;20
+3174;Hondarribia;20
+3175;Ibarra;20
+3176;Idiazabal;20
+3177;Ikaztegieta;20
+3178;Irun;20
+3179;Irura;20
+3180;Itsasondo;20
+3181;Larraul;20
+3182;Lasarte-Oria;20
+3183;Lazkao;20
+3184;Leaburu;20
+3185;Legazpi;20
+3186;Legorreta;20
+3187;Leintz-Gatzaga;20
+3188;Lezo;20
+3189;Lizartza;20
+3190;Mendaro;20
+3191;Mutiloa;20
+3192;Mutriku;20
+3193;Oiartzun;20
+3194;Olaberria;20
+3195;Oñati;20
+3196;Ordizia;20
+3197;Orendain;20
+3198;Orexa;20
+3199;Orio;20
+3200;Ormaiztegi;20
+3201;Pasaia;20
+3202;Segura;20
+3203;Soraluze/Placencia de las Armas;20
+3204;Tolosa;20
+3205;Urnieta;20
+3206;Urretxu;20
+3207;Usurbil;20
+3208;Villabona;20
+3209;Zaldibia;20
+3210;Zarautz;20
+3211;Zegama;20
+3212;Zerain;20
+3213;Zestoa;20
+3214;Zizurkil;20
+3215;Zumaia;20
+3216;Zumarraga;20
+3217;Alájar;21
+3218;Aljaraque;21
+3219;Almendro, El;21
+3220;Almonaster la Real;21
+3221;Almonte;21
+3222;Alosno;21
+3223;Aracena;21
+3224;Aroche;21
+3225;Arroyomolinos de León;21
+3226;Ayamonte;21
+3227;Beas;21
+3228;Berrocal;21
+3229;Bollullos Par del Condado;21
+3230;Bonares;21
+3231;Cabezas Rubias;21
+3232;Cala;21
+3233;Calañas;21
+3234;Campillo, El;21
+3235;Campofrío;21
+3236;Cañaveral de León;21
+3237;Cartaya;21
+3238;Castaño del Robledo;21
+3239;Cerro de Andévalo, El;21
+3240;Chucena;21
+3241;Corteconcepción;21
+3242;Cortegana;21
+3243;Cortelazor;21
+3244;Cumbres de Enmedio;21
+3245;Cumbres de San Bartolomé;21
+3246;Cumbres Mayores;21
+3247;Encinasola;21
+3248;Escacena del Campo;21
+3249;Fuenteheridos;21
+3250;Galaroza;21
+3251;Gibraleón;21
+3252;Granada de Río-Tinto, La;21
+3253;Granado, El;21
+3254;Higuera de la Sierra;21
+3255;Hinojales;21
+3256;Hinojos;21
+3257;Huelva;21
+3258;Isla Cristina;21
+3259;Jabugo;21
+3260;Lepe;21
+3261;Linares de la Sierra;21
+3262;Lucena del Puerto;21
+3263;Manzanilla;21
+3264;Marines, Los;21
+3265;Minas de Riotinto;21
+3266;Moguer;21
+3267;Nava, La;21
+3268;Nerva;21
+3269;Niebla;21
+3270;Palma del Condado, La;21
+3271;Palos de la Frontera;21
+3272;Paterna del Campo;21
+3273;Paymogo;21
+3274;Puebla de Guzmán;21
+3275;Puerto Moral;21
+3276;Punta Umbría;21
+3277;Rociana del Condado;21
+3278;Rosal de la Frontera;21
+3279;San Bartolomé de la Torre;21
+3280;San Juan del Puerto;21
+3281;San Silvestre de Guzmán;21
+3282;Sanlúcar de Guadiana;21
+3283;Santa Ana la Real;21
+3284;Santa Bárbara de Casa;21
+3285;Santa Olalla del Cala;21
+3286;Trigueros;21
+3287;Valdelarco;21
+3288;Valverde del Camino;21
+3289;Villablanca;21
+3290;Villalba del Alcor;21
+3291;Villanueva de las Cruces;21
+3292;Villanueva de los Castillejos;21
+3293;Villarrasa;21
+3294;Zalamea la Real;21
+3295;Zufre;21
+3296;Abiego;22
+3297;Abizanda;22
+3298;Adahuesca;22
+3299;Agüero;22
+3300;Aínsa-Sobrarbe;22
+3301;Aisa;22
+3302;Albalate de Cinca;22
+3303;Albalatillo;22
+3304;Albelda;22
+3305;Albero Alto;22
+3306;Albero Bajo;22
+3307;Alberuela de Tubo;22
+3308;Alcalá de Gurrea;22
+3309;Alcalá del Obispo;22
+3310;Alcampell;22
+3311;Alcolea de Cinca;22
+3312;Alcubierre;22
+3313;Alerre;22
+3314;Alfántega;22
+3315;Almudévar;22
+3316;Almunia de San Juan;22
+3317;Almuniente;22
+3318;Alquézar;22
+3319;Altorricón;22
+3320;Angüés;22
+3321;Ansó;22
+3322;Antillón;22
+3323;Aragüés del Puerto;22
+3324;Arén;22
+3325;Argavieso;22
+3326;Arguis;22
+3327;Ayerbe;22
+3328;Azanuy-Alins;22
+3329;Azara;22
+3330;Azlor;22
+3331;Baélls;22
+3332;Bailo;22
+3333;Baldellou;22
+3334;Ballobar;22
+3335;Banastás;22
+3336;Barbastro;22
+3337;Barbués;22
+3338;Barbuñales;22
+3339;Bárcabo;22
+3340;Belver de Cinca;22
+3341;Benabarre;22
+3342;Benasque;22
+3343;Berbegal;22
+3344;Bielsa;22
+3345;Bierge;22
+3346;Biescas;22
+3347;Binaced;22
+3348;Binéfar;22
+3349;Bisaurri;22
+3350;Biscarrués;22
+3351;Blecua y Torres;22
+3352;Boltaña;22
+3353;Bonansa;22
+3354;Borau;22
+3355;Broto;22
+3356;Caldearenas;22
+3357;Campo;22
+3358;Camporrélls;22
+3359;Canal de Berdún;22
+3360;Candasnos;22
+3361;Canfranc;22
+3362;Capdesaso;22
+3363;Capella;22
+3364;Casbas de Huesca;22
+3365;Castejón de Monegros;22
+3366;Castejón de Sos;22
+3367;Castejón del Puente;22
+3368;Castelflorite;22
+3369;Castiello de Jaca;22
+3370;Castigaleu;22
+3371;Castillazuelo;22
+3372;Castillonroy;22
+3373;Chalamera;22
+3374;Chía;22
+3375;Chimillas;22
+3376;Colungo;22
+3377;Esplús;22
+3378;Estada;22
+3379;Estadilla;22
+3380;Estopiñán del Castillo;22
+3381;Fago;22
+3382;Fanlo;22
+3383;Fiscal;22
+3384;Fonz;22
+3385;Foradada del Toscar;22
+3386;Fraga;22
+3387;Fueva, La;22
+3388;Gistaín;22
+3389;Grado, El;22
+3390;Grañén;22
+3391;Graus;22
+3392;Gurrea de Gállego;22
+3393;Hoz de Jaca;22
+3394;Hoz y Costean;22
+3395;Huerto;22
+3396;Huesca;22
+3397;Ibieca;22
+3398;Igriés;22
+3399;Ilche;22
+3400;Isábena;22
+3401;Jaca;22
+3402;Jasa;22
+3403;Labuerda;22
+3404;Laluenga;22
+3405;Lalueza;22
+3406;Lanaja;22
+3407;Laperdiguera;22
+3408;Lascellas-Ponzano;22
+3409;Lascuarre;22
+3410;Laspaúles;22
+3411;Laspuña;22
+3412;Loarre;22
+3413;Loporzano;22
+3414;Loscorrales;22
+3415;Lupiñén-Ortilla;22
+3416;Monesma y Cajigar;22
+3417;Monflorite-Lascasas;22
+3418;Montanuy;22
+3419;Monzón;22
+3420;Naval;22
+3421;Novales;22
+3422;Nueno;22
+3423;Olvena;22
+3424;Ontiñena;22
+3425;Osso de Cinca;22
+3426;Palo;22
+3427;Panticosa;22
+3428;Peñalba;22
+3429;Peñas de Riglos, Las;22
+3430;Peralta de Alcofea;22
+3431;Peralta de Calasanz;22
+3432;Peraltilla;22
+3433;Perarrúa;22
+3434;Pertusa;22
+3435;Piracés;22
+3436;Plan;22
+3437;Poleñino;22
+3438;Pozán de Vero;22
+3439;Puebla de Castro, La;22
+3440;Puente de Montañana;22
+3441;Puente la Reina de Jaca;22
+3442;Puértolas;22
+3443;Pueyo de Araguás, El;22
+3444;Pueyo de Santa Cruz;22
+3445;Quicena;22
+3446;Robres;22
+3447;Sabiñánigo;22
+3448;Sahún;22
+3449;Salas Altas;22
+3450;Salas Bajas;22
+3451;Salillas;22
+3452;Sallent de Gállego;22
+3453;San Esteban de Litera;22
+3454;San Juan de Plan;22
+3455;San Miguel del Cinca;22
+3456;Sangarrén;22
+3457;Santa Cilia;22
+3458;Santa Cruz de la Serós;22
+3459;Santa María de Dulcis;22
+3460;Santaliestra y San Quílez;22
+3461;Sariñena;22
+3462;Secastilla;22
+3463;Seira;22
+3464;Sena;22
+3465;Senés de Alcubierre;22
+3466;Sesa;22
+3467;Sesué;22
+3468;Siétamo;22
+3469;Sopeira;22
+3470;Sotonera, La;22
+3471;Tamarite de Litera;22
+3472;Tardienta;22
+3473;Tella-Sin;22
+3474;Tierz;22
+3475;Tolva;22
+3476;Torla;22
+3477;Torralba de Aragón;22
+3478;Torre la Ribera;22
+3479;Torrente de Cinca;22
+3480;Torres de Alcanadre;22
+3481;Torres de Barbués;22
+3482;Tramaced;22
+3483;Valfarta;22
+3484;Valle de Bardají;22
+3485;Valle de Hecho;22
+3486;Valle de Lierp;22
+3487;Velilla de Cinca;22
+3488;Vencillón;22
+3489;Veracruz;22
+3490;Viacamp y Litera;22
+3491;Vicién;22
+3492;Villanova;22
+3493;Villanúa;22
+3494;Villanueva de Sigena;22
+3495;Yebra de Basa;22
+3496;Yésero;22
+3497;Zaidín;22
+3498;Albanchez de Mágina;23
+3499;Alcalá la Real;23
+3500;Alcaudete;23
+3501;Aldeaquemada;23
+3502;Andújar;23
+3503;Arjona;23
+3504;Arjonilla;23
+3505;Arquillos;23
+3506;Arroyo del Ojanco;23
+3507;Baeza;23
+3508;Bailén;23
+3509;Baños de la Encina;23
+3510;Beas de Segura;23
+3511;Bedmar y Garcíez;23
+3512;Begíjar;23
+3513;Bélmez de la Moraleda;23
+3514;Benatae;23
+3515;Cabra del Santo Cristo;23
+3516;Cambil;23
+3517;Campillo de Arenas;23
+3518;Canena;23
+3519;Carboneros;23
+3520;Cárcheles;23
+3521;Carolina, La;23
+3522;Castellar;23
+3523;Castillo de Locubín;23
+3524;Cazalilla;23
+3525;Cazorla;23
+3526;Chiclana de Segura;23
+3527;Chilluévar;23
+3528;Escañuela;23
+3529;Espelúy;23
+3530;Frailes;23
+3531;Fuensanta de Martos;23
+3532;Fuerte del Rey;23
+3533;Génave;23
+3534;Guardia de Jaén, La;23
+3535;Guarromán;23
+3536;Higuera de Calatrava;23
+3537;Hinojares;23
+3538;Hornos;23
+3539;Huelma;23
+3540;Huesa;23
+3541;Ibros;23
+3542;Iruela, La;23
+3543;Iznatoraf;23
+3544;Jabalquinto;23
+3545;Jaén;23
+3546;Jamilena;23
+3547;Jimena;23
+3548;Jódar;23
+3549;Lahiguera;23
+3550;Larva;23
+3551;Linares;23
+3552;Lopera;23
+3553;Lupión;23
+3554;Mancha Real;23
+3555;Marmolejo;23
+3556;Martos;23
+3557;Mengíbar;23
+3558;Montizón;23
+3559;Navas de San Juan;23
+3560;Noalejo;23
+3561;Orcera;23
+3562;Peal de Becerro;23
+3563;Pegalajar;23
+3564;Porcuna;23
+3565;Pozo Alcón;23
+3566;Puente de Génave;23
+3567;Puerta de Segura, La;23
+3568;Quesada;23
+3569;Rus;23
+3570;Sabiote;23
+3571;Santa Elena;23
+3572;Santiago de Calatrava;23
+3573;Santiago-Pontones;23
+3574;Santisteban del Puerto;23
+3575;Santo Tomé;23
+3576;Segura de la Sierra;23
+3577;Siles;23
+3578;Sorihuela del Guadalimar;23
+3579;Torre del Campo;23
+3580;Torreblascopedro;23
+3581;Torredonjimeno;23
+3582;Torreperogil;23
+3583;Torres;23
+3584;Torres de Albánchez;23
+3585;Úbeda;23
+3586;Valdepeñas de Jaén;23
+3587;Vilches;23
+3588;Villacarrillo;23
+3589;Villanueva de la Reina;23
+3590;Villanueva del Arzobispo;23
+3591;Villardompardo;23
+3592;Villares, Los;23
+3593;Villarrodrigo;23
+3594;Villatorres;23
+3595;Acebedo;24
+3596;Algadefe;24
+3597;Alija del Infantado;24
+3598;Almanza;24
+3599;Antigua, La;24
+3600;Ardón;24
+3601;Arganza;24
+3602;Astorga;24
+3603;Balboa;24
+3604;Bañeza, La;24
+3605;Barjas;24
+3606;Barrios de Luna, Los;24
+3607;Bembibre;24
+3608;Benavides;24
+3609;Benuza;24
+3610;Bercianos del Páramo;24
+3611;Bercianos del Real Camino;24
+3612;Berlanga del Bierzo;24
+3613;Boca de Huérgano;24
+3614;Boñar;24
+3615;Borrenes;24
+3616;Brazuelo;24
+3617;Burgo Ranero, El;24
+3618;Burón;24
+3619;Bustillo del Páramo;24
+3620;Cabañas Raras;24
+3621;Cabreros del Río;24
+3622;Cabrillanes;24
+3623;Cacabelos;24
+3624;Calzada del Coto;24
+3625;Campazas;24
+3626;Campo de Villavidel;24
+3627;Camponaraya;24
+3628;Candín;24
+3629;Cármenes;24
+3630;Carracedelo;24
+3631;Carrizo;24
+3632;Carrocera;24
+3633;Carucedo;24
+3634;Castilfalé;24
+3635;Castrillo de Cabrera;24
+3636;Castrillo de la Valduerna;24
+3637;Castrocalbón;24
+3638;Castrocontrigo;24
+3639;Castropodame;24
+3640;Castrotierra de Valmadrigal;24
+3641;Cea;24
+3642;Cebanico;24
+3643;Cebrones del Río;24
+3644;Chozas de Abajo;24
+3645;Cimanes de la Vega;24
+3646;Cimanes del Tejar;24
+3647;Cistierna;24
+3648;Congosto;24
+3649;Corbillos de los Oteros;24
+3650;Corullón;24
+3651;Crémenes;24
+3652;Cuadros;24
+3653;Cubillas de los Oteros;24
+3654;Cubillas de Rueda;24
+3655;Cubillos del Sil;24
+3656;Destriana;24
+3657;Encinedo;24
+3658;Ercina, La;24
+3659;Escobar de Campos;24
+3660;Fabero;24
+3661;Folgoso de la Ribera;24
+3662;Fresno de la Vega;24
+3663;Fuentes de Carbajal;24
+3664;Garrafe de Torío;24
+3665;Gordaliza del Pino;24
+3666;Gordoncillo;24
+3667;Gradefes;24
+3668;Grajal de Campos;24
+3669;Gusendos de los Oteros;24
+3670;Hospital de Órbigo;24
+3671;Igüeña;24
+3672;Izagre;24
+3673;Joarilla de las Matas;24
+3674;Laguna Dalga;24
+3675;Laguna de Negrillos;24
+3676;León;24
+3677;Llamas de la Ribera;24
+3678;Lucillo;24
+3679;Luyego;24
+3680;Magaz de Cepeda;24
+3681;Mansilla de las Mulas;24
+3682;Mansilla Mayor;24
+3683;Maraña;24
+3684;Matadeón de los Oteros;24
+3685;Matallana de Torío;24
+3686;Matanza;24
+3687;Molinaseca;24
+3688;Murias de Paredes;24
+3689;Noceda del Bierzo;24
+3690;Oencia;24
+3691;Omañas, Las;24
+3692;Onzonilla;24
+3693;Oseja de Sajambre;24
+3694;Pajares de los Oteros;24
+3695;Palacios de la Valduerna;24
+3696;Palacios del Sil;24
+3697;Páramo del Sil;24
+3698;Peranzanes;24
+3699;Pobladura de Pelayo García;24
+3700;Pola de Gordón, La;24
+3701;Ponferrada;24
+3702;Posada de Valdeón;24
+3703;Pozuelo del Páramo;24
+3704;Prado de la Guzpeña;24
+3705;Priaranza del Bierzo;24
+3706;Prioro;24
+3707;Puebla de Lillo;24
+3708;Puente de Domingo Flórez;24
+3709;Quintana del Castillo;24
+3710;Quintana del Marco;24
+3711;Quintana y Congosto;24
+3712;Regueras de Arriba;24
+3713;Reyero;24
+3714;Riaño;24
+3715;Riego de la Vega;24
+3716;Riello;24
+3717;Rioseco de Tapia;24
+3718;Robla, La;24
+3719;Roperuelos del Páramo;24
+3720;Sabero;24
+3721;Sahagún;24
+3722;San Adrián del Valle;24
+3723;San Andrés del Rabanedo;24
+3724;San Cristóbal de la Polantera;24
+3725;San Emiliano;24
+3726;San Esteban de Nogales;24
+3727;San Justo de la Vega;24
+3728;San Millán de los Caballeros;24
+3729;San Pedro Bercianos;24
+3730;Sancedo;24
+3731;Santa Colomba de Curueño;24
+3732;Santa Colomba de Somoza;24
+3733;Santa Cristina de Valmadrigal;24
+3734;Santa Elena de Jamuz;24
+3735;Santa María de la Isla;24
+3736;Santa María de Ordás;24
+3737;Santa María del Monte de Cea;24
+3738;Santa María del Páramo;24
+3739;Santa Marina del Rey;24
+3740;Santas Martas;24
+3741;Santiago Millas;24
+3742;Santovenia de la Valdoncina;24
+3743;Sariegos;24
+3744;Sena de Luna;24
+3746;Soto de la Vega;24
+3747;Soto y Amío;24
+3748;Toral de los Guzmanes;24
+3749;Toral de los Vados;24
+3750;Toreno;24
+3751;Torre del Bierzo;24
+3752;Trabadelo;24
+3753;Truchas;24
+3754;Turcia;24
+3755;Urdiales del Páramo;24
+3756;Val de San Lorenzo;24
+3757;Valdefresno;24
+3758;Valdefuentes del Páramo;24
+3759;Valdelugueros;24
+3760;Valdemora;24
+3761;Valdepiélago;24
+3762;Valdepolo;24
+3763;Valderas;24
+3764;Valderrey;24
+3765;Valderrueda;24
+3766;Valdesamario;24
+3767;Valdevimbre;24
+3768;Valencia de Don Juan;24
+3769;Vallecillo;24
+3770;Valverde de la Virgen;24
+3771;Valverde-Enrique;24
+3772;Vecilla, La;24
+3773;Vega de Espinareda;24
+3774;Vega de Infanzones;24
+3775;Vega de Valcarce;24
+3776;Vegacervera;24
+3777;Vegaquemada;24
+3778;Vegas del Condado;24
+3779;Villablino;24
+3780;Villabraz;24
+3781;Villadangos del Páramo;24
+3782;Villademor de la Vega;24
+3783;Villafranca del Bierzo;24
+3784;Villagatón;24
+3785;Villamandos;24
+3786;Villamanín;24
+3787;Villamañán;24
+3788;Villamartín de Don Sancho;24
+3789;Villamejil;24
+3790;Villamol;24
+3791;Villamontán de la Valduerna;24
+3792;Villamoratiel de las Matas;24
+3793;Villanueva de las Manzanas;24
+3794;Villaobispo de Otero;24
+3795;Villaornate y Castro;24
+3796;Villaquejida;24
+3797;Villaquilambre;24
+3798;Villarejo de Órbigo;24
+3799;Villares de Órbigo;24
+3800;Villasabariego;24
+3801;Villaselán;24
+3802;Villaturiel;24
+3803;Villazala;24
+3804;Villazanzo de Valderaduey;24
+3805;Zotes del Páramo;24
+3806;Abella de la Conca;25
+3807;Àger;25
+3808;Agramunt;25
+3809;Aitona;25
+3810;Alamús, Els;25
+3811;Alàs i Cerc;25
+3812;Albagés, L';25
+3813;Albatàrrec;25
+3814;Albesa;25
+3815;Albi, L';25
+3816;Alcanó;25
+3817;Alcarràs;25
+3818;Alcoletge;25
+3819;Alfarràs;25
+3820;Alfés;25
+3821;Algerri;25
+3822;Alguaire;25
+3823;Alins;25
+3824;Almacelles;25
+3825;Almatret;25
+3826;Almenar;25
+3827;Alòs de Balaguer;25
+3828;Alpicat;25
+3829;Alt Àneu;25
+3830;Anglesola;25
+3831;Arbeca;25
+3832;Arres;25
+3833;Arsèguel;25
+3834;Artesa de Lleida;25
+3835;Artesa de Segre;25
+3836;Aspa;25
+3837;Avellanes i Santa Linya, Les;25
+3838;Baix Pallars;25
+3839;Balaguer;25
+3840;Barbens;25
+3841;Baronia de Rialb, La;25
+3842;Bassella;25
+3843;Bausen;25
+3844;Belianes;25
+3845;Bellaguarda;25
+3846;Bellcaire d'Urgell;25
+3847;Bell-lloc d'Urgell;25
+3848;Bellmunt d'Urgell;25
+3849;Bellpuig;25
+3850;Bellver de Cerdanya;25
+3851;Bellvís;25
+3852;Benavent de Segrià;25
+3853;Biosca;25
+3854;Bòrdes, Es;25
+3855;Borges Blanques, Les;25
+3856;Bossòst;25
+3857;Bovera;25
+3858;Cabanabona;25
+3859;Cabó;25
+3860;Camarasa;25
+3861;Canejan;25
+3862;Castell de Mur;25
+3863;Castellar de la Ribera;25
+3864;Castelldans;25
+3865;Castellnou de Seana;25
+3866;Castelló de Farfanya;25
+3867;Castellserà;25
+3868;Cava;25
+3869;Cervera;25
+3870;Cervià de les Garrigues;25
+3871;Ciutadilla;25
+3872;Clariana de Cardener;25
+3873;Cogul, El;25
+3874;Coll de Nargó;25
+3875;Coma i la Pedra, La;25
+3876;Conca de Dalt;25
+3877;Corbins;25
+3878;Cubells;25
+3879;Espluga Calba, L';25
+3880;Espot;25
+3881;Estamariu;25
+3882;Estaràs;25
+3883;Esterri d'Àneu;25
+3884;Esterri de Cardós;25
+3885;Farrera;25
+3886;Fígols i Alinyà;25
+3887;Floresta, La;25
+3888;Fondarella;25
+3889;Foradada;25
+3890;Fuliola, La;25
+3891;Fulleda;25
+3892;Gavet de la Conca;25
+3893;Gimenells i el Pla de la Font;25
+3894;Golmés;25
+3895;Gósol;25
+3896;Granadella, La;25
+3897;Granja d'Escarp, La;25
+3898;Granyanella;25
+3899;Granyena de les Garrigues;25
+3900;Granyena de Segarra;25
+3901;Guimerà;25
+3902;Guingueta d'Àneu, La;25
+3903;Guissona;25
+3904;Guixers;25
+3905;Isona i Conca Dellà;25
+3906;Ivars de Noguera;25
+3907;Ivars d'Urgell;25
+3908;Ivorra;25
+3909;Josa i Tuixén;25
+3910;Juncosa;25
+3911;Juneda;25
+3912;Les;25
+3913;Linyola;25
+3914;Lladorre;25
+3915;Lladurs;25
+3916;Llardecans;25
+3917;Llavorsí;25
+3918;Lleida;25
+3919;Lles de Cerdanya;25
+3920;Llimiana;25
+3921;Llobera;25
+3922;Maials;25
+3923;Maldà;25
+3924;Massalcoreig;25
+3925;Massoteres;25
+3926;Menàrguens;25
+3927;Miralcamp;25
+3928;Mollerussa;25
+3929;Molsosa, La;25
+3930;Montellà i Martinet;25
+3931;Montferrer i Castellbò;25
+3932;Montgai;25
+3933;Montoliu de Lleida;25
+3934;Montoliu de Segarra;25
+3935;Montornès de Segarra;25
+3936;Nalec;25
+3937;Naut Aran;25
+3938;Navès;25
+3939;Odèn;25
+3940;Oliana;25
+3941;Oliola;25
+3942;Olius;25
+3943;Oluges, Les;25
+3944;Omellons, Els;25
+3945;Omells de na Gaia, Els;25
+3946;Organyà;25
+3947;Os de Balaguer;25
+3948;Ossó de Sió;25
+3949;Palau d'Anglesola, El;25
+3950;Penelles;25
+3951;Peramola;25
+3952;Pinell de Solsonès;25
+3953;Pinós;25
+3954;Plans de Sió, Els;25
+3955;Poal, El;25
+3956;Pobla de Cérvoles, La;25
+3957;Pobla de Segur, La;25
+3958;Pont de Bar, El;25
+3959;Pont de Suert, El;25
+3960;Ponts;25
+3961;Portella, La;25
+3962;Prats i Sansor;25
+3963;Preixana;25
+3964;Preixens;25
+3965;Prullans;25
+3966;Puiggròs;25
+3967;Puigverd d'Agramunt;25
+3968;Puigverd de Lleida;25
+3969;Rialp;25
+3970;Ribera d'Ondara;25
+3971;Ribera d'Urgellet;25
+3972;Riner;25
+3973;Riu de Cerdanya;25
+3974;Rosselló;25
+3975;Salàs de Pallars;25
+3976;Sanaüja;25
+3977;Sant Esteve de la Sarga;25
+3978;Sant Guim de Freixenet;25
+3979;Sant Guim de la Plana;25
+3980;Sant Llorenç de Morunys;25
+3981;Sant Martí de Riucorb;25
+3982;Sant Ramon;25
+3983;Sarroca de Bellera;25
+3984;Sarroca de Lleida;25
+3985;Senterada;25
+3986;Sentiu de Sió, La;25
+3987;Seròs;25
+3988;Seu d'Urgell, La;25
+3989;Sidamon;25
+3990;Soleràs, El;25
+3991;Solsona;25
+3992;Soriguera;25
+3993;Sort;25
+3994;Soses;25
+3995;Sudanell;25
+3996;Sunyer;25
+3997;Talarn;25
+3998;Talavera;25
+3999;Tàrrega;25
+4000;Tarrés;25
+4001;Tarroja de Segarra;25
+4002;Térmens;25
+4003;Tírvia;25
+4004;Tiurana;25
+4005;Torà;25
+4006;Torms, Els;25
+4007;Tornabous;25
+4008;Torre de Cabdella, La;25
+4009;Torrebesses;25
+4010;Torrefarrera;25
+4011;Torrefeta i Florejacs;25
+4012;Torregrossa;25
+4013;Torrelameu;25
+4014;Torres de Segre;25
+4015;Torre-serona;25
+4016;Tremp;25
+4017;Vall de Boí, La;25
+4018;Vall de Cardós;25
+4019;Vallbona de les Monges;25
+4020;Vallfogona de Balaguer;25
+4021;Valls d'Aguilar, Les;25
+4022;Valls de Valira, Les;25
+4023;Vansa i Fórnols, La;25
+4024;Verdú;25
+4025;Vielha e Mijaran;25
+4026;Vilagrassa;25
+4027;Vilaller;25
+4028;Vilamòs;25
+4029;Vilanova de Bellpuig;25
+4030;Vilanova de la Barca;25
+4031;Vilanova de l'Aguda;25
+4032;Vilanova de Meià;25
+4033;Vilanova de Segrià;25
+4034;Vila-sana;25
+4035;Vilosell, El;25
+4036;Vinaixa;25
+4037;Ábalos;26
+4038;Agoncillo;26
+4039;Aguilar del Río Alhama;26
+4040;Ajamil de Cameros;26
+4041;Albelda de Iregua;26
+4042;Alberite;26
+4043;Alcanadre;26
+4044;Aldeanueva de Ebro;26
+4045;Alesanco;26
+4046;Alesón;26
+4047;Alfaro;26
+4048;Almarza de Cameros;26
+4049;Anguciana;26
+4050;Anguiano;26
+4051;Arenzana de Abajo;26
+4052;Arenzana de Arriba;26
+4053;Arnedillo;26
+4054;Arnedo;26
+4055;Arrúbal;26
+4056;Ausejo;26
+4057;Autol;26
+4058;Azofra;26
+4059;Badarán;26
+4060;Bañares;26
+4061;Baños de Río Tobía;26
+4062;Baños de Rioja;26
+4063;Berceo;26
+4064;Bergasa;26
+4065;Bergasillas Bajera;26
+4066;Bezares;26
+4067;Bobadilla;26
+4068;Brieva de Cameros;26
+4069;Briñas;26
+4070;Briones;26
+4071;Cabezón de Cameros;26
+4072;Calahorra;26
+4073;Camprovín;26
+4074;Canales de la Sierra;26
+4075;Canillas de Río Tuerto;26
+4076;Cañas;26
+4077;Cárdenas;26
+4078;Casalarreina;26
+4079;Castañares de Rioja;26
+4080;Castroviejo;26
+4081;Cellorigo;26
+4082;Cenicero;26
+4083;Cervera del Río Alhama;26
+4084;Cidamón;26
+4085;Cihuri;26
+4086;Cirueña;26
+4087;Clavijo;26
+4088;Cordovín;26
+4089;Corera;26
+4090;Cornago;26
+4091;Corporales;26
+4092;Cuzcurrita de Río Tirón;26
+4093;Daroca de Rioja;26
+4094;Enciso;26
+4095;Entrena;26
+4096;Estollo;26
+4097;Ezcaray;26
+4098;Foncea;26
+4099;Fonzaleche;26
+4100;Fuenmayor;26
+4101;Galbárruli;26
+4102;Galilea;26
+4103;Gallinero de Cameros;26
+4104;Gimileo;26
+4105;Grañón;26
+4106;Grávalos;26
+4107;Haro;26
+4108;Herce;26
+4109;Herramélluri;26
+4110;Hervías;26
+4111;Hormilla;26
+4112;Hormilleja;26
+4113;Hornillos de Cameros;26
+4114;Hornos de Moncalvillo;26
+4115;Huércanos;26
+4116;Igea;26
+4117;Jalón de Cameros;26
+4118;Laguna de Cameros;26
+4119;Lagunilla del Jubera;26
+4120;Lardero;26
+4121;Ledesma de la Cogolla;26
+4122;Leiva;26
+4123;Leza de Río Leza;26
+4124;Logroño;26
+4125;Lumbreras;26
+4126;Manjarrés;26
+4127;Mansilla de la Sierra;26
+4128;Manzanares de Rioja;26
+4129;Matute;26
+4130;Medrano;26
+4131;Munilla;26
+4132;Murillo de Río Leza;26
+4133;Muro de Aguas;26
+4134;Muro en Cameros;26
+4135;Nájera;26
+4136;Nalda;26
+4137;Navajún;26
+4138;Navarrete;26
+4139;Nestares;26
+4140;Nieva de Cameros;26
+4141;Ochánduri;26
+4142;Ocón;26
+4143;Ojacastro;26
+4144;Ollauri;26
+4145;Ortigosa de Cameros;26
+4146;Pazuengos;26
+4147;Pedroso;26
+4148;Pinillos;26
+4149;Pradejón;26
+4150;Pradillo;26
+4151;Préjano;26
+4152;Quel;26
+4153;Rabanera;26
+4154;Rasillo de Cameros, El;26
+4155;Redal, El;26
+4156;Ribafrecha;26
+4157;Rincón de Soto;26
+4158;Robres del Castillo;26
+4159;Rodezno;26
+4160;Sajazarra;26
+4161;San Asensio;26
+4162;San Millán de la Cogolla;26
+4163;San Millán de Yécora;26
+4164;San Román de Cameros;26
+4165;San Torcuato;26
+4166;San Vicente de la Sonsierra;26
+4167;Santa Coloma;26
+4168;Santa Engracia del Jubera;26
+4169;Santa Eulalia Bajera;26
+4170;Santo Domingo de la Calzada;26
+4171;Santurde de Rioja;26
+4172;Santurdejo;26
+4173;Sojuela;26
+4174;Sorzano;26
+4175;Sotés;26
+4176;Soto en Cameros;26
+4177;Terroba;26
+4178;Tirgo;26
+4179;Tobía;26
+4180;Tormantos;26
+4181;Torre en Cameros;26
+4182;Torrecilla en Cameros;26
+4183;Torrecilla sobre Alesanco;26
+4184;Torremontalbo;26
+4185;Treviana;26
+4186;Tricio;26
+4187;Tudelilla;26
+4188;Uruñuela;26
+4189;Valdemadera;26
+4190;Valgañón;26
+4191;Ventosa;26
+4192;Ventrosa;26
+4193;Viguera;26
+4194;Villalba de Rioja;26
+4195;Villalobar de Rioja;26
+4196;Villamediana de Iregua;26
+4197;Villanueva de Cameros;26
+4198;Villar de Arnedo, El;26
+4199;Villar de Torre;26
+4200;Villarejo;26
+4201;Villarroya;26
+4202;Villarta-Quintana;26
+4203;Villavelayo;26
+4204;Villaverde de Rioja;26
+4205;Villoslada de Cameros;26
+4206;Viniegra de Abajo;26
+4207;Viniegra de Arriba;26
+4208;Zarratón;26
+4209;Zarzosa;26
+4210;Zorraquín;26
+4211;Abadín;27
+4212;Alfoz;27
+4213;Antas de Ulla;27
+4214;Baleira;27
+4215;Baralla;27
+4216;Barreiros;27
+4217;Becerreá;27
+4218;Begonte;27
+4219;Bóveda;27
+4220;Burela;27
+4221;Carballedo;27
+4222;Castro de Rei;27
+4223;Castroverde;27
+4224;Cervantes;27
+4225;Cervo;27
+4226;Chantada;27
+4227;Corgo, O;27
+4228;Cospeito;27
+4229;Folgoso do Courel;27
+4230;Fonsagrada, A;27
+4231;Foz;27
+4232;Friol;27
+4233;Guitiriz;27
+4234;Guntín;27
+4235;Incio, O;27
+4236;Láncara;27
+4237;Lourenzá;27
+4238;Lugo;27
+4239;Meira;27
+4240;Mondoñedo;27
+4241;Monforte de Lemos;27
+4242;Monterroso;27
+4243;Muras;27
+4244;Navia de Suarna;27
+4245;Negueira de Muñiz;27
+4246;Nogais, As;27
+4247;Ourol;27
+4248;Outeiro de Rei;27
+4249;Palas de Rei;27
+4250;Pantón;27
+4251;Paradela;27
+4252;Páramo, O;27
+4253;Pastoriza, A;27
+4254;Pedrafita do Cebreiro;27
+4255;Pobra do Brollón, A;27
+4256;Pol;27
+4257;Pontenova, A;27
+4258;Portomarín;27
+4259;Quiroga;27
+4260;Rábade;27
+4261;Ribadeo;27
+4262;Ribas de Sil;27
+4263;Ribeira de Piquín;27
+4264;Riotorto;27
+4265;Samos;27
+4266;Sarria;27
+4267;Saviñao, O;27
+4268;Sober;27
+4269;Taboada;27
+4270;Trabada;27
+4271;Triacastela;27
+4272;Valadouro, O;27
+4273;Vicedo, O;27
+4274;Vilalba;27
+4275;Viveiro;27
+4276;Xermade;27
+4277;Xove;27
+4278;Acebeda, La;28
+4279;Ajalvir;28
+4280;Alameda del Valle;28
+4281;Álamo, El;28
+4282;Alcalá de Henares;28
+4283;Alcobendas;28
+4284;Alcorcón;28
+4285;Aldea del Fresno;28
+4286;Algete;28
+4287;Alpedrete;28
+4288;Ambite;28
+4289;Anchuelo;28
+4290;Aranjuez;28
+4291;Arganda del Rey;28
+4293;Atazar, El;28
+4294;Batres;28
+4295;Becerril de la Sierra;28
+4296;Belmonte de Tajo;28
+4297;Berrueco, El;28
+4298;Berzosa del Lozoya;28
+4299;Boadilla del Monte;28
+4300;Boalo, El;28
+4301;Braojos;28
+4302;Brea de Tajo;28
+4303;Brunete;28
+4304;Buitrago del Lozoya;28
+4305;Bustarviejo;28
+4306;Cabanillas de la Sierra;28
+4307;Cabrera, La;28
+4308;Cadalso de los Vidrios;28
+4309;Camarma de Esteruelas;28
+4310;Campo Real;28
+4311;Canencia;28
+4312;Carabaña;28
+4313;Casarrubuelos;28
+4314;Cenicientos;28
+4315;Cercedilla;28
+4316;Cervera de Buitrago;28
+4317;Chapinería;28
+4318;Chinchón;28
+4319;Ciempozuelos;28
+4320;Cobeña;28
+4321;Collado Mediano;28
+4322;Collado Villalba;28
+4323;Colmenar de Oreja;28
+4324;Colmenar del Arroyo;28
+4325;Colmenar Viejo;28
+4326;Colmenarejo;28
+4327;Corpa;28
+4328;Coslada;28
+4329;Cubas de la Sagra;28
+4330;Daganzo de Arriba;28
+4331;Escorial, El;28
+4332;Estremera;28
+4333;Fresnedillas de la Oliva;28
+4334;Fresno de Torote;28
+4335;Fuenlabrada;28
+4336;Fuente el Saz de Jarama;28
+4337;Fuentidueña de Tajo;28
+4338;Galapagar;28
+4339;Garganta de los Montes;28
+4340;Gargantilla del Lozoya y Pinilla de Buitrago;28
+4341;Gascones;28
+4342;Getafe;28
+4343;Griñón;28
+4344;Guadalix de la Sierra;28
+4345;Guadarrama;28
+4346;Hiruela, La;28
+4347;Horcajo de la Sierra-Aoslos;28
+4348;Horcajuelo de la Sierra;28
+4349;Hoyo de Manzanares;28
+4350;Humanes de Madrid;28
+4351;Leganés;28
+4352;Loeches;28
+4353;Lozoya;28
+4354;Lozoyuela-Navas-Sieteiglesias;28
+4355;Madarcos;28
+4356;Madrid;28
+4357;Majadahonda;28
+4358;Manzanares el Real;28
+4359;Meco;28
+4360;Mejorada del Campo;28
+4361;Miraflores de la Sierra;28
+4362;Molar, El;28
+4363;Molinos, Los;28
+4364;Montejo de la Sierra;28
+4365;Moraleja de Enmedio;28
+4366;Moralzarzal;28
+4367;Morata de Tajuña;28
+4368;Móstoles;28
+4369;Navacerrada;28
+4370;Navalafuente;28
+4371;Navalagamella;28
+4372;Navalcarnero;28
+4373;Navarredonda y San Mamés;28
+4374;Navas del Rey;28
+4375;Nuevo Baztán;28
+4376;Olmeda de las Fuentes;28
+4377;Orusco de Tajuña;28
+4378;Paracuellos de Jarama;28
+4379;Parla;28
+4380;Patones;28
+4381;Pedrezuela;28
+4382;Pelayos de la Presa;28
+4383;Perales de Tajuña;28
+4384;Pezuela de las Torres;28
+4385;Pinilla del Valle;28
+4386;Pinto;28
+4387;Piñuécar-Gandullas;28
+4388;Pozuelo de Alarcón;28
+4389;Pozuelo del Rey;28
+4390;Prádena del Rincón;28
+4391;Puebla de la Sierra;28
+4392;Puentes Viejas;28
+4393;Quijorna;28
+4394;Rascafría;28
+4395;Redueña;28
+4396;Ribatejada;28
+4397;Rivas-Vaciamadrid;28
+4398;Robledillo de la Jara;28
+4399;Robledo de Chavela;28
+4400;Robregordo;28
+4401;Rozas de Madrid, Las;28
+4402;Rozas de Puerto Real;28
+4403;San Agustín del Guadalix;28
+4404;San Fernando de Henares;28
+4405;San Lorenzo de El Escorial;28
+4406;San Martín de la Vega;28
+4407;San Martín de Valdeiglesias;28
+4408;San Sebastián de los Reyes;28
+4409;Santa María de la Alameda;28
+4410;Santorcaz;28
+4411;Santos de la Humosa, Los;28
+4412;Serna del Monte, La;28
+4413;Serranillos del Valle;28
+4414;Sevilla la Nueva;28
+4415;Somosierra;28
+4416;Soto del Real;28
+4417;Talamanca de Jarama;28
+4418;Tielmes;28
+4419;Titulcia;28
+4420;Torrejón de Ardoz;28
+4421;Torrejón de la Calzada;28
+4422;Torrejón de Velasco;28
+4423;Torrelaguna;28
+4424;Torrelodones;28
+4425;Torremocha de Jarama;28
+4426;Torres de la Alameda;28
+4427;Tres Cantos;28
+4428;Valdaracete;28
+4429;Valdeavero;28
+4430;Valdelaguna;28
+4431;Valdemanco;28
+4432;Valdemaqueda;28
+4433;Valdemorillo;28
+4434;Valdemoro;28
+4435;Valdeolmos-Alalpardo;28
+4436;Valdepiélagos;28
+4437;Valdetorres de Jarama;28
+4438;Valdilecha;28
+4439;Valverde de Alcalá;28
+4440;Velilla de San Antonio;28
+4441;Vellón, El;28
+4442;Venturada;28
+4443;Villa del Prado;28
+4444;Villaconejos;28
+4445;Villalbilla;28
+4446;Villamanrique de Tajo;28
+4447;Villamanta;28
+4448;Villamantilla;28
+4449;Villanueva de la Cañada;28
+4450;Villanueva de Perales;28
+4451;Villanueva del Pardillo;28
+4452;Villar del Olmo;28
+4453;Villarejo de Salvanés;28
+4454;Villaviciosa de Odón;28
+4455;Villavieja del Lozoya;28
+4456;Zarzalejo;28
+4457;Alameda;29
+4458;Alcaucín;29
+4459;Alfarnate;29
+4460;Alfarnatejo;29
+4461;Algarrobo;29
+4462;Algatocín;29
+4463;Alhaurín de la Torre;29
+4464;Alhaurín el Grande;29
+4465;Almáchar;29
+4466;Almargen;29
+4467;Almogía;29
+4468;Álora;29
+4469;Alozaina;29
+4470;Alpandeire;29
+4471;Antequera;29
+4472;Árchez;29
+4473;Archidona;29
+4474;Ardales;29
+4475;Arenas;29
+4476;Arriate;29
+4477;Atajate;29
+4478;Benadalid;29
+4479;Benahavís;29
+4480;Benalauría;29
+4481;Benalmádena;29
+4482;Benamargosa;29
+4483;Benamocarra;29
+4484;Benaoján;29
+4485;Benarrabá;29
+4486;Borge, El;29
+4487;Burgo, El;29
+4488;Campillos;29
+4489;Canillas de Aceituno;29
+4490;Canillas de Albaida;29
+4491;Cañete la Real;29
+4492;Carratraca;29
+4493;Cartajima;29
+4494;Cártama;29
+4495;Casabermeja;29
+4496;Casarabonela;29
+4497;Casares;29
+4498;Coín;29
+4499;Colmenar;29
+4500;Comares;29
+4501;Cómpeta;29
+4502;Cortes de la Frontera;29
+4503;Cuevas Bajas;29
+4504;Cuevas de San Marcos;29
+4505;Cuevas del Becerro;29
+4506;Cútar;29
+4507;Estepona;29
+4508;Faraján;29
+4509;Frigiliana;29
+4510;Fuengirola;29
+4511;Fuente de Piedra;29
+4512;Gaucín;29
+4513;Genalguacil;29
+4514;Guaro;29
+4515;Humilladero;29
+4516;Igualeja;29
+4517;Istán;29
+4518;Iznate;29
+4519;Jimera de Líbar;29
+4520;Jubrique;29
+4521;Júzcar;29
+4522;Macharaviaya;29
+4523;Málaga;29
+4524;Manilva;29
+4525;Marbella;29
+4526;Mijas;29
+4527;Moclinejo;29
+4528;Mollina;29
+4529;Monda;29
+4530;Montejaque;29
+4531;Nerja;29
+4532;Ojén;29
+4533;Parauta;29
+4534;Periana;29
+4535;Pizarra;29
+4536;Pujerra;29
+4537;Rincón de la Victoria;29
+4538;Riogordo;29
+4539;Ronda;29
+4540;Salares;29
+4541;Sayalonga;29
+4542;Sedella;29
+4543;Sierra de Yeguas;29
+4544;Teba;29
+4545;Tolox;29
+4546;Torremolinos;29
+4547;Torrox;29
+4548;Totalán;29
+4549;Valle de Abdalajís;29
+4550;Vélez-Málaga;29
+4551;Villanueva de Algaidas;29
+4552;Villanueva de la Concepción;29
+4553;Villanueva de Tapia;29
+4554;Villanueva del Rosario;29
+4555;Villanueva del Trabuco;29
+4556;Viñuela;29
+4557;Yunquera;29
+4558;Abanilla;30
+4559;Abarán;30
+4560;Águilas;30
+4561;Albudeite;30
+4562;Alcantarilla;30
+4563;Alcázares, Los;30
+4564;Aledo;30
+4565;Alguazas;30
+4566;Alhama de Murcia;30
+4567;Archena;30
+4568;Beniel;30
+4569;Blanca;30
+4570;Bullas;30
+4571;Calasparra;30
+4572;Campos del Río;30
+4573;Caravaca de la Cruz;30
+4574;Cartagena;30
+4575;Cehegín;30
+4576;Ceutí;30
+4577;Cieza;30
+4578;Fortuna;30
+4579;Fuente Álamo de Murcia;30
+4580;Jumilla;30
+4581;Librilla;30
+4582;Lorca;30
+4583;Lorquí;30
+4584;Mazarrón;30
+4585;Molina de Segura;30
+4586;Moratalla;30
+4587;Mula;30
+4588;Murcia;30
+4589;Ojós;30
+4590;Pliego;30
+4591;Puerto Lumbreras;30
+4592;Ricote;30
+4593;San Javier;30
+4594;San Pedro del Pinatar;30
+4595;Santomera;30
+4596;Torre-Pacheco;30
+4597;Torres de Cotillas, Las;30
+4598;Totana;30
+4599;Ulea;30
+4600;Unión, La;30
+4601;Villanueva del Río Segura;30
+4602;Yecla;30
+4603;Abáigar;31
+4604;Abárzuza;31
+4605;Abaurregaina/Abaurrea Alta;31
+4606;Abaurrepea/Abaurrea Baja;31
+4607;Aberin;31
+4608;Ablitas;31
+4609;Adiós;31
+4610;Aguilar de Codés;31
+4611;Aibar/Oibar;31
+4612;Allín;31
+4613;Allo;31
+4614;Altsasu/Alsasua;31
+4615;Améscoa Baja;31
+4616;Ancín/Antzin;31
+4617;Andosilla;31
+4618;Ansoáin/Antsoain;31
+4619;Anue;31
+4620;Añorbe;31
+4621;Aoiz/Agoitz;31
+4622;Araitz;31
+4623;Arakil;31
+4624;Aranarache/Aranaratxe;31
+4625;Aranguren;31
+4626;Arano;31
+4627;Arantza;31
+4628;Aras;31
+4629;Arbizu;31
+4630;Arce/Artzi;31
+4631;Arcos, Los;31
+4632;Arellano;31
+4633;Areso;31
+4634;Arguedas;31
+4635;Aria;31
+4636;Aribe;31
+4637;Armañanzas;31
+4638;Arróniz;31
+4639;Arruazu;31
+4640;Artajona;31
+4641;Artazu;31
+4642;Atez;31
+4643;Auritz/Burguete;31
+4644;Ayegui/Aiegi;31
+4645;Azagra;31
+4646;Azuelo;31
+4647;Bakaiku;31
+4648;Barañain;31
+4649;Barásoain;31
+4650;Barbarin;31
+4651;Bargota;31
+4652;Barillas;31
+4653;Basaburua;31
+4654;Baztan;31
+4655;Beintza-Labaien;31
+4656;Beire;31
+4657;Belascoáin;31
+4658;Bera;31
+4659;Berbinzana;31
+4660;Beriáin;31
+4661;Berrioplano;31
+4662;Berriozar;31
+4663;Bertizarana;31
+4664;Betelu;31
+4665;Bidaurreta;31
+4666;Biurrun-Olcoz;31
+4667;Buñuel;31
+4668;Burgui/Burgi;31
+4669;Burlada/Burlata;31
+4670;Busto, El;31
+4671;Cabanillas;31
+4672;Cabredo;31
+4673;Cadreita;31
+4674;Caparroso;31
+4675;Cárcar;31
+4676;Carcastillo;31
+4677;Cascante;31
+4678;Cáseda;31
+4680;Castillonuevo;31
+4681;Cendea de Olza/Oltza Zendea;31
+4682;Cintruénigo;31
+4683;Cirauqui/Zirauki;31
+4684;Ciriza;31
+4685;Cizur;31
+4686;Corella;31
+4687;Cortes;31
+4688;Desojo;31
+4689;Dicastillo;31
+4690;Donamaria;31
+4691;Doneztebe/Santesteban;31
+4692;Echarri;31
+4693;Egüés;31
+4694;Elgorriaga;31
+4695;Enériz/Eneritz;31
+4696;Eratsun;31
+4697;Ergoiena;31
+4698;Erro;31
+4699;Eslava;31
+4700;Esparza de Salazar/Espartza Zaraitzu;31
+4701;Espronceda;31
+4702;Estella/Lizarra;31
+4703;Esteribar;31
+4704;Etayo;31
+4705;Etxalar;31
+4706;Etxarri-Aranatz;31
+4707;Etxauri;31
+4708;Eulate;31
+4709;Ezcabarte;31
+4710;Ezcároz/Ezkaroze;31
+4711;Ezkurra;31
+4712;Ezprogui;31
+4713;Falces;31
+4714;Fitero;31
+4715;Fontellas;31
+4716;Funes;31
+4717;Fustiñana;31
+4718;Galar;31
+4719;Gallipienzo/Galipentzu;31
+4720;Gallués/Galoze;31
+4721;Garaioa;31
+4722;Garde;31
+4723;Garínoain;31
+4724;Garralda;31
+4725;Genevilla;31
+4726;Goizueta;31
+4727;Goñi;31
+4728;Güesa/Gorza;31
+4729;Guesálaz/Gesalatz;31
+4730;Guirguillano;31
+4731;Hiriberri/Villanueva de Aezkoa;31
+4732;Huarte/Uharte;31
+4733;Ibargoiti;31
+4734;Igantzi;31
+4735;Igúzquiza;31
+4736;Imotz;31
+4737;Irañeta;31
+4738;Irurtzun;31
+4739;Isaba/Izaba;31
+4740;Ituren;31
+4741;Iturmendi;31
+4742;Iza/Itza;31
+4743;Izagaondoa;31
+4744;Izalzu/Itzaltzu;31
+4745;Jaurrieta;31
+4746;Javier;31
+4747;Juslapeña;31
+4748;Lakuntza;31
+4749;Lana;31
+4750;Lantz;31
+4751;Lapoblación;31
+4752;Larraga;31
+4753;Larraona;31
+4754;Larraun;31
+4755;Lazagurría;31
+4756;Leache;31
+4757;Legarda;31
+4758;Legaria;31
+4759;Leitza;31
+4760;Lekunberri;31
+4761;Leoz/Leotz;31
+4762;Lerga;31
+4763;Lerín;31
+4764;Lesaka;31
+4765;Lezáun;31
+4766;Liédena;31
+4767;Lizoáin-Arriasgoiti;31
+4768;Lodosa;31
+4769;Lónguida/Longida;31
+4770;Lumbier;31
+4771;Luquin;31
+4772;Luzaide/Valcarlos;31
+4773;Mañeru;31
+4774;Marañón;31
+4775;Marcilla;31
+4776;Mélida;31
+4777;Mendavia;31
+4778;Mendaza;31
+4779;Mendigorría;31
+4780;Metauten;31
+4781;Milagro;31
+4782;Mirafuentes;31
+4783;Miranda de Arga;31
+4784;Monreal;31
+4785;Monteagudo;31
+4786;Morentin;31
+4787;Mues;31
+4788;Murchante;31
+4789;Murieta;31
+4790;Murillo el Cuende;31
+4791;Murillo el Fruto;31
+4792;Muruzábal;31
+4793;Navascués;31
+4794;Nazar;31
+4795;Noáin (Valle de Elorz)/Noain (Elortzibar);31
+4796;Obanos;31
+4797;Ochagavía/Otsagabia;31
+4798;Oco;31
+4799;Odieta;31
+4800;Oitz;31
+4801;Olaibar;31
+4802;Olazti/Olazagutía;31
+4803;Olejua;31
+4804;Olite/Erriberri;31
+4805;Ollo;31
+4806;Olóriz/Oloritz;31
+4807;Orbaitzeta;31
+4808;Orbara;31
+4809;Orísoain;31
+4810;Orkoien;31
+4811;Oronz/Orontze;31
+4812;Oroz-Betelu/Orotz-Betelu;31
+4813;Orreaga/Roncesvalles;31
+4814;Oteiza;31
+4815;Pamplona/Iruña;31
+4816;Peralta/Azkoien;31
+4817;Petilla de Aragón;31
+4818;Piedramillera;31
+4819;Pitillas;31
+4820;Puente la Reina/Gares;31
+4821;Pueyo;31
+4822;Ribaforada;31
+4823;Romanzado;31
+4824;Roncal/Erronkari;31
+4826;Saldías;31
+4827;Salinas de Oro/Jaitz;31
+4828;San Adrián;31
+4829;San Martín de Unx;31
+4830;Sangüesa/Zangoza;31
+4831;Sansol;31
+4832;Santacara;31
+4833;Sarriés/Sartze;31
+4834;Sartaguda;31
+4835;Sesma;31
+4836;Sorlada;31
+4837;Sunbilla;31
+4838;Tafalla;31
+4839;Tiebas-Muruarte de Reta;31
+4840;Tirapu;31
+4841;Torralba del Río;31
+4842;Torres del Río;31
+4843;Tudela;31
+4844;Tulebras;31
+4845;Ucar;31
+4846;Uharte-Arakil;31
+4847;Ujué;31
+4848;Ultzama;31
+4849;Unciti;31
+4850;Unzué;31
+4851;Urdazubi/Urdax;31
+4852;Urdiain;31
+4853;Urraul Alto;31
+4854;Urraul Bajo;31
+4855;Urrotz;31
+4856;Urroz-Villa;31
+4857;Urzainqui/Urzainki;31
+4858;Uterga;31
+4859;Uztárroz/Uztarroze;31
+4860;Valle de Yerri/Deierri;31
+4861;Valtierra;31
+4862;Viana;31
+4863;Vidángoz/Bidankoze;31
+4864;Villafranca;31
+4865;Villamayor de Monjardín;31
+4866;Villatuerta;31
+4867;Villava/Atarrabia;31
+4868;Yesa;31
+4869;Zabalza/Zabaltza;31
+4870;Ziordia;31
+4871;Zizur Mayor/Zizur Nagusia;31
+4872;Zubieta;31
+4873;Zugarramurdi;31
+4874;Zúñiga;31
+4875;Allariz;32
+4876;Amoeiro;32
+4877;Arnoia, A;32
+4878;Avión;32
+4879;Baltar;32
+4880;Bande;32
+4881;Baños de Molgas;32
+4882;Barbadás;32
+4883;Barco de Valdeorras, O;32
+4884;Beade;32
+4885;Beariz;32
+4886;Blancos, Os;32
+4887;Boborás;32
+4888;Bola, A;32
+4889;Bolo, O;32
+4890;Calvos de Randín;32
+4891;Carballeda de Avia;32
+4892;Carballeda de Valdeorras;32
+4893;Carballiño, O;32
+4894;Cartelle;32
+4895;Castrelo de Miño;32
+4896;Castrelo do Val;32
+4897;Castro Caldelas;32
+4898;Celanova;32
+4899;Cenlle;32
+4900;Chandrexa de Queixa;32
+4901;Coles;32
+4902;Cortegada;32
+4903;Cualedro;32
+4904;Entrimo;32
+4905;Esgos;32
+4906;Gomesende;32
+4907;Gudiña, A;32
+4908;Irixo, O;32
+4909;Larouco;32
+4910;Laza;32
+4911;Leiro;32
+4912;Lobeira;32
+4913;Lobios;32
+4914;Maceda;32
+4915;Manzaneda;32
+4916;Maside;32
+4917;Melón;32
+4918;Merca, A;32
+4919;Mezquita, A;32
+4920;Montederramo;32
+4921;Monterrei;32
+4922;Muíños;32
+4923;Nogueira de Ramuín;32
+4924;Oímbra;32
+4925;Ourense;32
+4926;Paderne de Allariz;32
+4927;Padrenda;32
+4928;Parada de Sil;32
+4929;Pereiro de Aguiar, O;32
+4930;Peroxa, A;32
+4931;Petín;32
+4932;Piñor;32
+4933;Pobra de Trives, A;32
+4934;Pontedeva;32
+4935;Porqueira;32
+4936;Punxín;32
+4937;Quintela de Leirado;32
+4938;Rairiz de Veiga;32
+4939;Ramirás;32
+4940;Ribadavia;32
+4941;Riós;32
+4942;Rúa, A;32
+4943;Rubiá;32
+4944;San Amaro;32
+4945;San Cibrao das Viñas;32
+4946;San Cristovo de Cea;32
+4947;San Xoán de Río;32
+4948;Sandiás;32
+4949;Sarreaus;32
+4950;Taboadela;32
+4951;Teixeira, A;32
+4952;Toén;32
+4953;Trasmiras;32
+4954;Veiga, A;32
+4955;Verea;32
+4956;Verín;32
+4957;Viana do Bolo;32
+4958;Vilamarín;32
+4959;Vilamartín de Valdeorras;32
+4960;Vilar de Barrio;32
+4961;Vilar de Santos;32
+4962;Vilardevós;32
+4963;Vilariño de Conso;32
+4964;Xinzo de Limia;32
+4965;Xunqueira de Ambía;32
+4966;Xunqueira de Espadanedo;32
+4967;Allande;33
+4968;Aller;33
+4969;Amieva;33
+4970;Avilés;33
+4971;Belmonte de Miranda;33
+4972;Bimenes;33
+4973;Boal;33
+4974;Cabrales;33
+4975;Cabranes;33
+4976;Candamo;33
+4977;Cangas de Onís;33
+4978;Cangas del Narcea;33
+4979;Caravia;33
+4980;Carreño;33
+4981;Caso;33
+4982;Castrillón;33
+4983;Castropol;33
+4984;Coaña;33
+4985;Colunga;33
+4986;Corvera de Asturias;33
+4987;Cudillero;33
+4988;Degaña;33
+4989;Franco, El;33
+4990;Gijón;33
+4991;Gozón;33
+4992;Grado;33
+4993;Grandas de Salime;33
+4994;Ibias;33
+4995;Illano;33
+4996;Illas;33
+4997;Langreo;33
+4998;Laviana;33
+4999;Lena;33
+5000;Llanera;33
+5001;Llanes;33
+5003;Morcín;33
+5004;Muros de Nalón;33
+5005;Nava;33
+5006;Navia;33
+5007;Noreña;33
+5008;Onís;33
+5009;Oviedo;33
+5010;Parres;33
+5011;Peñamellera Alta;33
+5012;Peñamellera Baja;33
+5013;Pesoz;33
+5014;Piloña;33
+5015;Ponga;33
+5016;Pravia;33
+5017;Proaza;33
+5018;Quirós;33
+5019;Regueras, Las;33
+5020;Ribadedeva;33
+5021;Ribadesella;33
+5022;Ribera de Arriba;33
+5023;Riosa;33
+5024;Salas;33
+5025;San Martín de Oscos;33
+5026;San Martín del Rey Aurelio;33
+5027;San Tirso de Abres;33
+5028;Santa Eulalia de Oscos;33
+5029;Santo Adriano;33
+5030;Sariego;33
+5031;Siero;33
+5032;Sobrescobio;33
+5033;Somiedo;33
+5034;Soto del Barco;33
+5035;Tapia de Casariego;33
+5036;Taramundi;33
+5037;Teverga;33
+5038;Tineo;33
+5039;Valdés;33
+5040;Vegadeo;33
+5041;Villanueva de Oscos;33
+5042;Villaviciosa;33
+5043;Villayón;33
+5044;Yernes y Tameza;33
+5045;Abarca de Campos;34
+5046;Abia de las Torres;34
+5047;Aguilar de Campoo;34
+5048;Alar del Rey;34
+5049;Alba de Cerrato;34
+5050;Amayuelas de Arriba;34
+5051;Ampudia;34
+5052;Amusco;34
+5053;Antigüedad;34
+5054;Arconada;34
+5055;Astudillo;34
+5056;Autilla del Pino;34
+5057;Autillo de Campos;34
+5058;Ayuela;34
+5059;Baltanás;34
+5060;Baquerín de Campos;34
+5061;Bárcena de Campos;34
+5062;Barruelo de Santullán;34
+5063;Báscones de Ojeda;34
+5064;Becerril de Campos;34
+5065;Belmonte de Campos;34
+5066;Berzosilla;34
+5067;Boada de Campos;34
+5068;Boadilla de Rioseco;34
+5069;Boadilla del Camino;34
+5070;Brañosera;34
+5071;Buenavista de Valdavia;34
+5072;Bustillo de la Vega;34
+5073;Bustillo del Páramo de Carrión;34
+5074;Calahorra de Boedo;34
+5075;Calzada de los Molinos;34
+5076;Capillas;34
+5077;Cardeñosa de Volpejera;34
+5078;Carrión de los Condes;34
+5079;Castil de Vela;34
+5080;Castrejón de la Peña;34
+5081;Castrillo de Don Juan;34
+5082;Castrillo de Onielo;34
+5083;Castrillo de Villavega;34
+5084;Castromocho;34
+5085;Cervatos de la Cueza;34
+5086;Cervera de Pisuerga;34
+5087;Cevico de la Torre;34
+5088;Cevico Navero;34
+5089;Cisneros;34
+5090;Cobos de Cerrato;34
+5091;Collazos de Boedo;34
+5092;Congosto de Valdavia;34
+5093;Cordovilla la Real;34
+5094;Cubillas de Cerrato;34
+5095;Dehesa de Montejo;34
+5096;Dehesa de Romanos;34
+5097;Dueñas;34
+5098;Espinosa de Cerrato;34
+5099;Espinosa de Villagonzalo;34
+5100;Frechilla;34
+5101;Fresno del Río;34
+5102;Frómista;34
+5103;Fuentes de Nava;34
+5104;Fuentes de Valdepero;34
+5105;Grijota;34
+5106;Guardo;34
+5107;Guaza de Campos;34
+5108;Hérmedes de Cerrato;34
+5109;Herrera de Pisuerga;34
+5110;Herrera de Valdecañas;34
+5111;Hontoria de Cerrato;34
+5112;Hornillos de Cerrato;34
+5113;Husillos;34
+5114;Itero de la Vega;34
+5115;Lagartos;34
+5116;Lantadilla;34
+5117;Ledigos;34
+5118;Loma de Ucieza;34
+5119;Lomas;34
+5120;Magaz de Pisuerga;34
+5121;Manquillos;34
+5122;Mantinos;34
+5123;Marcilla de Campos;34
+5124;Mazariegos;34
+5125;Mazuecos de Valdeginate;34
+5126;Melgar de Yuso;34
+5127;Meneses de Campos;34
+5128;Micieces de Ojeda;34
+5129;Monzón de Campos;34
+5130;Moratinos;34
+5131;Mudá;34
+5132;Nogal de las Huertas;34
+5133;Olea de Boedo;34
+5134;Olmos de Ojeda;34
+5135;Osornillo;34
+5136;Osorno la Mayor;34
+5137;Palencia;34
+5138;Palenzuela;34
+5139;Páramo de Boedo;34
+5140;Paredes de Nava;34
+5141;Payo de Ojeda;34
+5142;Pedraza de Campos;34
+5143;Pedrosa de la Vega;34
+5144;Perales;34
+5145;Pernía, La;34
+5146;Pino del Río;34
+5147;Piña de Campos;34
+5148;Población de Arroyo;34
+5149;Población de Campos;34
+5150;Población de Cerrato;34
+5151;Polentinos;34
+5152;Pomar de Valdivia;34
+5153;Poza de la Vega;34
+5154;Pozo de Urama;34
+5155;Prádanos de Ojeda;34
+5156;Puebla de Valdavia, La;34
+5157;Quintana del Puente;34
+5158;Quintanilla de Onsoña;34
+5159;Reinoso de Cerrato;34
+5160;Renedo de la Vega;34
+5161;Requena de Campos;34
+5162;Respenda de la Peña;34
+5163;Revenga de Campos;34
+5164;Revilla de Collazos;34
+5165;Ribas de Campos;34
+5166;Riberos de la Cueza;34
+5167;Saldaña;34
+5168;Salinas de Pisuerga;34
+5169;San Cebrián de Campos;34
+5170;San Cebrián de Mudá;34
+5171;San Cristóbal de Boedo;34
+5172;San Mamés de Campos;34
+5173;San Román de la Cuba;34
+5174;Santa Cecilia del Alcor;34
+5175;Santa Cruz de Boedo;34
+5176;Santervás de la Vega;34
+5177;Santibáñez de Ecla;34
+5178;Santibáñez de la Peña;34
+5179;Santoyo;34
+5180;Serna, La;34
+5181;Soto de Cerrato;34
+5182;Sotobañado y Priorato;34
+5183;Tabanera de Cerrato;34
+5184;Tabanera de Valdavia;34
+5185;Támara de Campos;34
+5186;Tariego de Cerrato;34
+5187;Torquemada;34
+5188;Torremormojón;34
+5189;Triollo;34
+5190;Valbuena de Pisuerga;34
+5191;Valdeolmillos;34
+5192;Valderrábano;34
+5193;Valde-Ucieza;34
+5194;Valle de Cerrato;34
+5195;Valle del Retortillo;34
+5196;Velilla del Río Carrión;34
+5197;Venta de Baños;34
+5198;Vertavillo;34
+5199;Vid de Ojeda, La;34
+5200;Villabasta de Valdavia;34
+5201;Villacidaler;34
+5202;Villaconancio;34
+5203;Villada;34
+5204;Villaeles de Valdavia;34
+5205;Villahán;34
+5206;Villaherreros;34
+5207;Villalaco;34
+5208;Villalba de Guardo;34
+5209;Villalcázar de Sirga;34
+5210;Villalcón;34
+5211;Villalobón;34
+5212;Villaluenga de la Vega;34
+5213;Villamartín de Campos;34
+5214;Villamediana;34
+5215;Villameriel;34
+5216;Villamoronta;34
+5217;Villamuera de la Cueza;34
+5218;Villamuriel de Cerrato;34
+5219;Villanueva del Rebollar;34
+5220;Villanuño de Valdavia;34
+5221;Villaprovedo;34
+5222;Villarmentero de Campos;34
+5223;Villarrabé;34
+5224;Villarramiel;34
+5225;Villasarracino;34
+5226;Villasila de Valdavia;34
+5227;Villaturde;34
+5228;Villaumbrales;34
+5229;Villaviudas;34
+5230;Villerías de Campos;34
+5231;Villodre;34
+5232;Villodrigo;34
+5233;Villoldo;34
+5234;Villota del Páramo;34
+5235;Villovieco;34
+5236;Agaete;35
+5237;Agüimes;35
+5238;Aldea de San Nicolás, La;35
+5239;Antigua;35
+5240;Arrecife;35
+5241;Artenara;35
+5242;Arucas;35
+5243;Betancuria;35
+5244;Firgas;35
+5245;Gáldar;35
+5246;Haría;35
+5247;Ingenio;35
+5248;Mogán;35
+5250;Oliva, La;35
+5251;Pájara;35
+5252;Palmas de Gran Canaria, Las;35
+5253;Puerto del Rosario;35
+5254;San Bartolomé;35
+5255;San Bartolomé de Tirajana;35
+5256;Santa Brígida;35
+5257;Santa Lucía de Tirajana;35
+5258;Santa María de Guía de Gran Canaria;35
+5259;Teguise;35
+5260;Tejeda;35
+5261;Telde;35
+5262;Teror;35
+5263;Tías;35
+5264;Tinajo;35
+5265;Tuineje;35
+5266;Valleseco;35
+5267;Valsequillo de Gran Canaria;35
+5268;Vega de San Mateo;35
+5269;Yaiza;35
+5270;Agolada;36
+5271;Arbo;36
+5272;Baiona;36
+5273;Barro;36
+5274;Bueu;36
+5275;Caldas de Reis;36
+5276;Cambados;36
+5277;Campo Lameiro;36
+5278;Cangas;36
+5279;Cañiza, A;36
+5280;Catoira;36
+5281;Cerdedo;36
+5282;Cotobade;36
+5283;Covelo;36
+5284;Crecente;36
+5285;Cuntis;36
+5286;Dozón;36
+5287;Estrada, A;36
+5288;Forcarei;36
+5289;Fornelos de Montes;36
+5290;Gondomar;36
+5291;Grove, O;36
+5292;Guarda, A;36
+5293;Illa de Arousa, A;36
+5294;Lalín;36
+5295;Lama, A;36
+5296;Marín;36
+5297;Meaño;36
+5298;Meis;36
+5299;Moaña;36
+5300;Mondariz;36
+5301;Mondariz-Balneario;36
+5302;Moraña;36
+5303;Mos;36
+5304;Neves, As;36
+5305;Nigrán;36
+5306;Oia;36
+5307;Pazos de Borbén;36
+5308;Poio;36
+5309;Ponte Caldelas;36
+5310;Ponteareas;36
+5311;Pontecesures;36
+5312;Pontevedra;36
+5313;Porriño, O;36
+5314;Portas;36
+5315;Redondela;36
+5316;Ribadumia;36
+5317;Rodeiro;36
+5318;Rosal, O;36
+5319;Salceda de Caselas;36
+5320;Salvaterra de Miño;36
+5321;Sanxenxo;36
+5322;Silleda;36
+5323;Soutomaior;36
+5324;Tomiño;36
+5325;Tui;36
+5326;Valga;36
+5327;Vigo;36
+5328;Vila de Cruces;36
+5329;Vilaboa;36
+5330;Vilagarcía de Arousa;36
+5331;Vilanova de Arousa;36
+5332;Abusejo;37
+5333;Agallas;37
+5334;Ahigal de los Aceiteros;37
+5335;Ahigal de Villarino;37
+5336;Alameda de Gardón, La;37
+5337;Alamedilla, La;37
+5338;Alaraz;37
+5339;Alba de Tormes;37
+5340;Alba de Yeltes;37
+5341;Alberca, La;37
+5342;Alberguería de Argañán, La;37
+5343;Alconada;37
+5344;Aldea del Obispo;37
+5345;Aldeacipreste;37
+5346;Aldeadávila de la Ribera;37
+5347;Aldealengua;37
+5348;Aldeanueva de Figueroa;37
+5349;Aldeanueva de la Sierra;37
+5350;Aldearrodrigo;37
+5351;Aldearrubia;37
+5352;Aldeaseca de Alba;37
+5353;Aldeaseca de la Frontera;37
+5354;Aldeatejada;37
+5355;Aldeavieja de Tormes;37
+5356;Aldehuela de la Bóveda;37
+5357;Aldehuela de Yeltes;37
+5358;Almenara de Tormes;37
+5359;Almendra;37
+5360;Anaya de Alba;37
+5361;Añover de Tormes;37
+5362;Arabayona de Mógica;37
+5363;Arapiles;37
+5364;Arcediano;37
+5365;Arco, El;37
+5366;Armenteros;37
+5367;Atalaya, La;37
+5368;Babilafuente;37
+5369;Bañobárez;37
+5370;Barbadillo;37
+5371;Barbalos;37
+5372;Barceo;37
+5373;Barruecopardo;37
+5374;Bastida, La;37
+5375;Béjar;37
+5376;Beleña;37
+5377;Bermellar;37
+5378;Berrocal de Huebra;37
+5379;Berrocal de Salvatierra;37
+5380;Boada;37
+5381;Bodón, El;37
+5382;Bogajo;37
+5383;Bouza, La;37
+5384;Bóveda del Río Almar;37
+5385;Brincones;37
+5386;Buenamadre;37
+5387;Buenavista;37
+5388;Cabaco, El;37
+5389;Cabeza de Béjar, La;37
+5390;Cabeza del Caballo;37
+5391;Cabezabellosa de la Calzada;37
+5392;Cabrerizos;37
+5393;Cabrillas;37
+5394;Calvarrasa de Abajo;37
+5395;Calvarrasa de Arriba;37
+5396;Calzada de Béjar, La;37
+5397;Calzada de Don Diego;37
+5398;Calzada de Valdunciel;37
+5399;Campillo de Azaba;37
+5400;Campo de Peñaranda, El;37
+5401;Candelario;37
+5402;Canillas de Abajo;37
+5403;Cantagallo;37
+5404;Cantalapiedra;37
+5405;Cantalpino;37
+5406;Cantaracillo;37
+5407;Carbajosa de la Sagrada;37
+5408;Carpio de Azaba;37
+5409;Carrascal de Barregas;37
+5410;Carrascal del Obispo;37
+5411;Casafranca;37
+5412;Casas del Conde, Las;37
+5413;Casillas de Flores;37
+5414;Castellanos de Moriscos;37
+5415;Castellanos de Villiquera;37
+5416;Castillejo de Martín Viejo;37
+5417;Castraz;37
+5418;Cepeda;37
+5419;Cereceda de la Sierra;37
+5420;Cerezal de Peñahorcada;37
+5421;Cerralbo;37
+5422;Cerro, El;37
+5423;Cespedosa de Tormes;37
+5424;Chagarcía Medianero;37
+5425;Cilleros de la Bastida;37
+5426;Cipérez;37
+5427;Ciudad Rodrigo;37
+5428;Coca de Alba;37
+5429;Colmenar de Montemayor;37
+5430;Cordovilla;37
+5431;Cristóbal;37
+5432;Cubo de Don Sancho, El;37
+5433;Dios le Guarde;37
+5434;Doñinos de Ledesma;37
+5435;Doñinos de Salamanca;37
+5436;Ejeme;37
+5437;Encina, La;37
+5438;Encina de San Silvestre;37
+5439;Encinas de Abajo;37
+5440;Encinas de Arriba;37
+5441;Encinasola de los Comendadores;37
+5442;Endrinal;37
+5443;Escurial de la Sierra;37
+5444;Espadaña;37
+5445;Espeja;37
+5446;Espino de la Orbada;37
+5447;Florida de Liébana;37
+5448;Forfoleda;37
+5449;Frades de la Sierra;37
+5450;Fregeneda, La;37
+5451;Fresnedoso;37
+5452;Fresno Alhándiga;37
+5453;Fuente de San Esteban, La;37
+5454;Fuenteguinaldo;37
+5455;Fuenteliante;37
+5456;Fuenterroble de Salvatierra;37
+5457;Fuentes de Béjar;37
+5458;Fuentes de Oñoro;37
+5459;Gajates;37
+5460;Galindo y Perahuy;37
+5461;Galinduste;37
+5462;Galisancho;37
+5463;Gallegos de Argañán;37
+5464;Gallegos de Solmirón;37
+5465;Garcibuey;37
+5466;Garcihernández;37
+5467;Garcirrey;37
+5468;Gejuelo del Barro;37
+5469;Golpejas;37
+5470;Gomecello;37
+5471;Guadramiro;37
+5472;Guijo de Ávila;37
+5473;Guijuelo;37
+5474;Herguijuela de Ciudad Rodrigo;37
+5475;Herguijuela de la Sierra;37
+5476;Herguijuela del Campo;37
+5477;Hinojosa de Duero;37
+5478;Horcajo de Montemayor;37
+5479;Horcajo Medianero;37
+5480;Hoya, La;37
+5481;Huerta;37
+5482;Iruelos;37
+5483;Ituero de Azaba;37
+5484;Juzbado;37
+5485;Lagunilla;37
+5486;Larrodrigo;37
+5487;Ledesma;37
+5488;Ledrada;37
+5489;Linares de Riofrío;37
+5490;Lumbrales;37
+5491;Machacón;37
+5492;Macotera;37
+5493;Madroñal;37
+5494;Maíllo, El;37
+5495;Malpartida;37
+5496;Mancera de Abajo;37
+5497;Manzano, El;37
+5498;Martiago;37
+5499;Martín de Yeltes;37
+5500;Martinamor;37
+5501;Masueco;37
+5502;Mata de Ledesma, La;37
+5503;Matilla de los Caños del Río;37
+5504;Maya, La;37
+5505;Membribe de la Sierra;37
+5506;Mieza;37
+5507;Milano, El;37
+5508;Miranda de Azán;37
+5509;Miranda del Castañar;37
+5510;Mogarraz;37
+5511;Molinillo;37
+5512;Monforte de la Sierra;37
+5513;Monleón;37
+5514;Monleras;37
+5515;Monsagro;37
+5516;Montejo;37
+5517;Montemayor del Río;37
+5518;Monterrubio de Armuña;37
+5519;Monterrubio de la Sierra;37
+5520;Morasverdes;37
+5521;Morille;37
+5522;Moríñigo;37
+5523;Moriscos;37
+5524;Moronta;37
+5525;Mozárbez;37
+5526;Narros de Matalayegua;37
+5527;Nava de Béjar;37
+5528;Nava de Francia;37
+5529;Nava de Sotrobal;37
+5530;Navacarros;37
+5531;Navales;37
+5532;Navalmoral de Béjar;37
+5533;Navamorales;37
+5534;Navarredonda de la Rinconada;37
+5535;Navasfrías;37
+5536;Negrilla de Palencia;37
+5537;Olmedo de Camaces;37
+5538;Orbada, La;37
+5539;Pajares de la Laguna;37
+5540;Palacios del Arzobispo;37
+5541;Palaciosrubios;37
+5542;Palencia de Negrilla;37
+5543;Parada de Arriba;37
+5544;Parada de Rubiales;37
+5545;Paradinas de San Juan;37
+5546;Pastores;37
+5547;Payo, El;37
+5548;Pedraza de Alba;37
+5549;Pedrosillo de Alba;37
+5550;Pedrosillo de los Aires;37
+5551;Pedrosillo el Ralo;37
+5552;Pedroso de la Armuña, El;37
+5553;Pelabravo;37
+5554;Pelarrodríguez;37
+5555;Pelayos;37
+5556;Peña, La;37
+5557;Peñacaballera;37
+5558;Peñaparda;37
+5559;Peñaranda de Bracamonte;37
+5560;Peñarandilla;37
+5561;Peralejos de Abajo;37
+5562;Peralejos de Arriba;37
+5563;Pereña de la Ribera;37
+5564;Peromingo;37
+5565;Pinedas;37
+5566;Pino de Tormes, El;37
+5567;Pitiegua;37
+5568;Pizarral;37
+5569;Poveda de las Cintas;37
+5570;Pozos de Hinojo;37
+5571;Puebla de Azaba;37
+5572;Puebla de San Medel;37
+5573;Puebla de Yeltes;37
+5574;Puente del Congosto;37
+5575;Puertas;37
+5576;Puerto de Béjar;37
+5577;Puerto Seguro;37
+5578;Rágama;37
+5579;Redonda, La;37
+5580;Retortillo;37
+5581;Rinconada de la Sierra, La;37
+5582;Robleda;37
+5583;Robliza de Cojos;37
+5584;Rollán;37
+5585;Saelices el Chico;37
+5586;Sagrada, La;37
+5587;Sahugo, El;37
+5588;Salamanca;37
+5589;Saldeana;37
+5590;Salmoral;37
+5591;Salvatierra de Tormes;37
+5592;San Cristóbal de la Cuesta;37
+5593;San Esteban de la Sierra;37
+5594;San Felices de los Gallegos;37
+5595;San Martín del Castañar;37
+5596;San Miguel de Valero;37
+5597;San Miguel del Robledo;37
+5598;San Morales;37
+5599;San Muñoz;37
+5600;San Pedro de Rozados;37
+5601;San Pedro del Valle;37
+5602;San Pelayo de Guareña;37
+5603;Sanchón de la Ribera;37
+5604;Sanchón de la Sagrada;37
+5605;Sanchotello;37
+5607;Sando;37
+5608;Santa María de Sando;37
+5609;Santa Marta de Tormes;37
+5610;Santiago de la Puebla;37
+5611;Santibáñez de Béjar;37
+5612;Santibáñez de la Sierra;37
+5613;Santiz;37
+5614;Santos, Los;37
+5615;Sardón de los Frailes;37
+5616;Saucelle;37
+5617;Sepulcro-Hilario;37
+5618;Sequeros;37
+5619;Serradilla del Arroyo;37
+5620;Serradilla del Llano;37
+5621;Sierpe, La;37
+5622;Sieteiglesias de Tormes;37
+5623;Sobradillo;37
+5624;Sorihuela;37
+5625;Sotoserrano;37
+5626;Tabera de Abajo;37
+5627;Tala, La;37
+5628;Tamames;37
+5629;Tarazona de Guareña;37
+5630;Tardáguila;37
+5631;Tejado, El;37
+5632;Tejeda y Segoyuela;37
+5633;Tenebrón;37
+5634;Terradillos;37
+5635;Topas;37
+5636;Tordillos;37
+5637;Tornadizo, El;37
+5638;Torresmenudas;37
+5639;Trabanca;37
+5640;Tremedal de Tormes;37
+5641;Valdecarros;37
+5642;Valdefuentes de Sangusín;37
+5643;Valdehijaderos;37
+5644;Valdelacasa;37
+5645;Valdelageve;37
+5646;Valdelosa;37
+5647;Valdemierque;37
+5648;Valderrodrigo;37
+5649;Valdunciel;37
+5650;Valero;37
+5651;Vallejera de Riofrío;37
+5652;Valsalabroso;37
+5653;Valverde de Valdelacasa;37
+5654;Valverdón;37
+5655;Vecinos;37
+5656;Vega de Tirados;37
+5657;Veguillas, Las;37
+5658;Vellés, La;37
+5659;Ventosa del Río Almar;37
+5660;Vídola, La;37
+5661;Villaflores;37
+5662;Villagonzalo de Tormes;37
+5663;Villalba de los Llanos;37
+5664;Villamayor;37
+5665;Villanueva del Conde;37
+5666;Villar de Argañán;37
+5667;Villar de Ciervo;37
+5668;Villar de Gallimazo;37
+5669;Villar de la Yegua;37
+5670;Villar de Peralonso;37
+5671;Villar de Samaniego;37
+5672;Villares de la Reina;37
+5673;Villares de Yeltes;37
+5674;Villarino de los Aires;37
+5675;Villarmayor;37
+5676;Villarmuerto;37
+5677;Villasbuenas;37
+5678;Villasdardo;37
+5679;Villaseco de los Gamitos;37
+5680;Villaseco de los Reyes;37
+5681;Villasrubias;37
+5682;Villaverde de Guareña;37
+5683;Villavieja de Yeltes;37
+5684;Villoria;37
+5685;Villoruela;37
+5686;Vilvestre;37
+5687;Vitigudino;37
+5688;Yecla de Yeltes;37
+5689;Zamarra;37
+5690;Zamayón;37
+5691;Zarapicos;37
+5692;Zarza de Pumareda, La;37
+5693;Zorita de la Frontera;37
+5694;Adeje;38
+5695;Agulo;38
+5696;Alajeró;38
+5697;Arafo;38
+5698;Arico;38
+5699;Arona;38
+5700;Barlovento;38
+5701;Breña Alta;38
+5702;Breña Baja;38
+5703;Buenavista del Norte;38
+5704;Candelaria;38
+5705;Fasnia;38
+5706;Frontera;38
+5707;Fuencaliente de la Palma;38
+5708;Garachico;38
+5709;Garafía;38
+5710;Granadilla de Abona;38
+5711;Guancha, La;38
+5712;Guía de Isora;38
+5713;Güímar;38
+5714;Hermigua;38
+5715;Icod de los Vinos;38
+5716;Llanos de Aridane, Los;38
+5717;Matanza de Acentejo, La;38
+5718;Orotava, La;38
+5719;Paso, El;38
+5720;Pinar de El Hierro, El;38
+5721;Puerto de la Cruz;38
+5722;Puntagorda;38
+5723;Puntallana;38
+5724;Realejos, Los;38
+5725;Rosario, El;38
+5726;San Andrés y Sauces;38
+5727;San Cristóbal de La Laguna;38
+5728;San Juan de la Rambla;38
+5729;San Miguel de Abona;38
+5730;San Sebastián de la Gomera;38
+5731;Santa Cruz de la Palma;38
+5732;Santa Cruz de Tenerife;38
+5733;Santa Úrsula;38
+5734;Santiago del Teide;38
+5735;Sauzal, El;38
+5736;Silos, Los;38
+5737;Tacoronte;38
+5738;Tanque, El;38
+5739;Tazacorte;38
+5740;Tegueste;38
+5741;Tijarafe;38
+5742;Valle Gran Rey;38
+5743;Vallehermoso;38
+5744;Valverde;38
+5745;Victoria de Acentejo, La;38
+5746;Vilaflor;38
+5747;Villa de Mazo;38
+5748;Alfoz de Lloredo;39
+5749;Ampuero;39
+5750;Anievas;39
+5751;Arenas de Iguña;39
+5752;Argoños;39
+5753;Arnuero;39
+5754;Arredondo;39
+5755;Astillero, El;39
+5756;Bárcena de Cicero;39
+5757;Bárcena de Pie de Concha;39
+5758;Bareyo;39
+5759;Cabezón de la Sal;39
+5760;Cabezón de Liébana;39
+5761;Cabuérniga;39
+5762;Camaleño;39
+5763;Camargo;39
+5764;Campoo de Enmedio;39
+5765;Campoo de Yuso;39
+5766;Cartes;39
+5767;Castañeda;39
+5768;Castro-Urdiales;39
+5770;Cillorigo de Liébana;39
+5771;Colindres;39
+5772;Comillas;39
+5773;Corrales de Buelna, Los;39
+5774;Corvera de Toranzo;39
+5775;Entrambasaguas;39
+5776;Escalante;39
+5777;Guriezo;39
+5778;Hazas de Cesto;39
+5779;Hermandad de Campoo de Suso;39
+5780;Herrerías;39
+5781;Lamasón;39
+5782;Laredo;39
+5783;Liendo;39
+5784;Liérganes;39
+5785;Limpias;39
+5786;Luena;39
+5787;Marina de Cudeyo;39
+5788;Mazcuerras;39
+5789;Medio Cudeyo;39
+5790;Meruelo;39
+5791;Miengo;39
+5792;Miera;39
+5793;Molledo;39
+5794;Noja;39
+5795;Penagos;39
+5796;Peñarrubia;39
+5797;Pesaguero;39
+5798;Pesquera;39
+5799;Piélagos;39
+5800;Polaciones;39
+5801;Polanco;39
+5802;Potes;39
+5803;Puente Viesgo;39
+5804;Ramales de la Victoria;39
+5805;Rasines;39
+5806;Reinosa;39
+5807;Reocín;39
+5808;Ribamontán al Mar;39
+5809;Ribamontán al Monte;39
+5810;Rionansa;39
+5811;Riotuerto;39
+5812;Rozas de Valdearroyo, Las;39
+5813;Ruente;39
+5814;Ruesga;39
+5815;Ruiloba;39
+5816;San Felices de Buelna;39
+5817;San Miguel de Aguayo;39
+5818;San Pedro del Romeral;39
+5819;San Roque de Riomiera;39
+5820;San Vicente de la Barquera;39
+5821;Santa Cruz de Bezana;39
+5822;Santa María de Cayón;39
+5823;Santander;39
+5824;Santillana del Mar;39
+5825;Santiurde de Reinosa;39
+5826;Santiurde de Toranzo;39
+5827;Santoña;39
+5828;Saro;39
+5829;Selaya;39
+5830;Soba;39
+5831;Solórzano;39
+5832;Suances;39
+5833;Tojos, Los;39
+5834;Torrelavega;39
+5835;Tresviso;39
+5836;Tudanca;39
+5837;Udías;39
+5838;Val de San Vicente;39
+5839;Valdáliga;39
+5840;Valdeolea;39
+5841;Valdeprado del Río;39
+5842;Valderredible;39
+5843;Valle de Villaverde;39
+5844;Vega de Liébana;39
+5845;Vega de Pas;39
+5846;Villacarriedo;39
+5847;Villaescusa;39
+5848;Villafufre;39
+5849;Voto;39
+5850;Abades;40
+5851;Adrada de Pirón;40
+5852;Adrados;40
+5853;Aguilafuente;40
+5854;Alconada de Maderuelo;40
+5855;Aldea Real;40
+5856;Aldealcorvo;40
+5857;Aldealengua de Pedraza;40
+5858;Aldealengua de Santa María;40
+5859;Aldeanueva de la Serrezuela;40
+5860;Aldeanueva del Codonal;40
+5861;Aldeasoña;40
+5862;Aldehorno;40
+5863;Aldehuela del Codonal;40
+5864;Aldeonte;40
+5865;Anaya;40
+5866;Añe;40
+5867;Arahuetes;40
+5868;Arcones;40
+5869;Arevalillo de Cega;40
+5870;Armuña;40
+5871;Ayllón;40
+5872;Barbolla;40
+5873;Basardilla;40
+5874;Bercial;40
+5875;Bercimuel;40
+5876;Bernardos;40
+5877;Bernuy de Porreros;40
+5878;Boceguillas;40
+5879;Brieva;40
+5880;Caballar;40
+5881;Cabañas de Polendos;40
+5882;Cabezuela;40
+5883;Calabazas de Fuentidueña;40
+5884;Campo de San Pedro;40
+5885;Cantalejo;40
+5886;Cantimpalos;40
+5887;Carbonero el Mayor;40
+5888;Carrascal del Río;40
+5889;Casla;40
+5890;Castillejo de Mesleón;40
+5891;Castro de Fuentidueña;40
+5892;Castrojimeno;40
+5893;Castroserna de Abajo;40
+5894;Castroserracín;40
+5895;Cedillo de la Torre;40
+5896;Cerezo de Abajo;40
+5897;Cerezo de Arriba;40
+5898;Chañe;40
+5899;Cilleruelo de San Mamés;40
+5900;Cobos de Fuentidueña;40
+5901;Coca;40
+5902;Codorniz;40
+5903;Collado Hermoso;40
+5904;Condado de Castilnovo;40
+5905;Corral de Ayllón;40
+5906;Cozuelos de Fuentidueña;40
+5907;Cubillo;40
+5908;Cuéllar;40
+5909;Cuevas de Provanco;40
+5910;Domingo García;40
+5911;Donhierro;40
+5912;Duruelo;40
+5913;Encinas;40
+5914;Encinillas;40
+5915;Escalona del Prado;40
+5916;Escarabajosa de Cabezas;40
+5917;Escobar de Polendos;40
+5918;Espinar, El;40
+5919;Espirdo;40
+5920;Fresneda de Cuéllar;40
+5921;Fresno de Cantespino;40
+5922;Fresno de la Fuente;40
+5923;Frumales;40
+5924;Fuente de Santa Cruz;40
+5925;Fuente el Olmo de Fuentidueña;40
+5926;Fuente el Olmo de Íscar;40
+5927;Fuentepelayo;40
+5928;Fuentepiñel;40
+5929;Fuenterrebollo;40
+5930;Fuentesaúco de Fuentidueña;40
+5931;Fuentesoto;40
+5932;Fuentidueña;40
+5933;Gallegos;40
+5934;Garcillán;40
+5935;Gomezserracín;40
+5936;Grajera;40
+5937;Honrubia de la Cuesta;40
+5938;Hontalbilla;40
+5939;Hontanares de Eresma;40
+5940;Huertos, Los;40
+5941;Ituero y Lama;40
+5942;Juarros de Riomoros;40
+5943;Juarros de Voltoya;40
+5944;Labajos;40
+5945;Laguna de Contreras;40
+5946;Languilla;40
+5947;Lastras de Cuéllar;40
+5948;Lastras del Pozo;40
+5949;Lastrilla, La;40
+5950;Losa, La;40
+5951;Maderuelo;40
+5952;Marazoleja;40
+5953;Marazuela;40
+5954;Martín Miguel;40
+5955;Martín Muñoz de la Dehesa;40
+5956;Martín Muñoz de las Posadas;40
+5957;Marugán;40
+5958;Mata de Cuéllar;40
+5959;Matabuena;40
+5960;Matilla, La;40
+5961;Melque de Cercos;40
+5962;Membibre de la Hoz;40
+5963;Migueláñez;40
+5964;Montejo de Arévalo;40
+5965;Montejo de la Vega de la Serrezuela;40
+5966;Monterrubio;40
+5967;Moral de Hornuez;40
+5968;Mozoncillo;40
+5969;Muñopedro;40
+5970;Muñoveros;40
+5971;Nava de la Asunción;40
+5972;Navafría;40
+5973;Navalilla;40
+5974;Navalmanzano;40
+5975;Navares de Ayuso;40
+5976;Navares de Enmedio;40
+5977;Navares de las Cuevas;40
+5978;Navas de Oro;40
+5979;Navas de Riofrío;40
+5980;Navas de San Antonio;40
+5981;Nieva;40
+5982;Olombrada;40
+5983;Orejana;40
+5984;Ortigosa de Pestaño;40
+5985;Ortigosa del Monte;40
+5986;Otero de Herreros;40
+5987;Pajarejos;40
+5988;Palazuelos de Eresma;40
+5989;Pedraza;40
+5990;Pelayos del Arroyo;40
+5991;Perosillo;40
+5992;Pinarejos;40
+5993;Pinarnegrillo;40
+5994;Pradales;40
+5995;Prádena;40
+5996;Puebla de Pedraza;40
+5997;Rapariegos;40
+5998;Real Sitio de San Ildefonso;40
+5999;Rebollo;40
+6000;Remondo;40
+6001;Riaguas de San Bartolomé;40
+6002;Riaza;40
+6003;Ribota;40
+6004;Riofrío de Riaza;40
+6005;Roda de Eresma;40
+6006;Sacramenia;40
+6007;Samboal;40
+6008;San Cristóbal de Cuéllar;40
+6009;San Cristóbal de la Vega;40
+6010;San Cristóbal de Segovia;40
+6011;San Martín y Mudrián;40
+6012;San Miguel de Bernuy;40
+6013;San Pedro de Gaíllos;40
+6014;Sanchonuño;40
+6015;Sangarcía;40
+6016;Santa María la Real de Nieva;40
+6017;Santa Marta del Cerro;40
+6018;Santiuste de Pedraza;40
+6019;Santiuste de San Juan Bautista;40
+6020;Santo Domingo de Pirón;40
+6021;Santo Tomé del Puerto;40
+6022;Sauquillo de Cabezas;40
+6023;Sebúlcor;40
+6024;Segovia;40
+6025;Sepúlveda;40
+6026;Sequera de Fresno;40
+6027;Sotillo;40
+6028;Sotosalbos;40
+6029;Tabanera la Luenga;40
+6030;Tolocirio;40
+6031;Torre Val de San Pedro;40
+6032;Torreadrada;40
+6033;Torrecaballeros;40
+6034;Torrecilla del Pinar;40
+6035;Torreiglesias;40
+6036;Trescasas;40
+6037;Turégano;40
+6038;Urueñas;40
+6039;Valdeprados;40
+6040;Valdevacas de Montejo;40
+6041;Valdevacas y Guijar;40
+6042;Valle de Tabladillo;40
+6043;Vallelado;40
+6044;Valleruela de Pedraza;40
+6045;Valleruela de Sepúlveda;40
+6046;Valseca;40
+6047;Valtiendas;40
+6048;Valverde del Majano;40
+6049;Veganzones;40
+6050;Vegas de Matute;40
+6051;Ventosilla y Tejadilla;40
+6052;Villacastín;40
+6053;Villaverde de Íscar;40
+6054;Villaverde de Montejo;40
+6055;Villeguillo;40
+6056;Yanguas de Eresma;40
+6057;Zarzuela del Monte;40
+6058;Zarzuela del Pinar;40
+6059;Aguadulce;41
+6060;Alanís;41
+6061;Albaida del Aljarafe;41
+6062;Alcalá de Guadaíra;41
+6063;Alcalá del Río;41
+6064;Alcolea del Río;41
+6065;Algaba, La;41
+6066;Algámitas;41
+6067;Almadén de la Plata;41
+6068;Almensilla;41
+6069;Arahal;41
+6070;Aznalcázar;41
+6071;Aznalcóllar;41
+6072;Badolatosa;41
+6073;Benacazón;41
+6074;Bollullos de la Mitación;41
+6075;Bormujos;41
+6076;Brenes;41
+6077;Burguillos;41
+6078;Cabezas de San Juan, Las;41
+6079;Camas;41
+6080;Campana, La;41
+6081;Cantillana;41
+6082;Cañada Rosal;41
+6083;Carmona;41
+6084;Carrión de los Céspedes;41
+6085;Casariche;41
+6086;Castilblanco de los Arroyos;41
+6087;Castilleja de Guzmán;41
+6088;Castilleja de la Cuesta;41
+6089;Castilleja del Campo;41
+6090;Castillo de las Guardas, El;41
+6091;Cazalla de la Sierra;41
+6092;Constantina;41
+6093;Coria del Río;41
+6094;Coripe;41
+6095;Coronil, El;41
+6096;Corrales, Los;41
+6097;Cuervo de Sevilla, El;41
+6098;Dos Hermanas;41
+6099;Écija;41
+6100;Espartinas;41
+6101;Estepa;41
+6102;Fuentes de Andalucía;41
+6103;Garrobo, El;41
+6104;Gelves;41
+6105;Gerena;41
+6106;Gilena;41
+6107;Gines;41
+6108;Guadalcanal;41
+6109;Guillena;41
+6110;Herrera;41
+6111;Huévar del Aljarafe;41
+6112;Isla Mayor;41
+6113;Lantejuela, La;41
+6114;Lebrija;41
+6115;Lora de Estepa;41
+6116;Lora del Río;41
+6117;Luisiana, La;41
+6118;Madroño, El;41
+6119;Mairena del Alcor;41
+6120;Mairena del Aljarafe;41
+6121;Marchena;41
+6122;Marinaleda;41
+6123;Martín de la Jara;41
+6124;Molares, Los;41
+6125;Montellano;41
+6126;Morón de la Frontera;41
+6127;Navas de la Concepción, Las;41
+6128;Olivares;41
+6129;Osuna;41
+6130;Palacios y Villafranca, Los;41
+6131;Palomares del Río;41
+6132;Paradas;41
+6133;Pedrera;41
+6134;Pedroso, El;41
+6135;Peñaflor;41
+6136;Pilas;41
+6137;Pruna;41
+6138;Puebla de Cazalla, La;41
+6139;Puebla de los Infantes, La;41
+6140;Puebla del Río, La;41
+6141;Real de la Jara, El;41
+6142;Rinconada, La;41
+6143;Roda de Andalucía, La;41
+6144;Ronquillo, El;41
+6145;Rubio, El;41
+6146;Salteras;41
+6147;San Juan de Aznalfarache;41
+6148;San Nicolás del Puerto;41
+6149;Sanlúcar la Mayor;41
+6150;Santiponce;41
+6151;Saucejo, El;41
+6152;Sevilla;41
+6153;Tocina;41
+6154;Tomares;41
+6155;Umbrete;41
+6156;Utrera;41
+6157;Valencina de la Concepción;41
+6158;Villamanrique de la Condesa;41
+6159;Villanueva de San Juan;41
+6160;Villanueva del Ariscal;41
+6161;Villanueva del Río y Minas;41
+6162;Villaverde del Río;41
+6163;Viso del Alcor, El;41
+6164;Abejar;42
+6165;Adradas;42
+6166;Ágreda;42
+6167;Alconaba;42
+6168;Alcubilla de Avellaneda;42
+6169;Alcubilla de las Peñas;42
+6170;Aldealafuente;42
+6171;Aldealices;42
+6172;Aldealpozo;42
+6173;Aldealseñor;42
+6174;Aldehuela de Periáñez;42
+6175;Aldehuelas, Las;42
+6176;Alentisque;42
+6177;Aliud;42
+6178;Almajano;42
+6179;Almaluez;42
+6180;Almarza;42
+6181;Almazán;42
+6182;Almazul;42
+6183;Almenar de Soria;42
+6184;Alpanseque;42
+6185;Arancón;42
+6186;Arcos de Jalón;42
+6187;Arenillas;42
+6188;Arévalo de la Sierra;42
+6189;Ausejo de la Sierra;42
+6190;Baraona;42
+6191;Barca;42
+6192;Barcones;42
+6193;Bayubas de Abajo;42
+6194;Bayubas de Arriba;42
+6195;Beratón;42
+6196;Berlanga de Duero;42
+6197;Blacos;42
+6198;Bliecos;42
+6199;Borjabad;42
+6200;Borobia;42
+6201;Buberos;42
+6202;Buitrago;42
+6203;Burgo de Osma-Ciudad de Osma;42
+6204;Cabrejas del Campo;42
+6205;Cabrejas del Pinar;42
+6206;Calatañazor;42
+6207;Caltojar;42
+6208;Candilichera;42
+6209;Cañamaque;42
+6210;Carabantes;42
+6211;Caracena;42
+6212;Carrascosa de Abajo;42
+6213;Carrascosa de la Sierra;42
+6214;Casarejos;42
+6215;Castilfrío de la Sierra;42
+6216;Castillejo de Robledo;42
+6217;Castilruiz;42
+6218;Centenera de Andaluz;42
+6219;Cerbón;42
+6220;Cidones;42
+6221;Cigudosa;42
+6222;Cihuela;42
+6223;Ciria;42
+6224;Cirujales del Río;42
+6225;Coscurita;42
+6226;Covaleda;42
+6227;Cubilla;42
+6228;Cubo de la Solana;42
+6229;Cueva de Ágreda;42
+6230;Dévanos;42
+6231;Deza;42
+6232;Duruelo de la Sierra;42
+6233;Escobosa de Almazán;42
+6234;Espeja de San Marcelino;42
+6235;Espejón;42
+6236;Estepa de San Juan;42
+6237;Frechilla de Almazán;42
+6238;Fresno de Caracena;42
+6239;Fuentearmegil;42
+6240;Fuentecambrón;42
+6241;Fuentecantos;42
+6242;Fuentelmonge;42
+6243;Fuentelsaz de Soria;42
+6244;Fuentepinilla;42
+6245;Fuentes de Magaña;42
+6246;Fuentestrún;42
+6247;Garray;42
+6248;Golmayo;42
+6249;Gómara;42
+6250;Gormaz;42
+6251;Herrera de Soria;42
+6252;Hinojosa del Campo;42
+6253;Langa de Duero;42
+6254;Liceras;42
+6255;Losilla, La;42
+6256;Magaña;42
+6257;Maján;42
+6258;Matalebreras;42
+6259;Matamala de Almazán;42
+6260;Medinaceli;42
+6261;Miño de Medinaceli;42
+6262;Miño de San Esteban;42
+6263;Molinos de Duero;42
+6264;Momblona;42
+6265;Monteagudo de las Vicarías;42
+6266;Montejo de Tiermes;42
+6267;Montenegro de Cameros;42
+6268;Morón de Almazán;42
+6269;Muriel de la Fuente;42
+6270;Muriel Viejo;42
+6271;Nafría de Ucero;42
+6272;Narros;42
+6273;Navaleno;42
+6274;Nepas;42
+6275;Nolay;42
+6276;Noviercas;42
+6277;Ólvega;42
+6278;Oncala;42
+6279;Pinilla del Campo;42
+6280;Portillo de Soria;42
+6281;Póveda de Soria, La;42
+6282;Pozalmuro;42
+6283;Quintana Redonda;42
+6284;Quintanas de Gormaz;42
+6285;Quiñonería;42
+6286;Rábanos, Los;42
+6288;Recuerda;42
+6289;Rello;42
+6290;Renieblas;42
+6291;Retortillo de Soria;42
+6292;Reznos;42
+6293;Riba de Escalote, La;42
+6294;Rioseco de Soria;42
+6295;Rollamienta;42
+6296;Royo, El;42
+6297;Salduero;42
+6298;San Esteban de Gormaz;42
+6299;San Felices;42
+6300;San Leonardo de Yagüe;42
+6301;San Pedro Manrique;42
+6302;Santa Cruz de Yanguas;42
+6303;Santa María de Huerta;42
+6304;Santa María de las Hoyas;42
+6305;Serón de Nágima;42
+6306;Soliedra;42
+6307;Soria;42
+6308;Sotillo del Rincón;42
+6309;Suellacabras;42
+6310;Tajahuerce;42
+6311;Tajueco;42
+6312;Talveila;42
+6313;Tardelcuende;42
+6314;Taroda;42
+6315;Tejado;42
+6316;Torlengua;42
+6317;Torreblacos;42
+6318;Torrubia de Soria;42
+6319;Trévago;42
+6320;Ucero;42
+6321;Vadillo;42
+6322;Valdeavellano de Tera;42
+6323;Valdegeña;42
+6324;Valdelagua del Cerro;42
+6325;Valdemaluque;42
+6326;Valdenebro;42
+6327;Valdeprado;42
+6328;Valderrodilla;42
+6329;Valtajeros;42
+6330;Velamazán;42
+6331;Velilla de la Sierra;42
+6332;Velilla de los Ajos;42
+6333;Viana de Duero;42
+6334;Villaciervos;42
+6335;Villanueva de Gormaz;42
+6336;Villar del Ala;42
+6337;Villar del Campo;42
+6338;Villar del Río;42
+6339;Villares de Soria, Los;42
+6340;Villasayas;42
+6341;Villaseca de Arciel;42
+6342;Vinuesa;42
+6343;Vizmanos;42
+6344;Vozmediano;42
+6345;Yanguas;42
+6346;Yelo;42
+6347;Aiguamúrcia;43
+6348;Albinyana;43
+6349;Albiol, L';43
+6350;Alcanar;43
+6351;Alcover;43
+6352;Aldea, L';43
+6353;Aldover;43
+6354;Aleixar, L';43
+6355;Alfara de Carles;43
+6356;Alforja;43
+6357;Alió;43
+6358;Almoster;43
+6359;Altafulla;43
+6360;Ametlla de Mar, L';43
+6361;Ampolla, L';43
+6362;Amposta;43
+6363;Arboç, L';43
+6364;Arbolí;43
+6365;Argentera, L';43
+6366;Arnes;43
+6367;Ascó;43
+6368;Banyeres del Penedès;43
+6369;Barberà de la Conca;43
+6370;Batea;43
+6371;Bellmunt del Priorat;43
+6372;Bellvei;43
+6373;Benifallet;43
+6374;Benissanet;43
+6375;Bisbal de Falset, La;43
+6376;Bisbal del Penedès, La;43
+6377;Blancafort;43
+6378;Bonastre;43
+6379;Borges del Camp, Les;43
+6380;Bot;43
+6381;Botarell;43
+6382;Bràfim;43
+6383;Cabacés;43
+6384;Cabra del Camp;43
+6385;Calafell;43
+6386;Camarles;43
+6387;Cambrils;43
+6388;Canonja, La;43
+6389;Capafonts;43
+6390;Capçanes;43
+6391;Caseres;43
+6392;Castellvell del Camp;43
+6393;Catllar, El;43
+6394;Colldejou;43
+6395;Conesa;43
+6396;Constantí;43
+6397;Corbera d'Ebre;43
+6398;Cornudella de Montsant;43
+6399;Creixell;43
+6400;Cunit;43
+6401;Deltebre;43
+6402;Duesaigües;43
+6403;Espluga de Francolí, L';43
+6404;Falset;43
+6405;Fatarella, La;43
+6406;Febró, La;43
+6407;Figuera, La;43
+6408;Figuerola del Camp;43
+6409;Flix;43
+6410;Forès;43
+6411;Freginals;43
+6412;Galera, La;43
+6413;Gandesa;43
+6414;Garcia;43
+6415;Garidells, Els;43
+6416;Ginestar;43
+6417;Godall;43
+6418;Gratallops;43
+6419;Guiamets, Els;43
+6420;Horta de Sant Joan;43
+6421;Lloar, El;43
+6422;Llorac;43
+6423;Llorenç del Penedès;43
+6424;Marçà;43
+6425;Margalef;43
+6426;Mas de Barberans;43
+6427;Masdenverge;43
+6428;Masllorenç;43
+6429;Masó, La;43
+6430;Maspujols;43
+6431;Masroig, El;43
+6432;Milà, El;43
+6433;Miravet;43
+6435;Montblanc;43
+6436;Montbrió del Camp;43
+6437;Montferri;43
+6438;Montmell, El;43
+6439;Mont-ral;43
+6440;Mont-roig del Camp;43
+6441;Móra d'Ebre;43
+6442;Móra la Nova;43
+6443;Morell, El;43
+6444;Morera de Montsant, La;43
+6445;Nou de Gaià, La;43
+6446;Nulles;43
+6447;Pallaresos, Els;43
+6448;Palma d'Ebre, La;43
+6449;Passanant i Belltall;43
+6450;Paüls;43
+6451;Perafort;43
+6452;Perelló, El;43
+6453;Piles, Les;43
+6454;Pinell de Brai, El;43
+6455;Pira;43
+6456;Pla de Santa Maria, El;43
+6457;Pobla de Mafumet, La;43
+6458;Pobla de Massaluca, La;43
+6459;Pobla de Montornès, La;43
+6460;Poboleda;43
+6461;Pont d'Armentera, El;43
+6462;Pontils;43
+6463;Porrera;43
+6464;Pradell de la Teixeta;43
+6465;Prades;43
+6466;Prat de Comte;43
+6467;Pratdip;43
+6468;Puigpelat;43
+6469;Querol;43
+6470;Rasquera;43
+6471;Renau;43
+6472;Reus;43
+6473;Riba, La;43
+6474;Riba-roja d'Ebre;43
+6475;Riera de Gaià, La;43
+6476;Riudecanyes;43
+6477;Riudecols;43
+6478;Riudoms;43
+6479;Rocafort de Queralt;43
+6480;Roda de Barà;43
+6481;Rodonyà;43
+6482;Roquetes;43
+6483;Rourell, El;43
+6484;Salomó;43
+6485;Salou;43
+6486;Sant Carles de la Ràpita;43
+6487;Sant Jaume dels Domenys;43
+6488;Sant Jaume d'Enveja;43
+6489;Santa Bàrbara;43
+6490;Santa Coloma de Queralt;43
+6491;Santa Oliva;43
+6492;Sarral;43
+6493;Savallà del Comtat;43
+6494;Secuita, La;43
+6495;Selva del Camp, La;43
+6496;Senan;43
+6497;Sénia, La;43
+6498;Solivella;43
+6499;Tarragona;43
+6500;Tivenys;43
+6501;Tivissa;43
+6502;Torre de Fontaubella, La;43
+6503;Torre de l'Espanyol, La;43
+6504;Torredembarra;43
+6505;Torroja del Priorat;43
+6506;Tortosa;43
+6507;Ulldecona;43
+6508;Ulldemolins;43
+6509;Vallclara;43
+6510;Vallfogona de Riucorb;43
+6511;Vallmoll;43
+6512;Valls;43
+6513;Vandellòs i l'Hospitalet de l'Infant;43
+6514;Vendrell, El;43
+6515;Vespella de Gaià;43
+6516;Vilabella;43
+6517;Vilalba dels Arcs;43
+6518;Vilallonga del Camp;43
+6519;Vilanova de Prades;43
+6520;Vilanova d'Escornalbou;43
+6521;Vilaplana;43
+6522;Vila-rodona;43
+6523;Vila-seca;43
+6524;Vilaverd;43
+6525;Vilella Alta, La;43
+6526;Vilella Baixa, La;43
+6527;Vimbodí i Poblet;43
+6528;Vinebre;43
+6529;Vinyols i els Arcs;43
+6530;Xerta;43
+6531;Ababuj;44
+6532;Abejuela;44
+6533;Aguatón;44
+6534;Aguaviva;44
+6535;Aguilar del Alfambra;44
+6536;Alacón;44
+6537;Alba;44
+6538;Albalate del Arzobispo;44
+6539;Albarracín;44
+6540;Albentosa;44
+6541;Alcaine;44
+6542;Alcalá de la Selva;44
+6543;Alcañiz;44
+6544;Alcorisa;44
+6545;Alfambra;44
+6546;Aliaga;44
+6547;Allepuz;44
+6548;Alloza;44
+6549;Allueva;44
+6550;Almohaja;44
+6551;Alobras;44
+6552;Alpeñés;44
+6553;Anadón;44
+6554;Andorra;44
+6555;Arcos de las Salinas;44
+6556;Arens de Lledó;44
+6557;Argente;44
+6558;Ariño;44
+6559;Azaila;44
+6560;Bádenas;44
+6561;Báguena;44
+6562;Bañón;44
+6563;Barrachina;44
+6564;Bea;44
+6565;Beceite;44
+6566;Bello;44
+6567;Belmonte de San José;44
+6568;Berge;44
+6569;Bezas;44
+6570;Blancas;44
+6571;Blesa;44
+6572;Bordón;44
+6573;Bronchales;44
+6574;Bueña;44
+6575;Burbáguena;44
+6576;Cabra de Mora;44
+6577;Calaceite;44
+6578;Calamocha;44
+6579;Calanda;44
+6580;Calomarde;44
+6581;Camañas;44
+6582;Camarena de la Sierra;44
+6583;Camarillas;44
+6584;Caminreal;44
+6585;Cantavieja;44
+6586;Cañada de Benatanduz;44
+6587;Cañada de Verich, La;44
+6588;Cañada Vellida;44
+6589;Cañizar del Olivar;44
+6590;Cascante del Río;44
+6591;Castejón de Tornos;44
+6592;Castel de Cabra;44
+6593;Castellar, El;44
+6594;Castellote;44
+6595;Castelnou;44
+6596;Castelserás;44
+6597;Cedrillas;44
+6598;Celadas;44
+6599;Cella;44
+6600;Cerollera, La;44
+6601;Codoñera, La;44
+6602;Corbalán;44
+6603;Cortes de Aragón;44
+6604;Cosa;44
+6605;Cretas;44
+6606;Crivillén;44
+6607;Cuba, La;44
+6608;Cubla;44
+6609;Cucalón;44
+6610;Cuervo, El;44
+6611;Cuevas de Almudén;44
+6612;Cuevas Labradas;44
+6613;Ejulve;44
+6614;Escorihuela;44
+6615;Escucha;44
+6616;Estercuel;44
+6617;Ferreruela de Huerva;44
+6618;Fonfría;44
+6619;Formiche Alto;44
+6620;Fórnoles;44
+6621;Fortanete;44
+6622;Foz-Calanda;44
+6623;Fresneda, La;44
+6624;Frías de Albarracín;44
+6625;Fuenferrada;44
+6626;Fuentes Calientes;44
+6627;Fuentes Claras;44
+6628;Fuentes de Rubielos;44
+6629;Fuentespalda;44
+6630;Galve;44
+6631;Gargallo;44
+6632;Gea de Albarracín;44
+6633;Ginebrosa, La;44
+6634;Griegos;44
+6635;Guadalaviar;44
+6636;Gúdar;44
+6637;Híjar;44
+6638;Hinojosa de Jarque;44
+6639;Hoz de la Vieja, La;44
+6640;Huesa del Común;44
+6641;Iglesuela del Cid, La;44
+6642;Jabaloyas;44
+6643;Jarque de la Val;44
+6644;Jatiel;44
+6645;Jorcas;44
+6646;Josa;44
+6647;Lagueruela;44
+6648;Lanzuela;44
+6649;Libros;44
+6650;Lidón;44
+6651;Linares de Mora;44
+6652;Lledó;44
+6653;Loscos;44
+6654;Maicas;44
+6655;Manzanera;44
+6656;Martín del Río;44
+6657;Mas de las Matas;44
+6658;Mata de los Olmos, La;44
+6659;Mazaleón;44
+6660;Mezquita de Jarque;44
+6661;Mirambel;44
+6662;Miravete de la Sierra;44
+6663;Molinos;44
+6664;Monforte de Moyuela;44
+6665;Monreal del Campo;44
+6666;Monroyo;44
+6667;Montalbán;44
+6668;Monteagudo del Castillo;44
+6669;Monterde de Albarracín;44
+6670;Mora de Rubielos;44
+6671;Moscardón;44
+6672;Mosqueruela;44
+6673;Muniesa;44
+6674;Noguera de Albarracín;44
+6675;Nogueras;44
+6676;Nogueruelas;44
+6677;Obón;44
+6678;Odón;44
+6679;Ojos Negros;44
+6680;Olba;44
+6681;Oliete;44
+6682;Olmos, Los;44
+6683;Orihuela del Tremedal;44
+6684;Orrios;44
+6685;Palomar de Arroyos;44
+6686;Pancrudo;44
+6687;Parras de Castellote, Las;44
+6688;Peñarroya de Tastavins;44
+6689;Peracense;44
+6690;Peralejos;44
+6691;Perales del Alfambra;44
+6692;Pitarque;44
+6693;Plou;44
+6694;Pobo, El;44
+6695;Portellada, La;44
+6696;Pozondón;44
+6697;Pozuel del Campo;44
+6698;Puebla de Híjar, La;44
+6699;Puebla de Valverde, La;44
+6700;Puertomingalvo;44
+6701;Ráfales;44
+6702;Rillo;44
+6703;Riodeva;44
+6704;Ródenas;44
+6705;Royuela;44
+6706;Rubiales;44
+6707;Rubielos de la Cérida;44
+6708;Rubielos de Mora;44
+6709;Salcedillo;44
+6710;Saldón;44
+6711;Samper de Calanda;44
+6712;San Agustín;44
+6713;San Martín del Río;44
+6714;Santa Cruz de Nogueras;44
+6715;Santa Eulalia;44
+6716;Sarrión;44
+6717;Segura de los Baños;44
+6718;Seno;44
+6719;Singra;44
+6720;Terriente;44
+6721;Teruel;44
+6722;Toril y Masegoso;44
+6723;Tormón;44
+6724;Tornos;44
+6725;Torralba de los Sisones;44
+6726;Torre de Arcas;44
+6727;Torre de las Arcas;44
+6728;Torre del Compte;44
+6729;Torre los Negros;44
+6730;Torrecilla de Alcañiz;44
+6731;Torrecilla del Rebollar;44
+6732;Torrelacárcel;44
+6733;Torremocha de Jiloca;44
+6734;Torres de Albarracín;44
+6735;Torrevelilla;44
+6736;Torrijas;44
+6737;Torrijo del Campo;44
+6738;Tramacastiel;44
+6739;Tramacastilla;44
+6740;Tronchón;44
+6741;Urrea de Gaén;44
+6742;Utrillas;44
+6743;Valacloche;44
+6744;Valbona;44
+6745;Valdealgorfa;44
+6746;Valdecuenca;44
+6747;Valdelinares;44
+6748;Valdeltormo;44
+6749;Valderrobres;44
+6750;Valjunquera;44
+6751;Vallecillo, El;44
+6752;Veguillas de la Sierra;44
+6753;Villafranca del Campo;44
+6754;Villahermosa del Campo;44
+6755;Villanueva del Rebollar de la Sierra;44
+6756;Villar del Cobo;44
+6757;Villar del Salz;44
+6758;Villarluengo;44
+6759;Villarquemado;44
+6760;Villarroya de los Pinares;44
+6761;Villastar;44
+6762;Villel;44
+6763;Vinaceite;44
+6764;Visiedo;44
+6765;Vivel del Río Martín;44
+6766;Zoma, La;44
+6767;Ajofrín;45
+6768;Alameda de la Sagra;45
+6769;Albarreal de Tajo;45
+6770;Alcabón;45
+6771;Alcañizo;45
+6772;Alcaudete de la Jara;45
+6773;Alcolea de Tajo;45
+6774;Aldea en Cabo;45
+6775;Aldeanueva de Barbarroya;45
+6776;Aldeanueva de San Bartolomé;45
+6777;Almendral de la Cañada;45
+6778;Almonacid de Toledo;45
+6779;Almorox;45
+6780;Añover de Tajo;45
+6781;Arcicóllar;45
+6782;Argés;45
+6783;Azután;45
+6784;Barcience;45
+6785;Bargas;45
+6786;Belvís de la Jara;45
+6787;Borox;45
+6788;Buenaventura;45
+6789;Burguillos de Toledo;45
+6790;Burujón;45
+6791;Cabañas de la Sagra;45
+6792;Cabañas de Yepes;45
+6793;Cabezamesada;45
+6794;Calera y Chozas;45
+6795;Caleruela;45
+6796;Calzada de Oropesa;45
+6797;Camarena;45
+6798;Camarenilla;45
+6799;Campillo de la Jara, El;45
+6800;Camuñas;45
+6801;Cardiel de los Montes;45
+6802;Carmena;45
+6803;Carpio de Tajo, El;45
+6804;Carranque;45
+6805;Carriches;45
+6806;Casar de Escalona, El;45
+6807;Casarrubios del Monte;45
+6808;Casasbuenas;45
+6809;Castillo de Bayuela;45
+6810;Cazalegas;45
+6811;Cebolla;45
+6812;Cedillo del Condado;45
+6813;Cerralbos, Los;45
+6814;Cervera de los Montes;45
+6815;Chozas de Canales;45
+6816;Chueca;45
+6817;Ciruelos;45
+6818;Cobeja;45
+6819;Cobisa;45
+6820;Consuegra;45
+6821;Corral de Almaguer;45
+6822;Cuerva;45
+6823;Domingo Pérez;45
+6824;Dosbarrios;45
+6825;Erustes;45
+6826;Escalona;45
+6827;Escalonilla;45
+6828;Espinoso del Rey;45
+6829;Esquivias;45
+6830;Estrella, La;45
+6831;Fuensalida;45
+6832;Gálvez;45
+6833;Garciotum;45
+6834;Gerindote;45
+6835;Guadamur;45
+6836;Guardia, La;45
+6837;Herencias, Las;45
+6838;Herreruela de Oropesa;45
+6839;Hinojosa de San Vicente;45
+6840;Hontanar;45
+6841;Hormigos;45
+6842;Huecas;45
+6843;Huerta de Valdecarábanos;45
+6844;Iglesuela, La;45
+6845;Illán de Vacas;45
+6846;Illescas;45
+6847;Lagartera;45
+6848;Layos;45
+6849;Lillo;45
+6850;Lominchar;45
+6851;Lucillos;45
+6852;Madridejos;45
+6853;Magán;45
+6854;Malpica de Tajo;45
+6855;Manzaneque;45
+6856;Maqueda;45
+6857;Marjaliza;45
+6858;Marrupe;45
+6859;Mascaraque;45
+6860;Mata, La;45
+6861;Mazarambroz;45
+6862;Mejorada;45
+6863;Menasalbas;45
+6864;Méntrida;45
+6865;Mesegar de Tajo;45
+6866;Miguel Esteban;45
+6867;Mocejón;45
+6868;Mohedas de la Jara;45
+6869;Montearagón;45
+6870;Montesclaros;45
+6871;Mora;45
+6872;Nambroca;45
+6873;Nava de Ricomalillo, La;45
+6874;Navahermosa;45
+6875;Navalcán;45
+6876;Navalmoralejo;45
+6877;Navalmorales, Los;45
+6878;Navalucillos, Los;45
+6879;Navamorcuende;45
+6880;Noblejas;45
+6881;Noez;45
+6882;Nombela;45
+6883;Novés;45
+6884;Numancia de la Sagra;45
+6885;Nuño Gómez;45
+6886;Ocaña;45
+6887;Olías del Rey;45
+6888;Ontígola;45
+6889;Orgaz;45
+6890;Oropesa;45
+6891;Otero;45
+6892;Palomeque;45
+6893;Pantoja;45
+6894;Paredes de Escalona;45
+6895;Parrillas;45
+6896;Pelahustán;45
+6897;Pepino;45
+6898;Polán;45
+6899;Portillo de Toledo;45
+6900;Puebla de Almoradiel, La;45
+6901;Puebla de Montalbán, La;45
+6902;Pueblanueva, La;45
+6903;Puente del Arzobispo, El;45
+6904;Puerto de San Vicente;45
+6905;Pulgar;45
+6906;Quero;45
+6907;Quintanar de la Orden;45
+6908;Quismondo;45
+6909;Real de San Vicente, El;45
+6910;Recas;45
+6911;Retamoso de la Jara;45
+6912;Rielves;45
+6913;Robledo del Mazo;45
+6914;Romeral, El;45
+6915;San Bartolomé de las Abiertas;45
+6916;San Martín de Montalbán;45
+6917;San Martín de Pusa;45
+6918;San Pablo de los Montes;45
+6919;San Román de los Montes;45
+6920;Santa Ana de Pusa;45
+6921;Santa Cruz de la Zarza;45
+6922;Santa Cruz del Retamar;45
+6923;Santa Olalla;45
+6924;Santo Domingo-Caudilla;45
+6925;Sartajada;45
+6926;Segurilla;45
+6927;Seseña;45
+6928;Sevilleja de la Jara;45
+6929;Sonseca;45
+6930;Sotillo de las Palomas;45
+6931;Talavera de la Reina;45
+6932;Tembleque;45
+6933;Toboso, El;45
+6934;Toledo;45
+6935;Torralba de Oropesa;45
+6936;Torre de Esteban Hambrán, La;45
+6937;Torrecilla de la Jara;45
+6938;Torrico;45
+6939;Torrijos;45
+6940;Totanés;45
+6941;Turleque;45
+6942;Ugena;45
+6943;Urda;45
+6944;Valdeverdeja;45
+6945;Valmojado;45
+6946;Velada;45
+6947;Ventas con Peña Aguilera, Las;45
+6948;Ventas de Retamosa, Las;45
+6949;Ventas de San Julián, Las;45
+6950;Villa de Don Fadrique, La;45
+6951;Villacañas;45
+6952;Villafranca de los Caballeros;45
+6953;Villaluenga de la Sagra;45
+6954;Villamiel de Toledo;45
+6955;Villaminaya;45
+6956;Villamuelas;45
+6957;Villanueva de Alcardete;45
+6958;Villanueva de Bogas;45
+6959;Villarejo de Montalbán;45
+6960;Villarrubia de Santiago;45
+6961;Villaseca de la Sagra;45
+6962;Villasequilla;45
+6963;Villatobas;45
+6964;Viso de San Juan, El;45
+6965;Yébenes, Los;45
+6966;Yeles;45
+6967;Yepes;45
+6968;Yuncler;45
+6969;Yunclillos;45
+6970;Yuncos;45
+6971;Ademuz;46
+6972;Ador;46
+6973;Agullent;46
+6974;Aielo de Malferit;46
+6975;Aielo de Rugat;46
+6976;Alaquàs;46
+6977;Albaida;46
+6978;Albal;46
+6979;Albalat de la Ribera;46
+6980;Albalat dels Sorells;46
+6981;Albalat dels Tarongers;46
+6982;Alberic;46
+6983;Alborache;46
+6984;Alboraya;46
+6985;Albuixech;46
+6986;Alcàntera de Xúquer;46
+6987;Alcàsser;46
+6988;Alcublas;46
+6989;Alcúdia, l';46
+6990;Alcúdia de Crespins, l';46
+6991;Aldaia;46
+6992;Alfafar;46
+6993;Alfara de la Baronia;46
+6994;Alfara del Patriarca;46
+6995;Alfarp;46
+6996;Alfarrasí;46
+6997;Alfauir;46
+6998;Algar de Palancia;46
+6999;Algemesí;46
+7000;Algimia de Alfara;46
+7001;Alginet;46
+7002;Almàssera;46
+7003;Almiserà;46
+7004;Almoines;46
+7005;Almussafes;46
+7006;Alpuente;46
+7007;Alqueria de la Comtessa, l';46
+7008;Alzira;46
+7009;Andilla;46
+7010;Anna;46
+7011;Antella;46
+7012;Aras de los Olmos;46
+7013;Atzeneta d'Albaida;46
+7014;Ayora;46
+7015;Barx;46
+7016;Barxeta;46
+7017;Bèlgida;46
+7018;Bellreguard;46
+7019;Bellús;46
+7020;Benagéber;46
+7021;Benaguasil;46
+7022;Benavites;46
+7023;Beneixida;46
+7024;Benetússer;46
+7025;Beniarjó;46
+7026;Beniatjar;46
+7027;Benicolet;46
+7028;Benicull de Xúquer;46
+7029;Benifaió;46
+7030;Benifairó de la Valldigna;46
+7031;Benifairó de les Valls;46
+7032;Beniflá;46
+7033;Benigánim;46
+7034;Benimodo;46
+7035;Benimuslem;46
+7036;Beniparrell;46
+7037;Benirredrà;46
+7038;Benisanó;46
+7039;Benissoda;46
+7040;Benisuera;46
+7041;Bétera;46
+7042;Bicorp;46
+7043;Bocairent;46
+7044;Bolbaite;46
+7045;Bonrepòs i Mirambell;46
+7046;Bufali;46
+7047;Bugarra;46
+7048;Buñol;46
+7049;Burjassot;46
+7050;Calles;46
+7051;Camporrobles;46
+7052;Canals;46
+7053;Canet d'En Berenguer;46
+7054;Carcaixent;46
+7055;Càrcer;46
+7056;Carlet;46
+7057;Carrícola;46
+7058;Casas Altas;46
+7059;Casas Bajas;46
+7060;Casinos;46
+7061;Castelló de Rugat;46
+7062;Castellonet de la Conquesta;46
+7063;Castielfabib;46
+7064;Catadau;46
+7065;Catarroja;46
+7066;Caudete de las Fuentes;46
+7067;Cerdà;46
+7068;Chella;46
+7069;Chelva;46
+7070;Chera;46
+7071;Cheste;46
+7072;Chiva;46
+7073;Chulilla;46
+7074;Cofrentes;46
+7075;Corbera;46
+7076;Cortes de Pallás;46
+7077;Cotes;46
+7078;Cullera;46
+7079;Daimús;46
+7080;Domeño;46
+7081;Dos Aguas;46
+7082;Eliana, l';46
+7083;Emperador;46
+7084;Enguera;46
+7085;Ènova, l';46
+7086;Estivella;46
+7087;Estubeny;46
+7088;Faura;46
+7089;Favara;46
+7090;Foios;46
+7091;Font de la Figuera, la;46
+7092;Font d'En Carròs, la;46
+7093;Fontanars dels Alforins;46
+7094;Fortaleny;46
+7095;Fuenterrobles;46
+7096;Gandia;46
+7097;Gátova;46
+7098;Gavarda;46
+7099;Genovés;46
+7100;Gestalgar;46
+7101;Gilet;46
+7102;Godella;46
+7103;Godelleta;46
+7104;Granja de la Costera, la;46
+7105;Guadasequies;46
+7106;Guadassuar;46
+7107;Guardamar de la Safor;46
+7108;Higueruelas;46
+7109;Jalance;46
+7110;Jarafuel;46
+7111;Llanera de Ranes;46
+7112;Llaurí;46
+7113;Llíria;46
+7114;Llocnou de la Corona;46
+7115;Llocnou de Sant Jeroni;46
+7116;Llocnou d'En Fenollet;46
+7117;Llombai;46
+7118;Llosa de Ranes, la;46
+7119;Llutxent;46
+7120;Loriguilla;46
+7121;Losa del Obispo;46
+7122;Macastre;46
+7123;Manises;46
+7124;Manuel;46
+7125;Marines;46
+7126;Massalavés;46
+7127;Massalfassar;46
+7128;Massamagrell;46
+7129;Massanassa;46
+7130;Meliana;46
+7131;Millares;46
+7132;Miramar;46
+7133;Mislata;46
+7134;Mogente/Moixent;46
+7135;Moncada;46
+7136;Montaverner;46
+7137;Montesa;46
+7138;Montitxelvo/Montichelvo;46
+7139;Montroy;46
+7140;Montserrat;46
+7141;Museros;46
+7142;Náquera;46
+7143;Navarrés;46
+7144;Novelé/Novetlè;46
+7145;Oliva;46
+7146;Olleria, l';46
+7147;Olocau;46
+7148;Ontinyent;46
+7149;Otos;46
+7150;Paiporta;46
+7151;Palma de Gandía;46
+7152;Palmera;46
+7153;Palomar, el;46
+7154;Paterna;46
+7155;Pedralba;46
+7156;Petrés;46
+7157;Picanya;46
+7158;Picassent;46
+7159;Piles;46
+7160;Pinet;46
+7161;Pobla de Farnals, la;46
+7162;Pobla de Vallbona, la;46
+7163;Pobla del Duc, la;46
+7164;Pobla Llarga, la;46
+7165;Polinyà de Xúquer;46
+7166;Potríes;46
+7167;Puçol;46
+7168;Puebla de San Miguel;46
+7169;Puig;46
+7170;Quart de les Valls;46
+7171;Quart de Poblet;46
+7172;Quartell;46
+7173;Quatretonda;46
+7174;Quesa;46
+7175;Rafelbuñol/Rafelbunyol;46
+7176;Rafelcofer;46
+7177;Rafelguaraf;46
+7178;Ráfol de Salem;46
+7179;Real;46
+7180;Real de Gandía;46
+7181;Requena;46
+7182;Riba-roja de Túria;46
+7183;Riola;46
+7184;Rocafort;46
+7185;Rotglà i Corberà;46
+7186;Rótova;46
+7187;Rugat;46
+7188;Sagunto/Sagunt;46
+7189;Salem;46
+7190;San Antonio de Benagéber;46
+7191;Sant Joanet;46
+7192;Sedaví;46
+7193;Segart;46
+7194;Sellent;46
+7195;Sempere;46
+7196;Senyera;46
+7197;Serra;46
+7198;Siete Aguas;46
+7199;Silla;46
+7200;Simat de la Valldigna;46
+7201;Sinarcas;46
+7202;Sollana;46
+7203;Sot de Chera;46
+7204;Sueca;46
+7205;Sumacàrcer;46
+7206;Tavernes Blanques;46
+7207;Tavernes de la Valldigna;46
+7208;Teresa de Cofrentes;46
+7209;Terrateig;46
+7210;Titaguas;46
+7211;Torrebaja;46
+7212;Torrella;46
+7214;Torres Torres;46
+7215;Tous;46
+7216;Tuéjar;46
+7217;Turís;46
+7218;Utiel;46
+7219;Valencia;46
+7220;Vallada;46
+7221;Vallanca;46
+7222;Vallés;46
+7223;Venta del Moro;46
+7224;Vilamarxant;46
+7225;Villalonga;46
+7226;Villanueva de Castellón;46
+7227;Villar del Arzobispo;46
+7228;Villargordo del Cabriel;46
+7229;Vinalesa;46
+7230;Xàtiva;46
+7231;Xeraco;46
+7232;Xeresa;46
+7233;Xirivella;46
+7234;Yátova;46
+7235;Yesa, La;46
+7236;Zarra;46
+7237;Adalia;47
+7238;Aguasal;47
+7239;Aguilar de Campos;47
+7240;Alaejos;47
+7241;Alcazarén;47
+7242;Aldea de San Miguel;47
+7243;Aldeamayor de San Martín;47
+7244;Almenara de Adaja;47
+7245;Amusquillo;47
+7246;Arroyo de la Encomienda;47
+7247;Ataquines;47
+7248;Bahabón;47
+7249;Barcial de la Loma;47
+7250;Barruelo del Valle;47
+7251;Becilla de Valderaduey;47
+7252;Benafarces;47
+7253;Bercero;47
+7254;Berceruelo;47
+7255;Berrueces;47
+7256;Bobadilla del Campo;47
+7257;Bocigas;47
+7258;Bocos de Duero;47
+7259;Boecillo;47
+7260;Bolaños de Campos;47
+7261;Brahojos de Medina;47
+7262;Bustillo de Chaves;47
+7263;Cabezón de Pisuerga;47
+7264;Cabezón de Valderaduey;47
+7265;Cabreros del Monte;47
+7266;Campaspero;47
+7268;Camporredondo;47
+7269;Canalejas de Peñafiel;47
+7270;Canillas de Esgueva;47
+7271;Carpio;47
+7272;Casasola de Arión;47
+7273;Castrejón de Trabancos;47
+7274;Castrillo de Duero;47
+7275;Castrillo-Tejeriego;47
+7276;Castrobol;47
+7277;Castrodeza;47
+7278;Castromembibre;47
+7279;Castromonte;47
+7280;Castronuevo de Esgueva;47
+7281;Castronuño;47
+7282;Castroponce;47
+7283;Castroverde de Cerrato;47
+7284;Ceinos de Campos;47
+7285;Cervillego de la Cruz;47
+7286;Cigales;47
+7287;Ciguñuela;47
+7288;Cistérniga;47
+7289;Cogeces de Íscar;47
+7290;Cogeces del Monte;47
+7291;Corcos;47
+7292;Corrales de Duero;47
+7293;Cubillas de Santa Marta;47
+7294;Cuenca de Campos;47
+7295;Curiel de Duero;47
+7296;Encinas de Esgueva;47
+7297;Esguevillas de Esgueva;47
+7298;Fombellida;47
+7299;Fompedraza;47
+7300;Fontihoyuelo;47
+7301;Fresno el Viejo;47
+7302;Fuensaldaña;47
+7303;Fuente el Sol;47
+7304;Fuente-Olmedo;47
+7305;Gallegos de Hornija;47
+7306;Gatón de Campos;47
+7307;Geria;47
+7308;Herrín de Campos;47
+7309;Hornillos de Eresma;47
+7310;Íscar;47
+7311;Laguna de Duero;47
+7312;Langayo;47
+7313;Llano de Olmedo;47
+7314;Lomoviejo;47
+7315;Manzanillo;47
+7316;Marzales;47
+7317;Matapozuelos;47
+7318;Matilla de los Caños;47
+7319;Mayorga;47
+7320;Medina de Rioseco;47
+7321;Medina del Campo;47
+7322;Megeces;47
+7323;Melgar de Abajo;47
+7324;Melgar de Arriba;47
+7325;Mojados;47
+7326;Monasterio de Vega;47
+7327;Montealegre de Campos;47
+7328;Montemayor de Pililla;47
+7329;Moral de la Reina;47
+7330;Moraleja de las Panaderas;47
+7331;Morales de Campos;47
+7332;Mota del Marqués;47
+7333;Mucientes;47
+7334;Mudarra, La;47
+7335;Muriel;47
+7336;Nava del Rey;47
+7337;Nueva Villa de las Torres;47
+7338;Olivares de Duero;47
+7339;Olmedo;47
+7340;Olmos de Esgueva;47
+7341;Olmos de Peñafiel;47
+7342;Palazuelo de Vedija;47
+7343;Parrilla, La;47
+7344;Pedraja de Portillo, La;47
+7345;Pedrajas de San Esteban;47
+7346;Pedrosa del Rey;47
+7347;Peñafiel;47
+7348;Peñaflor de Hornija;47
+7349;Pesquera de Duero;47
+7350;Piña de Esgueva;47
+7351;Piñel de Abajo;47
+7352;Piñel de Arriba;47
+7353;Pollos;47
+7354;Portillo;47
+7355;Pozal de Gallinas;47
+7356;Pozaldez;47
+7357;Pozuelo de la Orden;47
+7358;Puras;47
+7359;Quintanilla de Arriba;47
+7360;Quintanilla de Onésimo;47
+7361;Quintanilla de Trigueros;47
+7362;Quintanilla del Molar;47
+7363;Rábano;47
+7364;Ramiro;47
+7365;Renedo de Esgueva;47
+7366;Roales de Campos;47
+7367;Robladillo;47
+7368;Roturas;47
+7369;Rubí de Bracamonte;47
+7370;Rueda;47
+7371;Saelices de Mayorga;47
+7372;Salvador de Zapardiel;47
+7373;San Cebrián de Mazote;47
+7374;San Llorente;47
+7375;San Martín de Valvení;47
+7376;San Miguel del Arroyo;47
+7377;San Miguel del Pino;47
+7378;San Pablo de la Moraleja;47
+7379;San Pedro de Latarce;47
+7380;San Pelayo;47
+7381;San Román de Hornija;47
+7382;San Salvador;47
+7383;San Vicente del Palacio;47
+7384;Santa Eufemia del Arroyo;47
+7385;Santervás de Campos;47
+7386;Santibáñez de Valcorba;47
+7387;Santovenia de Pisuerga;47
+7388;Sardón de Duero;47
+7389;Seca, La;47
+7390;Serrada;47
+7391;Siete Iglesias de Trabancos;47
+7392;Simancas;47
+7393;Tamariz de Campos;47
+7394;Tiedra;47
+7395;Tordehumos;47
+7396;Tordesillas;47
+7397;Torre de Esgueva;47
+7398;Torre de Peñafiel;47
+7399;Torrecilla de la Abadesa;47
+7400;Torrecilla de la Orden;47
+7401;Torrecilla de la Torre;47
+7402;Torrelobatón;47
+7403;Torrescárcela;47
+7404;Traspinedo;47
+7405;Trigueros del Valle;47
+7406;Tudela de Duero;47
+7407;Unión de Campos, La;47
+7408;Urones de Castroponce;47
+7409;Urueña;47
+7410;Valbuena de Duero;47
+7411;Valdearcos de la Vega;47
+7412;Valdenebro de los Valles;47
+7413;Valdestillas;47
+7414;Valdunquillo;47
+7415;Valladolid;47
+7416;Valoria la Buena;47
+7417;Valverde de Campos;47
+7418;Vega de Ruiponce;47
+7419;Vega de Valdetronco;47
+7420;Velascálvaro;47
+7421;Velilla;47
+7422;Velliza;47
+7423;Ventosa de la Cuesta;47
+7424;Viana de Cega;47
+7425;Villabáñez;47
+7426;Villabaruz de Campos;47
+7427;Villabrágima;47
+7428;Villacarralón;47
+7429;Villacid de Campos;47
+7430;Villaco;47
+7431;Villafrades de Campos;47
+7432;Villafranca de Duero;47
+7433;Villafrechós;47
+7434;Villafuerte;47
+7435;Villagarcía de Campos;47
+7436;Villagómez la Nueva;47
+7437;Villalán de Campos;47
+7438;Villalar de los Comuneros;47
+7439;Villalba de la Loma;47
+7440;Villalba de los Alcores;47
+7441;Villalbarba;47
+7442;Villalón de Campos;47
+7443;Villamuriel de Campos;47
+7444;Villán de Tordesillas;47
+7445;Villanubla;47
+7446;Villanueva de Duero;47
+7447;Villanueva de la Condesa;47
+7448;Villanueva de los Caballeros;47
+7450;Villanueva de San Mancio;47
+7451;Villardefrades;47
+7452;Villarmentero de Esgueva;47
+7453;Villasexmir;47
+7454;Villavaquerín;47
+7455;Villavellid;47
+7456;Villaverde de Medina;47
+7457;Villavicencio de los Caballeros;47
+7458;Viloria;47
+7459;Wamba;47
+7460;Zaratán;47
+7462;Abadiño;48
+7463;Abanto y Ciérvana-Abanto Zierbena;48
+7464;Ajangiz;48
+7465;Alonsotegi;48
+7466;Amorebieta-Etxano;48
+7467;Amoroto;48
+7468;Arakaldo;48
+7469;Arantzazu;48
+7470;Areatza;48
+7471;Arrankudiaga;48
+7472;Arratzu;48
+7473;Arrieta;48
+7474;Arrigorriaga;48
+7475;Artea;48
+7476;Artzentales;48
+7477;Atxondo;48
+7478;Aulesti;48
+7479;Bakio;48
+7480;Balmaseda;48
+7481;Barakaldo;48
+7482;Barrika;48
+7483;Basauri;48
+7484;Bedia;48
+7485;Berango;48
+7486;Bermeo;48
+7487;Berriatua;48
+7488;Berriz;48
+7489;Bilbao;48
+7490;Busturia;48
+7491;Derio;48
+7492;Dima;48
+7493;Durango;48
+7494;Ea;48
+7495;Elantxobe;48
+7496;Elorrio;48
+7497;Erandio;48
+7498;Ereño;48
+7499;Ermua;48
+7500;Errigoiti;48
+7501;Etxebarri;48
+7502;Etxebarria;48
+7503;Forua;48
+7504;Fruiz;48
+7505;Galdakao;48
+7506;Galdames;48
+7507;Gamiz-Fika;48
+7508;Garai;48
+7509;Gatika;48
+7510;Gautegiz Arteaga;48
+7511;Gernika-Lumo;48
+7512;Getxo;48
+7513;Gizaburuaga;48
+7514;Gordexola;48
+7515;Gorliz;48
+7516;Güeñes;48
+7517;Ibarrangelu;48
+7518;Igorre;48
+7519;Ispaster;48
+7520;Iurreta;48
+7521;Izurtza;48
+7522;Karrantza Harana/Valle de Carranza;48
+7523;Kortezubi;48
+7524;Lanestosa;48
+7525;Larrabetzu;48
+7526;Laukiz;48
+7527;Leioa;48
+7528;Lekeitio;48
+7529;Lemoa;48
+7530;Lemoiz;48
+7531;Lezama;48
+7532;Loiu;48
+7533;Mallabia;48
+7534;Mañaria;48
+7535;Markina-Xemein;48
+7536;Maruri-Jatabe;48
+7537;Mendata;48
+7538;Mendexa;48
+7539;Meñaka;48
+7540;Morga;48
+7541;Mundaka;48
+7542;Mungia;48
+7543;Munitibar-Arbatzegi Gerrikaitz;48
+7544;Murueta;48
+7545;Muskiz;48
+7546;Muxika;48
+7547;Nabarniz;48
+7548;Ondarroa;48
+7549;Orozko;48
+7550;Ortuella;48
+7551;Otxandio;48
+7552;Plentzia;48
+7553;Portugalete;48
+7554;Santurtzi;48
+7555;Sestao;48
+7556;Sondika;48
+7557;Sopelana;48
+7558;Sopuerta;48
+7559;Sukarrieta;48
+7560;Trucios-Turtzioz;48
+7561;Ubide;48
+7562;Ugao-Miraballes;48
+7563;Urduliz;48
+7564;Urduña/Orduña;48
+7565;Valle de Trápaga-Trapagaran;48
+7566;Zaldibar;48
+7567;Zalla;48
+7568;Zamudio;48
+7569;Zaratamo;48
+7570;Zeanuri;48
+7571;Zeberio;48
+7572;Zierbena;48
+7573;Ziortza-Bolibar;48
+7574;Abezames;49
+7575;Alcañices;49
+7576;Alcubilla de Nogales;49
+7577;Alfaraz de Sayago;49
+7578;Algodre;49
+7579;Almaraz de Duero;49
+7580;Almeida de Sayago;49
+7581;Andavías;49
+7582;Arcenillas;49
+7583;Arcos de la Polvorosa;49
+7584;Argañín;49
+7585;Argujillo;49
+7586;Arquillinos;49
+7587;Arrabalde;49
+7588;Aspariegos;49
+7589;Asturianos;49
+7590;Ayoó de Vidriales;49
+7591;Barcial del Barco;49
+7592;Belver de los Montes;49
+7593;Benavente;49
+7594;Benegiles;49
+7595;Bermillo de Sayago;49
+7596;Bóveda de Toro, La;49
+7597;Bretó;49
+7598;Bretocino;49
+7599;Brime de Sog;49
+7600;Brime de Urz;49
+7601;Burganes de Valverde;49
+7602;Bustillo del Oro;49
+7603;Cabañas de Sayago;49
+7604;Calzadilla de Tera;49
+7605;Camarzana de Tera;49
+7606;Cañizal;49
+7607;Cañizo;49
+7608;Carbajales de Alba;49
+7609;Carbellino;49
+7610;Casaseca de Campeán;49
+7611;Casaseca de las Chanas;49
+7612;Castrillo de la Guareña;49
+7613;Castrogonzalo;49
+7614;Castronuevo;49
+7615;Castroverde de Campos;49
+7616;Cazurra;49
+7617;Cerecinos de Campos;49
+7618;Cerecinos del Carrizal;49
+7619;Cernadilla;49
+7620;Cobreros;49
+7621;Coomonte;49
+7622;Coreses;49
+7623;Corrales del Vino;49
+7624;Cotanes del Monte;49
+7625;Cubillos;49
+7626;Cubo de Benavente;49
+7627;Cubo de Tierra del Vino, El;49
+7628;Cuelgamures;49
+7629;Entrala;49
+7630;Espadañedo;49
+7631;Faramontanos de Tábara;49
+7632;Fariza;49
+7633;Fermoselle;49
+7634;Ferreras de Abajo;49
+7635;Ferreras de Arriba;49
+7636;Ferreruela;49
+7637;Figueruela de Arriba;49
+7639;Fresno de la Polvorosa;49
+7640;Fresno de la Ribera;49
+7641;Fresno de Sayago;49
+7642;Friera de Valverde;49
+7643;Fuente Encalada;49
+7644;Fuentelapeña;49
+7645;Fuentes de Ropel;49
+7646;Fuentesaúco;49
+7647;Fuentesecas;49
+7648;Fuentespreadas;49
+7649;Galende;49
+7650;Gallegos del Pan;49
+7651;Gallegos del Río;49
+7652;Gamones;49
+7653;Gema;49
+7654;Granja de Moreruela;49
+7655;Granucillo;49
+7656;Guarrate;49
+7657;Hermisende;49
+7658;Hiniesta, La;49
+7659;Jambrina;49
+7660;Justel;49
+7661;Losacino;49
+7662;Losacio;49
+7663;Lubián;49
+7664;Luelmo;49
+7665;Maderal, El;49
+7666;Madridanos;49
+7667;Mahide;49
+7668;Maire de Castroponce;49
+7669;Malva;49
+7670;Manganeses de la Lampreana;49
+7671;Manganeses de la Polvorosa;49
+7672;Manzanal de Arriba;49
+7673;Manzanal de los Infantes;49
+7674;Manzanal del Barco;49
+7675;Matilla de Arzón;49
+7676;Matilla la Seca;49
+7677;Mayalde;49
+7678;Melgar de Tera;49
+7679;Micereces de Tera;49
+7680;Milles de la Polvorosa;49
+7681;Molacillos;49
+7682;Molezuelas de la Carballeda;49
+7683;Mombuey;49
+7684;Monfarracinos;49
+7685;Montamarta;49
+7686;Moral de Sayago;49
+7687;Moraleja de Sayago;49
+7688;Moraleja del Vino;49
+7689;Morales de Rey;49
+7690;Morales de Toro;49
+7691;Morales de Valverde;49
+7692;Morales del Vino;49
+7693;Moralina;49
+7694;Moreruela de los Infanzones;49
+7695;Moreruela de Tábara;49
+7696;Muelas de los Caballeros;49
+7697;Muelas del Pan;49
+7698;Muga de Sayago;49
+7699;Navianos de Valverde;49
+7700;Olmillos de Castro;49
+7701;Otero de Bodas;49
+7702;Pajares de la Lampreana;49
+7703;Palacios de Sanabria;49
+7704;Palacios del Pan;49
+7705;Pedralba de la Pradería;49
+7706;Pego, El;49
+7707;Peleagonzalo;49
+7708;Peleas de Abajo;49
+7709;Peñausende;49
+7710;Peque;49
+7711;Perdigón, El;49
+7712;Pereruela;49
+7713;Perilla de Castro;49
+7714;Pías;49
+7715;Piedrahita de Castro;49
+7716;Pinilla de Toro;49
+7717;Pino del Oro;49
+7718;Piñero, El;49
+7719;Pobladura de Valderaduey;49
+7720;Pobladura del Valle;49
+7721;Porto;49
+7722;Pozoantiguo;49
+7723;Pozuelo de Tábara;49
+7724;Prado;49
+7725;Puebla de Sanabria;49
+7726;Pueblica de Valverde;49
+7727;Quintanilla de Urz;49
+7728;Quintanilla del Monte;49
+7729;Quintanilla del Olmo;49
+7730;Quiruelas de Vidriales;49
+7731;Rabanales;49
+7732;Rábano de Aliste;49
+7733;Requejo;49
+7734;Revellinos;49
+7735;Riofrío de Aliste;49
+7736;Rionegro del Puente;49
+7737;Roales;49
+7738;Robleda-Cervantes;49
+7739;Roelos de Sayago;49
+7740;Rosinos de la Requejada;49
+7741;Salce;49
+7742;Samir de los Caños;49
+7743;San Agustín del Pozo;49
+7744;San Cebrián de Castro;49
+7745;San Cristóbal de Entreviñas;49
+7746;San Esteban del Molar;49
+7747;San Justo;49
+7748;San Martín de Valderaduey;49
+7749;San Miguel de la Ribera;49
+7750;San Miguel del Valle;49
+7751;San Pedro de Ceque;49
+7752;San Pedro de la Nave-Almendra;49
+7753;San Vicente de la Cabeza;49
+7754;San Vitero;49
+7755;Santa Clara de Avedillo;49
+7756;Santa Colomba de las Monjas;49
+7757;Santa Cristina de la Polvorosa;49
+7758;Santa Croya de Tera;49
+7759;Santa Eufemia del Barco;49
+7760;Santa María de la Vega;49
+7761;Santa María de Valverde;49
+7762;Santibáñez de Tera;49
+7763;Santibáñez de Vidriales;49
+7764;Santovenia;49
+7765;Sanzoles;49
+7766;Tábara;49
+7767;Tapioles;49
+7768;Toro;49
+7769;Torre del Valle, La;49
+7770;Torregamones;49
+7771;Torres del Carrizal;49
+7772;Trabazos;49
+7773;Trefacio;49
+7774;Uña de Quintana;49
+7775;Vadillo de la Guareña;49
+7776;Valcabado;49
+7777;Valdefinjas;49
+7778;Valdescorriel;49
+7779;Vallesa de la Guareña;49
+7780;Vega de Tera;49
+7781;Vega de Villalobos;49
+7782;Vegalatrave;49
+7783;Venialbo;49
+7784;Vezdemarbán;49
+7785;Vidayanes;49
+7786;Videmala;49
+7787;Villabrázaro;49
+7788;Villabuena del Puente;49
+7789;Villadepera;49
+7791;Villafáfila;49
+7792;Villaferrueña;49
+7793;Villageriz;49
+7794;Villalazán;49
+7795;Villalba de la Lampreana;49
+7796;Villalcampo;49
+7797;Villalobos;49
+7798;Villalonso;49
+7799;Villalpando;49
+7800;Villalube;49
+7801;Villamayor de Campos;49
+7802;Villamor de los Escuderos;49
+7803;Villanázar;49
+7804;Villanueva de Azoague;49
+7805;Villanueva de Campeán;49
+7806;Villanueva de las Peras;49
+7807;Villanueva del Campo;49
+7808;Villar de Fallaves;49
+7809;Villar del Buey;49
+7810;Villaralbo;49
+7811;Villardeciervos;49
+7812;Villardiegua de la Ribera;49
+7813;Villárdiga;49
+7814;Villardondiego;49
+7815;Villarrín de Campos;49
+7816;Villaseco del Pan;49
+7817;Villavendimio;49
+7818;Villaveza de Valverde;49
+7819;Villaveza del Agua;49
+7820;Viñas;49
+7821;Zamora;49
+7822;Abanto;50
+7823;Acered;50
+7824;Agón;50
+7825;Aguarón;50
+7826;Aguilón;50
+7827;Ainzón;50
+7828;Aladrén;50
+7829;Alagón;50
+7830;Alarba;50
+7831;Alberite de San Juan;50
+7832;Albeta;50
+7833;Alborge;50
+7834;Alcalá de Ebro;50
+7835;Alcalá de Moncayo;50
+7836;Alconchel de Ariza;50
+7837;Aldehuela de Liestos;50
+7838;Alfajarín;50
+7839;Alfamén;50
+7840;Alforque;50
+7841;Alhama de Aragón;50
+7842;Almochuel;50
+7843;Almolda, La;50
+7844;Almonacid de la Cuba;50
+7845;Almonacid de la Sierra;50
+7846;Almunia de Doña Godina, La;50
+7847;Alpartir;50
+7848;Ambel;50
+7849;Anento;50
+7850;Aniñón;50
+7851;Añón de Moncayo;50
+7852;Aranda de Moncayo;50
+7853;Arándiga;50
+7854;Ardisa;50
+7855;Ariza;50
+7856;Artieda;50
+7857;Asín;50
+7858;Atea;50
+7859;Ateca;50
+7860;Azuara;50
+7861;Badules;50
+7862;Bagüés;50
+7863;Balconchán;50
+7864;Bárboles;50
+7865;Bardallur;50
+7866;Belchite;50
+7867;Belmonte de Gracián;50
+7868;Berdejo;50
+7869;Berrueco;50
+7870;Biel;50
+7871;Bijuesca;50
+7872;Biota;50
+7873;Bisimbre;50
+7874;Boquiñeni;50
+7875;Bordalba;50
+7876;Borja;50
+7877;Botorrita;50
+7878;Brea de Aragón;50
+7879;Bubierca;50
+7880;Bujaraloz;50
+7881;Bulbuente;50
+7882;Bureta;50
+7883;Burgo de Ebro, El;50
+7884;Buste, El;50
+7885;Cabañas de Ebro;50
+7886;Cabolafuente;50
+7887;Cadrete;50
+7888;Calatayud;50
+7889;Calatorao;50
+7890;Calcena;50
+7891;Calmarza;50
+7892;Campillo de Aragón;50
+7893;Carenas;50
+7894;Cariñena;50
+7895;Caspe;50
+7896;Castejón de Alarba;50
+7897;Castejón de las Armas;50
+7898;Castejón de Valdejasa;50
+7899;Castiliscar;50
+7900;Cervera de la Cañada;50
+7901;Cerveruela;50
+7902;Cetina;50
+7903;Chiprana;50
+7904;Chodes;50
+7905;Cimballa;50
+7906;Cinco Olivas;50
+7907;Clarés de Ribota;50
+7908;Codo;50
+7909;Codos;50
+7910;Contamina;50
+7911;Cosuenda;50
+7912;Cuarte de Huerva;50
+7913;Cubel;50
+7914;Cuerlas, Las;50
+7915;Daroca;50
+7916;Ejea de los Caballeros;50
+7917;Embid de Ariza;50
+7918;Encinacorba;50
+7919;Épila;50
+7920;Erla;50
+7921;Escatrón;50
+7922;Fabara;50
+7923;Farlete;50
+7924;Fayón;50
+7925;Fayos, Los;50
+7926;Figueruelas;50
+7927;Fombuena;50
+7928;Frago, El;50
+7929;Frasno, El;50
+7930;Fréscano;50
+7931;Fuendejalón;50
+7932;Fuendetodos;50
+7933;Fuentes de Ebro;50
+7934;Fuentes de Jiloca;50
+7935;Gallocanta;50
+7936;Gallur;50
+7937;Gelsa;50
+7938;Godojos;50
+7939;Gotor;50
+7940;Grisel;50
+7941;Grisén;50
+7942;Herrera de los Navarros;50
+7943;Ibdes;50
+7944;Illueca;50
+7945;Isuerre;50
+7946;Jaraba;50
+7947;Jarque;50
+7948;Jaulín;50
+7949;Joyosa, La;50
+7950;Lagata;50
+7951;Langa del Castillo;50
+7952;Layana;50
+7953;Lécera;50
+7954;Lechón;50
+7955;Leciñena;50
+7956;Letux;50
+7957;Litago;50
+7958;Lituénigo;50
+7959;Lobera de Onsella;50
+7960;Longares;50
+7961;Longás;50
+7962;Lucena de Jalón;50
+7963;Luceni;50
+7964;Luesia;50
+7965;Luesma;50
+7966;Lumpiaque;50
+7967;Luna;50
+7968;Maella;50
+7969;Magallón;50
+7970;Mainar;50
+7971;Malanquilla;50
+7972;Maleján;50
+7973;Mallén;50
+7974;Malón;50
+7975;Maluenda;50
+7976;Manchones;50
+7977;Mara;50
+7978;María de Huerva;50
+7979;Marracos;50
+7980;Mediana de Aragón;50
+7981;Mequinenza;50
+7982;Mesones de Isuela;50
+7983;Mezalocha;50
+7984;Mianos;50
+7985;Miedes de Aragón;50
+7986;Monegrillo;50
+7987;Moneva;50
+7988;Monreal de Ariza;50
+7989;Monterde;50
+7990;Montón;50
+7991;Morata de Jalón;50
+7992;Morata de Jiloca;50
+7993;Morés;50
+7994;Moros;50
+7995;Moyuela;50
+7996;Mozota;50
+7997;Muel;50
+7998;Muela, La;50
+7999;Munébrega;50
+8000;Murero;50
+8001;Murillo de Gállego;50
+8002;Navardún;50
+8003;Nigüella;50
+8004;Nombrevilla;50
+8005;Nonaspe;50
+8006;Novallas;50
+8007;Novillas;50
+8008;Nuévalos;50
+8009;Nuez de Ebro;50
+8010;Olvés;50
+8011;Orcajo;50
+8012;Orera;50
+8013;Orés;50
+8014;Oseja;50
+8015;Osera de Ebro;50
+8016;Paniza;50
+8017;Paracuellos de Jiloca;50
+8018;Paracuellos de la Ribera;50
+8019;Pastriz;50
+8020;Pedrola;50
+8021;Pedrosas, Las;50
+8022;Perdiguera;50
+8023;Piedratajada;50
+8024;Pina de Ebro;50
+8025;Pinseque;50
+8026;Pintanos, Los;50
+8027;Plasencia de Jalón;50
+8028;Pleitas;50
+8029;Plenas;50
+8030;Pomer;50
+8031;Pozuel de Ariza;50
+8032;Pozuelo de Aragón;50
+8033;Pradilla de Ebro;50
+8034;Puebla de Albortón;50
+8035;Puebla de Alfindén, La;50
+8036;Puendeluna;50
+8037;Purujosa;50
+8038;Quinto;50
+8039;Remolinos;50
+8040;Retascón;50
+8041;Ricla;50
+8042;Romanos;50
+8043;Rueda de Jalón;50
+8044;Ruesca;50
+8045;Sabiñán;50
+8046;Sádaba;50
+8047;Salillas de Jalón;50
+8048;Salvatierra de Esca;50
+8049;Samper del Salz;50
+8050;San Martín de la Virgen de Moncayo;50
+8051;San Mateo de Gállego;50
+8052;Santa Cruz de Grío;50
+8053;Santa Cruz de Moncayo;50
+8054;Santa Eulalia de Gállego;50
+8055;Santed;50
+8056;Sástago;50
+8057;Sediles;50
+8058;Sestrica;50
+8059;Sierra de Luna;50
+8060;Sigüés;50
+8061;Sisamón;50
+8062;Sobradiel;50
+8063;Sos del Rey Católico;50
+8064;Tabuenca;50
+8065;Talamantes;50
+8066;Tarazona;50
+8067;Tauste;50
+8068;Terrer;50
+8069;Tierga;50
+8070;Tobed;50
+8071;Torralba de los Frailes;50
+8072;Torralba de Ribota;50
+8073;Torralbilla;50
+8074;Torrehermosa;50
+8075;Torrelapaja;50
+8076;Torrellas;50
+8077;Torres de Berrellén;50
+8078;Torrijo de la Cañada;50
+8079;Tosos;50
+8080;Trasmoz;50
+8081;Trasobares;50
+8082;Uncastillo;50
+8083;Undués de Lerda;50
+8084;Urrea de Jalón;50
+8085;Urriés;50
+8086;Used;50
+8087;Utebo;50
+8088;Val de San Martín;50
+8089;Valdehorna;50
+8090;Valmadrid;50
+8091;Valpalmas;50
+8092;Valtorres;50
+8093;Velilla de Ebro;50
+8094;Velilla de Jiloca;50
+8095;Vera de Moncayo;50
+8096;Vierlas;50
+8097;Villadoz;50
+8098;Villafeliche;50
+8099;Villafranca de Ebro;50
+8100;Villalba de Perejil;50
+8101;Villalengua;50
+8102;Villamayor de Gállego;50
+8103;Villanueva de Gállego;50
+8104;Villanueva de Huerva;50
+8105;Villanueva de Jiloca;50
+8106;Villar de los Navarros;50
+8107;Villarreal de Huerva;50
+8108;Villarroya de la Sierra;50
+8109;Villarroya del Campo;50
+8110;Vilueña, La;50
+8111;Vistabella;50
+8112;Zaida, La;50
+8113;Zaragoza;50
+8114;Zuera;50
+8115;Ceuta;51
+8116;Melilla;52
